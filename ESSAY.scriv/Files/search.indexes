@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3">
+            <Title>This is a test.</Title>
+            <Text>This is a test.</Text>
+        </Document>
+        <Document ID="0">
+            <Title>ESSAY</Title>
+        </Document>
+        <Document ID="6">
+            <Title>This tests bold.</Title>
+            <Text>This tests bold. And italic.
+What about blockquotes?
+The final format of this essay is still up in the air.</Text>
+        </Document>
+        <Document ID="4">
+            <Title>I found Scrivener very useful for composing my undergrad</Title>
+            <Text>I found Scrivener very useful for composing my undergrad thesis. But I don’t like Scrivener’s version control at all. And I think I’d enjoy seeing all of Github’s statistics on my progress.</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Yikes, the images are definitely gonna have to hang</Title>
+            <Text>Yikes, the images are definitely gonna have to hang out separately.</Text>
+        </Document>
+        <Document ID="5">
+            <Title>So I’m going to try writing in Scrivener, and exporting</Title>
+            <Text>So I’m going to try writing in Scrivener, and exporting to a html file whenever I feel I’ve made enough progress that I want to commit.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
