@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="18">
+            <Title>Close Readings</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Gendered Gothics</Title>
+            <Text>As the first step toward a more comprehensive perspective, therefore, I have begun by surveying the 208 novels described in detail in Ann Tracy's The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs, treating these texts as an approximate model of the Gothic in this period. For each 'motif' identified by Tracy as appearing in a large enough number of works to be worths examining in further detail, I have calculated how often it has been deployed by men versus women. The question is thus framed, not as, "what do men usually write about?" but rather, "what motifs, if any, serve as useful predictors for an author's gender?"-- a framing which does not attempt to define pre-determined categories, but rather places its emphasis on potential points of difference, and which therefore makes its first task proving the existence of that difference.
+At first glance, the gendered differences are not, in fact, particularly striking. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.
+Moreover, the motifs characterized by a strong contrast tend to appear in relatively few works, making up a correspondingly minor part of the average reader's experience of the genre. Of the five most-represented motifs-- fainting, confinement, abduction, storm, and suicide mentions-- the suicide mentions show the greatest contrast, with a ratio of 61% male authors to 39% female.
+On the whole, then, male and female writers seem to have more commonalities than they do differences.</Text>
+        </Document>
+        <Document ID="19">
+            <Title>Appendices</Title>
+        </Document>
+        <Document ID="11">
+            <Title>Male and Female Characters</Title>
+            <Text>For the most part, my sample suggests that men write more about men, though without corresponding evidence that women write more about women. Not all of the individual motifs involve a particularly noteworthy contrast, but in general, monasteries are much more often discussed by men, and convents only weakly more by women...
+...with a similar trend in clergymen versus abbesses and nuns.
+However, when it comes to libertines versus loose women, each is more often written about by authors of the opposite gender.
+Overall, then, it seems that women are reluctant to describe gender-segregated societies and spaces involving men, but feel the opposite impulse when it comes to disapproving of men's sexual activity.
+Men are also much more interested in their own gender than women when we look at the gendered subjects of activities like abduction and fainting. Both are generally a female affair, and female abductees and fainters are written about by both men and women. However, the minority of male abductees and fainters have been written about more often by men.
+This, then, is our first surprise: rather than finding each gender writing mostly about itself, women appear to be equal-opportunity subject matter, whereas men are mostly of interest to men.</Text>
+        </Document>
+        <Document ID="0">
+            <Title>ESSAY</Title>
+        </Document>
+        <Document ID="12">
+            <Title>The Female Gothic</Title>
+            <Text>When we examine those motifs which do not themselves encode a gender, we discover another surprise: of the 31 motifs that involve a notable disparity, the only two in which women outnumber men are libertines and miniature portraits. The remaining 29 are all examples of motifs used primarily by men.
+If we go looking for the Female Gothic plot-- in female vulnerability, or in the restoration of broken family ties, for example-- the results are underwhelming.
+And if we turn our attention to those images-- like blood, caves, and subterranean passages-- which have been simplistically aligned with the feminine, we find that, in the larger body of Gothic works, these have much more often appeared in works by men.
+Caves and subterranean passages have perhaps been the most misperceived. Although Ann Radcliffe, critically credited with defining and refining the tropes of the female Gothic, makes heavy use of both motifs, she is one of very few female authors to do so. When her three caves and six subterranean passages are excluded from the sample, both motifs become even more decidedly male.
+Perhaps these men are, like Henry Walpole in The Castle of Otranto, presenting underground spaces as avenues of flight or sanctuary for distressed women; even if so, the association is no longer likely to be, as early feminist critic Juliann Fleenor characterized the Female Gothic, an expression of an unnameable conflict with patriarchy (28). It is more likely, instead, that these caverns have appeared as the secret meeting-places of conspirators, as part of a German-influenced tradition of tales about criminal underworlds and evil Illuminati.</Text>
+        </Document>
+        <Document ID="20">
+            <Title>Motifs</Title>
+        </Document>
+        <Document ID="13">
+            <Title>The Male Gothic</Title>
+            <Text>A male interest in crime and conspiracy is also suggested by the predominantly-male authorship of banditti and piracy, and Inquisition and secrecy.
+However, even more striking are those motifs which suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects.
+Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.
+The masculine impulse to 'go farther,' to replace coy allusions with unflinching enactments, is most evident in my sample novels' treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration-- nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms "actual" incest, only "incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion)." This kind of narrative discretion is employed roughly equally by both male and female authors, and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented-- and all six are by men.</Text>
+        </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
             <Text>This is a test.</Text>
         </Document>
-        <Document ID="0">
-            <Title>ESSAY</Title>
+        <Document ID="21">
+            <Title>Plot Summaries</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Conclusions</Title>
+            <Text>To force one's readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Lewis as the quintessential horror-Gothic writer.
+However, it does not follow that the terror-Gothic must therefore be the province of women. Ann Radcliffe may have founded the terror-Gothic school, but women and men appear to have followed in her footsteps equally. Moreover, the existence of two opposing schools does not prove the equal footing of those schools; setting aside questions of gender to look at the relative prominence of various motifs, readers are vastly more likely to encounter the temporary terrors of abduction and confinement than the more permanent horrors of bones and corpses. Even death, which could reasonably appear in either school of novel despite its horrifying potential, is unexpectedly scarce compared to the widespread fainting.
+In the wider context of the Gothic, then, it seems that the terror-Gothic and the Female Gothic are, in fact, simply the Gothic-- with the male horror-Gothic as the outlier subgenre in which an author's writing has been shaped by his gender.
+These results remain preliminary, at least until a sample can be assembled which involves more texts at fewer levels of mediation. However, they serve as a useful reminder that not all contrasts are necessarily perfect binaries. Research at a large scale provides a unique opportunity to compare the critical perception of a body of work to contemporary readers' experience of that same body; here, it has focused only on one specific way of seeking gendered imagery, but future projects can easily expand to investigate plot structure or chronology, and in a few years perhaps even style. And in the mean time, those scholars of the Gothic who study deeply only a few texts at a time can discuss their observations regarding potential expressions of a male viewpoint without needing to seek its exact analogue among female writers.</Text>
+        </Document>
+        <Document ID="4">
+            <Title>I found Scrivener very useful for composing my undergrad</Title>
+            <Text>I found Scrivener very useful for composing my undergrad thesis. But I don’t like Scrivener’s version control at all. And I think I’d enjoy seeing all of Github’s statistics on my progress.</Text>
+        </Document>
+        <Document ID="22">
+            <Title>Stray Thoughts</Title>
+        </Document>
+        <Document ID="15">
+            <Title>Introduction</Title>
+        </Document>
+        <Document ID="5">
+            <Title>So I’m going to try writing in Scrivener, and exporting</Title>
+            <Text>So I’m going to try writing in Scrivener, and exporting to a html file whenever I feel I’ve made enough progress that I want to commit.</Text>
         </Document>
         <Document ID="6">
             <Title>This tests bold.</Title>
@@ -14,17 +78,18 @@
 What about blockquotes?
 The final format of this essay is still up in the air.</Text>
         </Document>
-        <Document ID="4">
-            <Title>I found Scrivener very useful for composing my undergrad</Title>
-            <Text>I found Scrivener very useful for composing my undergrad thesis. But I don’t like Scrivener’s version control at all. And I think I’d enjoy seeing all of Github’s statistics on my progress.</Text>
+        <Document ID="16">
+            <Title>Plot Summaries</Title>
         </Document>
         <Document ID="7">
             <Title>Yikes, the images are definitely gonna have to hang</Title>
             <Text>Yikes, the images are definitely gonna have to hang out separately.</Text>
         </Document>
-        <Document ID="5">
-            <Title>So I’m going to try writing in Scrivener, and exporting</Title>
-            <Text>So I’m going to try writing in Scrivener, and exporting to a html file whenever I feel I’ve made enough progress that I want to commit.</Text>
+        <Document ID="17">
+            <Title>Conclusions</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Motifs</Title>
         </Document>
     </Documents>
 </SearchIndexes>

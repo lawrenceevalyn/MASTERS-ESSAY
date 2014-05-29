@@ -5,8 +5,179 @@
             <Title>ESSAY</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Book (Blue Book).png</IconFileName>
             </MetaData>
             <Children>
+                <BinderItem ID="15" Type="Text" Created="2014-05-29 16:25:49 -0700" Modified="2014-05-29 16:25:53 -0700">
+                    <Title>Introduction</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" Type="Text" Created="2014-05-29 16:20:55 -0700" Modified="2014-05-29 16:21:23 -0700">
+                    <Title>Motifs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="10" Type="Text" Created="2014-05-29 16:21:26 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>Gendered Gothics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>859,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="11" Type="Text" Created="2014-05-29 16:21:30 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>Male and Female Characters</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1068,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" Type="Text" Created="2014-05-29 16:21:30 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>The Female Gothic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" Type="Text" Created="2014-05-29 16:21:31 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>The Male Gothic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>147,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="14" Type="Text" Created="2014-05-29 16:24:40 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>Conclusions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>421,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="16" Type="Text" Created="2014-05-29 16:25:56 -0700" Modified="2014-05-29 16:26:00 -0700">
+                    <Title>Plot Summaries</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="18" Type="Text" Created="2014-05-29 16:26:08 -0700" Modified="2014-05-29 16:26:14 -0700">
+                    <Title>Close Readings</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="17" Type="Text" Created="2014-05-29 16:26:03 -0700" Modified="2014-05-29 16:26:07 -0700">
+                    <Title>Conclusions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="19" Type="Text" Created="2014-05-29 16:28:08 -0700" Modified="2014-05-29 16:28:21 -0700">
+            <Title>Appendices</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Books.tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="20" Type="Text" Created="2014-05-29 16:30:50 -0700" Modified="2014-05-29 16:31:01 -0700">
+                    <Title>Motifs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" Type="Text" Created="2014-05-29 16:31:01 -0700" Modified="2014-05-29 16:31:04 -0700">
+                    <Title>Plot Summaries</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="22" Type="Text" Created="2014-05-29 16:31:24 -0700" Modified="2014-05-29 16:31:27 -0700">
+            <Title>Stray Thoughts</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Pile of Paper.tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="8" Type="Text" Created="2014-05-26 13:11:21 -0700" Modified="2014-05-26 13:11:21 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="3" Type="Text" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:18:21 -0700">
                     <Title>This is a test.</Title>
                     <MetaData>
@@ -64,30 +235,6 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" Type="ResearchFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
-            <Title>Research</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-        </BinderItem>
-        <BinderItem ID="2" Type="TrashFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
-            <Title>Trash</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <Children>
-                <BinderItem ID="8" Type="Text" Created="2014-05-26 13:11:21 -0700" Modified="2014-05-26 13:11:21 -0700">
-                    <Title>Untitled</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
     </Binder>
     <Collections>
         <Collection Type="Binder" ID="89B0A057-456F-4F97-8852-0514024422B9" Color="0.784513 0.815244 0.852257">
@@ -124,9 +271,9 @@
         <FirstName></FirstName>
     </ProjectProperties>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-05-26 13:03:51 -0700" IgnoreDeadline="Yes">10000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="93" Characters="513" Date="2014-05-26 13:21:17 -0700"></PreviousSession>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-11-30 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">54</SessionTarget>
+        <PreviousSession Words="1329" Characters="8175" Date="2014-05-29 16:37:03 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
