@@ -46,6 +46,8 @@ Having a network with every document connected to every other document is scarce
 * Gives examples of topic models from networks, and networks from topic models.
 
 ## Works To-Read?
+[Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)
+
 [tutorial on how to create networks using MALLET and Gephi quickly and easily.](http://electricarchaeology.ca/2011/11/11/topic-modeling-with-the-java-gui-gephi/) - Prepare your corpus of text, get topics with MALLET, prune the CSV, make a network, visualize it!
 
 [Getting Started with Mallet and Topic Modeling](http://electricarchaeology.ca/2011/08/30/getting-started-with-mallet-and-topic-modeling/) Links to sequel below
@@ -53,6 +55,8 @@ Having a network with every document connected to every other document is scarce
 [EXTREMELY specific walkthrough of using mallet](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
 
 [a great blog post about why humanists should avoid the SVD step of using LSA](http://tedunderwood.com/2011/10/16/lsa-is-a-marvellous-tool-but-humanists-may-no-use-it-the-way-computer-scientists-do/)
+
+explain how the extensibility of LDA makes it quite a different kind of beast (relative to LSA): Learning author-topic models from text corpora. M Rosen-Zvi, C Chemudugunta, T Griffiths, P Smyth, M Steyvers, ACM Transactions on Information Systems (TOIS), ACM, 2010. http://www.datalab.uci.edu/papers/AT_tois.pdf
 
 ## Potential Resources
 [David Mimno's Topic Modeling Bibliography](http://mimno.infosci.cornell.edu/topics.html)
