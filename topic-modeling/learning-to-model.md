@@ -49,11 +49,17 @@ Find new ways to match the documents to the categories, create new text classifi
 
 ## Vocabulary
 * tf-idf : a way to weight the words. Term Frequency: how many times the word appears. Inverse Document Frequency: to prevent top word from being "the," changes the previously-created term-document matrix to weight terms based on how rare they are in the overall set of documents.
-* LSA
+* log-entropy weighting: an alternative to idf?
+* LSA: vector-space model algorithm for merging columns of a term-document matrix. Uses cosine similarity?
 * LDA
 * MDS (Multidimensional Scaling)
 * Type: word (in CS)
 * Token: ocurrance of a word (in CS)
+
+## What Am I Trying To Do Here?
+I could, essentially, try to make my own new index of motifs, and then do all the same stuff to those motifs as I did to the originals.
+
+I could also use the topics as a stepping-stone to try to map networks.
 
 ## Works Read
 <!--List in order read; annotate -->
@@ -61,13 +67,29 @@ Find new ways to match the documents to the categories, create new text classifi
 * Explains LSA and LDA.
 * Gives examples of topic models from networks, and networks from topic models.
 
-[Mom email 1](./reference/topic-modeling-reference/mom01.txt)
+[Mom email 1](./reference/topic-modeling-reference/mom01.txt).
 * v basic topic modeling explanation (familiar)
 * v basic breakdown of areas in which CS researchers work
 
-[Mom email 2](./reference/topic-modeling-reference/mom02.txt)
+[Mom email 2](./reference/topic-modeling-reference/mom02.txt).
 * explains tf-idf and LSA/LSI in more detail.
 * attachment: powerpoint on TresNet (irrelevant)
+
+[LSA is a marvellous tool, but literary historians may want to customize it for their own discipline.](http://tedunderwood.com/2011/10/16/lsa-is-a-marvellous-tool-but-humanists-may-no-use-it-the-way-computer-scientists-do/) by Ted Underwood.
+* Value of LSA is not its ability to identify synonyms (which is what information retrieval (i.e., mom) uses it for)
+* avoid SVD because it compresses the matrix too much/in the wrong way, to find transitive kinds of association. --> highlights semantic relationships at the cost of slightly blurring other kinds of association
+* if you’re interested in “topics” that are strictly semantic, you might want to use an algorithm that reduces dimensionality with SVD. If you’re interested in discourses, sociolects, genres, or types of diction, you might use LSA without dimensionality reduction.
+* Ways of weighting:
+    - For the normal LSA algorithm that uses dimensionality reduction, the consensus is that “log-entropy weighting” works well. You take the log of each frequency, and multiply the whole term vector by the entropy of the vector. I have found that this also works well for humanistic purposes.
+    - For LSA without dimensionality reduction, I would recommend weighting cells by subtracting the expected frequency from the observed frequency. This formula “evens the playing field” between common and uncommon words — and it does so, vitally, in a way that gives a word’s absence from a long document more weight than its absence from a short one. (Not something I care about with plot summaries, because they're all basically the same length.)
+    
+[Tech note](http://tedunderwood.com/tech-notes/) by Ted Underwood.
+* Vector space model works better than simple Pearson’s correlation, because the “cosine similarity” measure used in a vector space model automatically gives more weight to longer documents, and to documents where a term is very strongly represented. (I don't care about document length at the plot-summary stage. Do I care about documents where a term is very strongly represented? Will I want to give longer documents more weight later?)
+* INSTEAD OF TF-IDF, because we're not interested in the rarest words but just the words themselves, assess frequency as the difference between the expected occurrence of a term and the actual number of occurrences in the document. -->  this formula: occurrences of X in Y – ((Y length/corpus length) * total occurrences of X in corpus)
+* This means that some components of the vector are negative, which is actually important. Otherwise the fact that a word doesn’t occur in a book of 100,000 words would have the same weight as the fact that it doesn’t occur in a play of 15,000 words, because they would both “bottom out” at zero. (Definitely something that matters when I get to full texts.)
+* Of course, the “topic trees” produced by this measure are only as good as the lists of words you feed into them. (Wait, at what stage did we feed in a list of words???????)
+* It may be controversial whether or not to call this “topic modeling.” If you want to describe the internal structure of a literary work, this technique of course won’t do the job directly, because it doesn’t divide works into parts. But I think it does a pretty good job of identifying the implicit thematic structure of eighteenth-century discourse as a whole, and I wouldn’t be surprised if it turned out that the internal structure of individual works is defined in large part by the way these corpus-level topics weave in and out of them.
+* I actually think I... don't want to weight novels by length? Since I don't think length influences the importance of the story to readers...? Udolpho and The Veiled Picture are both just 'a reading experience'? Or does Udolpho have a bigger impact...? I think I need to be very careful about what question I'm asking.
 
 ## Works To-Read?
 [Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)
