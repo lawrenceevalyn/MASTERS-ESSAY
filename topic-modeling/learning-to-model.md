@@ -6,7 +6,11 @@ Warning: I'll be blatantly copy-pasting without attribution to piece these ideas
 
 ### Algorithm Acronyms
 
-LSA uses singular value decomposition to figure out how each word is related to every other word.
+tf-idf first creates a matrix of words and their weighted frequencies (weighted based on each word's rarity in the corpus, to avoid caring too much about "the"). Each word is a column of the matrix. tf-idf produces a matrix with one word per column, which isn't quite helpful yet.
+
+LSA (LSI in CS) uses singular value decomposition to figure out how each word is related to every other word.  It looks at columns that are mathematically similar to each other and collapses them into one column. The term co-occurrences indicate, beneath the covers, some type of semantic relationship. The columns are also, somehow, dimensions in vector space.
+
+This produces the all important "topics," which are just the resulting columns after a bunch of them have been collapsed.
 
 SVD, when run with LSA, condenses the matrix & partially fuses related rows and columns — and as a result, the compressed matrix is able to measure transitive kinds of association. The words “gas” and “petrol” may rarely appear together. But they both appear with the same kinds of other words. A compressed matrix is better at identifying synonyms, and for that reason at information retrieval.
 
@@ -44,8 +48,9 @@ Find new ways to match the documents to the categories, create new text classifi
 * probability based method
 
 ## Vocabulary
-* tf-idf : a way to weight the words
-* LSA/LDA
+* tf-idf : a way to weight the words. Term Frequency: how many times the word appears. Inverse Document Frequency: to prevent top word from being "the," changes the previously-created term-document matrix to weight terms based on how rare they are in the overall set of documents.
+* LSA
+* LDA
 * MDS (Multidimensional Scaling)
 * Type: word (in CS)
 * Token: ocurrance of a word (in CS)
@@ -57,6 +62,12 @@ Find new ways to match the documents to the categories, create new text classifi
 * Gives examples of topic models from networks, and networks from topic models.
 
 [Mom email 1](./reference/topic-modeling-reference/mom01.txt)
+* v basic topic modeling explanation (familiar)
+* v basic breakdown of areas in which CS researchers work
+
+[Mom email 2](./reference/topic-modeling-reference/mom02.txt)
+* explains tf-idf and LSA/LSI in more detail.
+* attachment: powerpoint on TresNet (irrelevant)
 
 ## Works To-Read?
 [Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)
