@@ -8,6 +8,8 @@ Warning: I'll be blatantly copy-pasting without attribution to piece these ideas
 
 LSA uses singular value decomposition to figure out how each word is related to every other word.
 
+SVD, when run with LSA, condenses the matrix & partially fuses related rows and columns — and as a result, the compressed matrix is able to measure transitive kinds of association. The words “gas” and “petrol” may rarely appear together. But they both appear with the same kinds of other words. A compressed matrix is better at identifying synonyms, and for that reason at information retrieval.
+
 pLSA “discovers” a bunch of topics, attaches them to a list of words, and classifies the documents based on those topics. What if every document isn’t just a set of words, but a set of topics? In this model, our encyclopedia article about computing history might be drawn from several topics. --> groups words not just based on proximity, but also on topics. (Using, I guess, black magic.)
 
 LDA improved upon this idea by turning it into a generative model of documents. (Takes the same three concept of words, topics, documents, instead of just generating topics from words, allows documents to be generated from topics. ?)
@@ -34,16 +36,27 @@ Many times, however, rather than creating new models, researchers create network
 
 Having a network with every document connected to every other document is scarcely useful, so generally we’ll make our decision such that each document is linked to only a handful of others. This allows for easier visualization and analysis, but it also destroys much of the rich data that went into the topic model to begin with. This information can be more fully preserved using other techniques, such as multidimensional scaling.
 
+### What Do Computer Scientists Do?
+Try to develop new ways to weight the words (i.e., alternatives to tf-idf)
+
+Find new ways to match the documents to the categories, create new text classification algorithms (like LSA/LDA)
+* simple vector space model in which the categories are represented by words in a vector space (one dimension per unique word in the whole vocabulary of the training documents) and the document is a vector and similiarity is defined as the angle between the vectors;  smaller angle, more similar
+* probability based method
+
 ## Vocabulary
-* tf-idf
+* tf-idf : a way to weight the words
 * LSA/LDA
 * MDS (Multidimensional Scaling)
+* Type: word (in CS)
+* Token: ocurrance of a word (in CS)
 
 ## Works Read
 <!--List in order read; annotate -->
 [Topic Modeling and Network Analysis](http://www.scottbot.net/HIAL/?p=221) by Scott Weingart.
 * Explains LSA and LDA.
 * Gives examples of topic models from networks, and networks from topic models.
+
+[Mom email 1](./reference/topic-modeling-reference/mom01.txt)
 
 ## Works To-Read?
 [Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)

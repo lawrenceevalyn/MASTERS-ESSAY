@@ -1,0 +1,38 @@
+Well, you mother is famous in "topic modeling" or, as I call it,
+conceptual retrieval.
+The Semantic Web is somewhat related.
+
+In my work, I am given a set of categories (topics/classes) and sample
+documents for each category.
+The text classification (categorization) system does statistical
+analysis of word usage to create a table that maps from words to
+concepts with weights, e.g.,
+dog occurs in category "Pet" with weight 4.75
+dog occurs in category "Food" with weight 2.6
+etc
+This is done in advance (it is called "training the classifier") and
+stored in an inverted file.
+
+Now, a new document comes along.  We extract the words that it has in
+it and look of those words in the inverted file and sum up the scores.
+The categories with the highest weights are the most representative of
+the document.
+
+Many people do research into
+how to weight the words (language models) - I use tf*idf which is what
+search engines typically use
+how to match the documents to the categories (text classification algorithms)
+    - there are MANY MANY  I use a simple vector space model in which
+the categories are represented by words in a vector space (one
+dimension per unique word in the whole vocabulary of the training
+documents) and the document is a vector and similiarity is defined as
+the angle between the vectors;  smaller angle, more similar;  Other
+people use a probability based method;
+
+The fanciest approaches use dimensionality reduction (SVM - Support
+Vector Machines) and that math is hairy.  However it is only
+applicable when you have a few < 100 catgories.
+
+I'll send you some of my refs...
+
+http://dl.acm.org/citation.cfm?id=1379118
