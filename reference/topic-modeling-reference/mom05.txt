@@ -1,0 +1,69 @@
+We represent documents by vectors.
+
+Keyword vectors of tfidf weigths.
+We compare the vectors using the cosine between the vectors.
+Mathematically, we assume that the dimensions (words) are independent.
+
+In my research, the dimensions (columns) are category weights
+(returned by our categorizer) NOT keyword weights.
+
+We know the relationship between the categories (in the ontology).
+So, we use the concept tree distance when comparing vectors that are
+really trees;  Each document is logically represented not by a vector
+of weights, but a tree/ontology of concepts each with a weight.
+So, we calculate document-document similarity using a tree similarity
+metric not a vector similarity metric.
+
+Thsi is very unusual stuff - only I do it.  It isn't well known,
+Mom
+
+---
+
+Well, topics/categories/classes/concepts are abstractions.
+e.g., Music, Sports, Marriage.
+
+Then we want to label a document with
+it is 90% Music and 10% Sports  (basically, weighted tagging).
+
+Each category is represented by words.
+Words can be manually provided by the user/researcher (English prof).
+
+But we use software to extract the words from sample texts automatically.
+
+So, someone comes up with a set of categories (an ontology) and it is
+up to us to instantiate it (fill it up with words).
+
+For complext ontologies, words occur in more than one category, but
+they are more common in one vs another.  Tf*idf weights extracted from
+sample documents help us with the weights.
+
+Since we deal with corpora of > 1,000,000 documents on a regular
+basis, we need automated techniques.
+
+E.g,
+
+Food:
+  dog 0.25 (a document tagged with Food might contain info about hot dogs)
+  chicken 0.65
+
+Animals:
+  dog 0.75
+  chicken 0.35
+
+So, topics are not defined by the words; the
+topics/concepts/classes/categories are abstract ideas.
+They are represented by words...
+
+---
+
+You seem fixated on collapsing the columns down.  90% of work in
+corpus linguistics, and 100% of all search engines outside of the lab,
+just work with keyword vectors.
+
+LSA etc or my work is only done occasionally.  So, jsut think about
+working with uncollapsed/merged columns.  You cluster documents based
+on that.
+
+Also, the term/document matrix is just a theoretical construct, we use
+other ways to actually store the data.  Most entries in the matrix are
+0, so you wouldn't actually want to store them
