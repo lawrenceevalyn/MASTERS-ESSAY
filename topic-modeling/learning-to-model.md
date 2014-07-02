@@ -60,14 +60,13 @@ Many times, however, rather than creating new models, researchers create network
 
 Having a network with every document connected to every other document is scarcely useful, so generally we’ll make our decision such that each document is linked to only a handful of others. This allows for easier visualization and analysis, but it also destroys much of the rich data that went into the topic model to begin with. This information can be more fully preserved using other techniques, such as multidimensional scaling.
 
-## Vocabulary
-* tf-idf : a way to weight the words. Term Frequency: how many times the word appears. Inverse Document Frequency: to prevent top word from being "the," changes the previously-created term-document matrix to weight terms based on how rare they are in the overall set of documents.
-* log-entropy weighting: an alternative to idf?
-* LSA: vector-space model algorithm for merging columns of a term-document matrix. Uses cosine similarity?
-* LDA
-* MDS (Multidimensional Scaling)
-* Type: word (in CS)
-* Token: ocurrance of a word (in CS)
+## What Have Other People Done?
+
+[Topic Modeling Martha Ballard's Diary](http://historying.org/2010/04/01/topic-modeling-martha-ballards-diary/).
+I took a lot of notes, and then accidentally deleted them.
+
+Ted Underwood's 18th century "topic tree": [the tree](http://tedunderwood.com/18c-tree/), and [some explanation](http://tedunderwood.com/2011/04/04/revealing-the-relationships-between-topics-in-a-corpus/).
+I took a lot of notes, and then accidentally deleted them.
 
 ## What Am I Trying To Do Here?
 
