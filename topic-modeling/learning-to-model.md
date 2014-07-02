@@ -12,13 +12,15 @@ In the beginning, there is a corpus. You don't know anything about the categorie
 
 Perhaps you make a vector-space model of this corpus. If so, you describe the vector space with a matrix.
 
-The simplest vector-space model assigns each word a weight based on its Boolean term frequency (tf) in each document. Or, there are a lot of more complicated formulae to weight words, including probabilistic methods and tf*idf.
+The simplest vector-space model assigns each word a weight based on its term frequency (tf) in each document. Or, there are a lot of more complicated formulae to weight words, including probabilistic methods and tf*idf.
 
 This vector-space model is then presented in a matrix with a column for each word and a row for each document. At the intersection of each word and document is the word's weight for that document. In this matrix, each document (row) is an N-dimensional vector, with N equal to the number of words (columns). The matrix itself only has two dimensions (rows and columns) but nonetheless describes an N-dimensional vector space.
 
 N is too many dimensions, so you use algorithms to merge similar dimensions/columns. LSA, LSI, SVD, and PCA are all different algorithms that use linear algebra to collapse columns together.
 
-Once you've collapsed several words/columns together, your new column is a category/topic. Now you know what categories are in your corpus, and how much of each document comes from each category.
+Once you've collapsed several words/columns together, your new columns are mathematical constructs that share some similarities with categories. You don't know anything.
+
+To find out what the categories are, what you want to do to discover categories is called "Clustering" or, to AI folks "Unsupervised Learning".  Basically, the raw vectors are compared to each other using some similarity metric (in vector space:  cosine similarity metric; in probability model, some probabilistic similarity metric). You group the most similar documents into clumps using one of many, many clustering algorithms (k-means is most popular).  These groups/clusters are now your categories.
 
 #### Do Know Categories
 
@@ -26,27 +28,13 @@ In the beginning, there is a corpus. These documents belong to X number of categ
 
 Perhaps you make a vector-space model of this corpus. If so, you describe the vector space with a matrix. This is still the same as if you didn't know the categories.
 
-N is still too many dimensions. You want to reduce N to the X, number of predefined known categories. A human reads a small number of documents and categorizes them. An algorithm, such as SVM, uses these sample documents to learn how to tell the categories apart. Then you can use it to categorize the rest of the documents.
+N is still too many dimensions. You want to reduce N to the X, number of predefined known categories. A human reads a small number of documents and categorizes them. An algorithm, such as SVM or (preferably) KNN, uses these sample documents to learn how to tell the categories apart. Then you can use it to categorize the rest of the documents.
 
 Now you know how much of each document comes from each category. Your categories are more useful than the categories generated via method 1, because you picked them out yourself.
 
 #### Questions
 
 At what stage does one opt for a concept-tree-distance model instead of a vector space model?
-
-### Algorithm Acronyms
-
-tf-idf first creates a matrix of words and their weighted frequencies (weighted based on each word's rarity in the corpus, to avoid caring too much about "the"). Each word is a column of the matrix. tf-idf produces a matrix with one word per column, which isn't quite helpful yet.
-
-LSA (LSI in CS) uses singular value decomposition to figure out how each word is related to every other word.  It looks at columns that are mathematically similar to each other and collapses them into one column. The term co-occurrences indicate, beneath the covers, some type of semantic relationship. The columns are also, somehow, dimensions in vector space.
-
-This produces the all important "topics," which are just the resulting columns after a bunch of them have been collapsed.
-
-SVD, when run with LSA, condenses the matrix & partially fuses related rows and columns — and as a result, the compressed matrix is able to measure transitive kinds of association. The words “gas” and “petrol” may rarely appear together. But they both appear with the same kinds of other words. A compressed matrix is better at identifying synonyms, and for that reason at information retrieval.
-
-pLSA “discovers” a bunch of topics, attaches them to a list of words, and classifies the documents based on those topics. What if every document isn’t just a set of words, but a set of topics? In this model, our encyclopedia article about computing history might be drawn from several topics. --> groups words not just based on proximity, but also on topics. (Using, I guess, black magic.)
-
-LDA improved upon this idea by turning it into a generative model of documents. (Takes the same three concept of words, topics, documents, instead of just generating topics from words, allows documents to be generated from topics. ?)
 
 ### Topic Modeling and Networks
 
@@ -124,6 +112,9 @@ I could also use the topics as a stepping-stone to try to map networks.
 
 [Mom email 3](./reference/topic-modeling-reference/mom03.txt).
 * more explanations of vector space models and matrices; used as guide for "What Do?" explanation
+
+[Mom email 4](./reference/topic-modeling-reference/mom04.txt).
+* corrections to "What Do?" explanation
 
 ## Works To-Read?
 [Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)
