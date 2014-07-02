@@ -148,7 +148,7 @@ It occurs to me, all the places where I say "paper" here, I really mean "chapter
 * clarified categories/topics
 
 ## Works To-Read?
-[Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)
+**[Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
 
 [tutorial on how to create networks using MALLET and Gephi quickly and easily.](http://electricarchaeology.ca/2011/11/11/topic-modeling-with-the-java-gui-gephi/) - Prepare your corpus of text, get topics with MALLET, prune the CSV, make a network, visualize it!
 
@@ -156,9 +156,16 @@ It occurs to me, all the places where I say "paper" here, I really mean "chapter
 
 [EXTREMELY specific walkthrough of using mallet](http://programminghistorian.org/lessons/topic-modeling-and-mallet)
 
-[a great blog post about why humanists should avoid the SVD step of using LSA](http://tedunderwood.com/2011/10/16/lsa-is-a-marvellous-tool-but-humanists-may-no-use-it-the-way-computer-scientists-do/)
-
 explain how the extensibility of LDA makes it quite a different kind of beast (relative to LSA): Learning author-topic models from text corpora. M Rosen-Zvi, C Chemudugunta, T Griffiths, P Smyth, M Steyvers, ACM Transactions on Information Systems (TOIS), ACM, 2010. http://www.datalab.uci.edu/papers/AT_tois.pdf
+
+Closing out my to-read tabs:
+http://tedunderwood.com/2011/03/17/a-selection-of-the-language-really-spoken-by-men/
+http://tedunderwood.com/category/18c/
+http://tedunderwood.com/category/methodology/
+http://sappingattention.blogspot.ca/2011/01/clustering-from-search.html
+http://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/
+https://ariddell.org/simple-topic-model.html
+http://www.scottbot.net/HIAL/?p=19113
 
 ## Potential Resources
 [David Mimno's Topic Modeling Bibliography](http://mimno.infosci.cornell.edu/topics.html)
