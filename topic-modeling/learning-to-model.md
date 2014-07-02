@@ -4,6 +4,36 @@ Warning: I'll be blatantly copy-pasting without attribution to piece these ideas
 
 ## My Big Explanation
 
+### What Do?
+
+#### Don't Know Categories
+
+In the beginning, there is a corpus. You don't know anything about the categories/topics it contains.
+
+Perhaps you make a vector-space model of this corpus. If so, you describe the vector space with a matrix.
+
+The simplest vector-space model assigns each word a weight based on its Boolean term frequency (tf) in each document. Or, there are a lot of more complicated formulae to weight words, including probabilistic methods and tf*idf.
+
+This vector-space model is then presented in a matrix with a column for each word and a row for each document. At the intersection of each word and document is the word's weight for that document. In this matrix, each document (row) is an N-dimensional vector, with N equal to the number of words (columns). The matrix itself only has two dimensions (rows and columns) but nonetheless describes an N-dimensional vector space.
+
+N is too many dimensions, so you use algorithms to merge similar dimensions/columns. LSA, LSI, SVD, and PCA are all different algorithms that use linear algebra to collapse columns together.
+
+Once you've collapsed several words/columns together, your new column is a category/topic. Now you know what categories are in your corpus, and how much of each document comes from each category.
+
+#### Do Know Categories
+
+In the beginning, there is a corpus. These documents belong to X number of categories. You know what all these categories are, but don't know where they are in which documents.
+
+Perhaps you make a vector-space model of this corpus. If so, you describe the vector space with a matrix. This is still the same as if you didn't know the categories.
+
+N is still too many dimensions. You want to reduce N to the X, number of predefined known categories. A human reads a small number of documents and categorizes them. An algorithm, such as SVM, uses these sample documents to learn how to tell the categories apart. Then you can use it to categorize the rest of the documents.
+
+Now you know how much of each document comes from each category. Your categories are more useful than the categories generated via method 1, because you picked them out yourself.
+
+#### Questions
+
+At what stage does one opt for a concept-tree-distance model instead of a vector space model?
+
 ### Algorithm Acronyms
 
 tf-idf first creates a matrix of words and their weighted frequencies (weighted based on each word's rarity in the corpus, to avoid caring too much about "the"). Each word is a column of the matrix. tf-idf produces a matrix with one word per column, which isn't quite helpful yet.
@@ -40,13 +70,6 @@ Many times, however, rather than creating new models, researchers create network
 
 Having a network with every document connected to every other document is scarcely useful, so generally we’ll make our decision such that each document is linked to only a handful of others. This allows for easier visualization and analysis, but it also destroys much of the rich data that went into the topic model to begin with. This information can be more fully preserved using other techniques, such as multidimensional scaling.
 
-### What Do Computer Scientists Do?
-Try to develop new ways to weight the words (i.e., alternatives to tf-idf)
-
-Find new ways to match the documents to the categories, create new text classification algorithms (like LSA/LDA)
-* simple vector space model in which the categories are represented by words in a vector space (one dimension per unique word in the whole vocabulary of the training documents) and the document is a vector and similiarity is defined as the angle between the vectors;  smaller angle, more similar
-* probability based method
-
 ## Vocabulary
 * tf-idf : a way to weight the words. Term Frequency: how many times the word appears. Inverse Document Frequency: to prevent top word from being "the," changes the previously-created term-document matrix to weight terms based on how rare they are in the overall set of documents.
 * log-entropy weighting: an alternative to idf?
@@ -58,6 +81,8 @@ Find new ways to match the documents to the categories, create new text classifi
 
 ## What Am I Trying To Do Here?
 I could, essentially, try to make my own new index of motifs, and then do all the same stuff to those motifs as I did to the originals.
+
+I could look at topics over time.
 
 I could also use the topics as a stepping-stone to try to map networks.
 
@@ -90,6 +115,15 @@ I could also use the topics as a stepping-stone to try to map networks.
 * Of course, the “topic trees” produced by this measure are only as good as the lists of words you feed into them. (Wait, at what stage did we feed in a list of words???????)
 * It may be controversial whether or not to call this “topic modeling.” If you want to describe the internal structure of a literary work, this technique of course won’t do the job directly, because it doesn’t divide works into parts. But I think it does a pretty good job of identifying the implicit thematic structure of eighteenth-century discourse as a whole, and I wouldn’t be surprised if it turned out that the internal structure of individual works is defined in large part by the way these corpus-level topics weave in and out of them.
 * I actually think I... don't want to weight novels by length? Since I don't think length influences the importance of the story to readers...? Udolpho and The Veiled Picture are both just 'a reading experience'? Or does Udolpho have a bigger impact...? I think I need to be very careful about what question I'm asking.
+
+[Document Similarity Based on Concept Tree Distance](http://citeseer.uark.edu/projects/citeseerX/papers/HT2008_short_paper.pdf), by Susan Gauch.
+* Concept tree distance is an alternative to vector space models
+* Traditional vector space models (i.e. LSA?) turn keyword vectors into concept vectors (i.e. collapse columns??) to reduce semantic ambiguity. However, this ignores the parent-child relationships that the keywords have inside those concept vectors.
+* In this study, we introduce a novel technique to construct concept trees representing documents and we apply the tree edit distance algorithm to calculate document similarity.
+* Looks like a better way to identify whether documents are related to each other. Not useful if I want to find out what concepts my corpus is mostly about, potentially useful if I want to map a network of their relationships.
+
+[Mom email 3](./reference/topic-modeling-reference/mom03.txt).
+* more explanations of vector space models and matrices; used as guide for "What Do?" explanation
 
 ## Works To-Read?
 [Ted Underwood](http://tedunderwood.com/category/methodology/topic-modeling/)
