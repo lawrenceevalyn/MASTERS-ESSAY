@@ -1,3 +1,8 @@
+## 10 July 2014
+correctOCR.py now executes all seven cleanup steps listed below. To-do list updated with next goal: scale program to multiple files.
+
+Right now multi-volume works have a txt file per volume. Is that what I want? If not, it's probably not worth writing a program to merge them, can just do it with Automator.
+
 ## 7 July 2014
 ### Experimenting with cleaning OCR of full texts
 Tried these out manually, started poking with python to do it.

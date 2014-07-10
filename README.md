@@ -2,5 +2,8 @@
 
 ## Programming correctOCR.py
 - Scale program to multiple files.
-- Remove punctuation marks?
-- Remove single letters?
+- Consider removing:
+    * punctuation marks?
+    * single letters?
+    * "chapter" and "vol"/"volume"?
+    * line breaks?
