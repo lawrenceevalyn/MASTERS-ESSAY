@@ -16,7 +16,10 @@ new_book = re.sub('¬ ','', new_book)
 		# delete ¬-space combos
 		
 new_book = re.sub('[^a-zA-Z\n\.]', ' ', new_book)
-		# makes new_book substitute a space for everything in new_book that isn't a letter
+		# substitute a space for everything that isn't a letter
+
+new_book = re.sub('vv', 'w', new_book)
+		# change 'vv' to 'w'
 
 open('fixed01.txt', 'w').write(new_book) 
-		# writes a new file with the results of new_book
+		# write fixed01.txt with the results of new_book
