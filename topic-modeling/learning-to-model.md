@@ -147,10 +147,11 @@ It occurs to me, all the places where I say "paper" here, I really mean "chapter
 [Mom email 5](./reference/topic-modeling-reference/mom04.txt).
 * clarified categories/topics
 
+[Topic Modeling With the JAVA GUI + Gephi](http://electricarchaeology.ca/2011/11/11/topic-modeling-with-the-java-gui-gephi/) - Prepare your corpus of text, get topics with MALLET, prune the CSV, make a network, visualize it!
+* Not actually a tutorial.
+
 ## Works To-Read?
 **[Journal of Digital Humanities](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
-
-[tutorial on how to create networks using MALLET and Gephi quickly and easily.](http://electricarchaeology.ca/2011/11/11/topic-modeling-with-the-java-gui-gephi/) - Prepare your corpus of text, get topics with MALLET, prune the CSV, make a network, visualize it!
 
 [Getting Started with Mallet and Topic Modeling](http://electricarchaeology.ca/2011/08/30/getting-started-with-mallet-and-topic-modeling/) Links to sequel below
 
