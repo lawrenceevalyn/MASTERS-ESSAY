@@ -5,6 +5,8 @@ Starting poking around with topic modeling.
 - model-3 is now 50 topics, 15 topic words, 600 iterations.
 - model-4 is now 15 topics, 15 topic words, 600 iterations.
 
+Tried to make network maps of any of these with Gephi, had no idea what I was doing, accumulated more readings to-do.
+
 ## 10 July 2014
 correctOCR.py now executes all seven cleanup steps listed below. To-do list updated with next goal: scale program to multiple files.
 
