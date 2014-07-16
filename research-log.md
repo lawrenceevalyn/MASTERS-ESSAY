@@ -1,3 +1,10 @@
+## 15 July 2015
+
+Starting poking around with topic modeling.
+- model-2 is now 100 topics, 15 topic words, 600 iterations.
+- model-3 is now 50 topics, 15 topic words, 600 iterations.
+- model-4 is now 15 topics, 15 topic words, 600 iterations.
+
 ## 10 July 2014
 correctOCR.py now executes all seven cleanup steps listed below. To-do list updated with next goal: scale program to multiple files.
 
