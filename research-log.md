@@ -1,3 +1,9 @@
+## 20 July 2015
+
+Suggestions from mom:
+- use ls* and redirect to filenames.text to get names for program to run
+- if I can write the program so I say 'run program.py on file.txt' then I can write a shell script that can just call that program through every file (a shell script is just a file of shell commands-- )
+
 ## 15 July 2015
 
 Starting poking around with topic modeling.
