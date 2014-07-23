@@ -4,6 +4,8 @@ Right now entering only setting information that is unambiguous, based on mentio
 
 Most info is less certain, however. Perhaps add era categories of 'the past' and 'the present'? And place categories of 'Italian' when going based on names?
 
+Decided to mark time periods based on the main tale, rather than the frame narrative, where such frames exist.
+
 ## 20 July 2015
 
 Suggestions from mom:
