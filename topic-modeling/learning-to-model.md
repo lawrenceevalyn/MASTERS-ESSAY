@@ -76,7 +76,7 @@ The expecting topic-modeling-y questions would probably be:
 
 1. What is the Gothic "about"? How do these topics change in prevalence over time? (Could probably be fluffed into a paper on its own if any trends emerge, but would work better in conjunction with something else.)
 
-2. What books are the most "Gothic-y"? Or, for each thing that the Gothic is "about", what books are most representative of that thing? (If any of these are really unexpected, could be a paper on its own, with normal-English discussion of the books in question. If it's basically what people already thing, would work better in conjunction with something else.)
+2. What books are the most "Gothic-y"? Or, for each thing that the Gothic is "about", what books are most representative of that thing? (If any of these are really unexpected, could be a paper on its own, with normal-English discussion of the books in question. If it's basically what people already think, would work better in conjunction with something else.)
 
 So the normal thing to do would be to feed my plot summaries into Mallet, and use its results to answer 1 and 2 and make them a paper together. I have a lot of more complicated questions, though, that I am really interested in. The first three basically boil down to, "What does it look like if I sort everything into the two categories of...?"
 
@@ -90,14 +90,17 @@ I have about six books for which no author information is known; based on the ot
 
 5. **Novel vs. Chapbook**. Some of these plot summaries are of expensive multi-volume novels, and some are of cheap 72-page chapbooks. (Everything is either a novel or a chapbook.) I wanna ask all my men-vs-women questions again, this time about novels vs. chapbooks: are they different? How are they different? (This would also be a paper all by itself.)
 
-Upon reflection, those might actually be asking "What happens if I sort everything into these two categories, and then map some kind of network?" The next two are definitely just network questions:
+Upon reflection, those might actually be asking "What happens if I sort everything into these two categories, and then map some kind of network?" The next three are definitely just network questions:
 
 6. **Names**. A lot of names get re-used across stories. A lot of names are unlikely to show up in existing lists of names. (My favourite is a woman named Euthanasia. *Mary Shelley* named a character Euthanasia.) Can a program identify which words are names, and put them in a bucket for me? With only 208 books, I can also manually delete all the non-name words from each document, and feed that new corpus to a program to put the names in a bucket and count them. Can a program make me a network map of books that share character names? (This would be a paper by itself, though the more interesting the resulting network is, the better the paper will be.)
 
 7. **Schools**. How well does the Gothic 'canon' match the large body of Gothic texts? Do books cluster in different 'schools'? If so, are these based around the acknowledged canon, or are there schools/influential books that the canon has overlooked? 
 
+8. **Plagiarism**. It is well-accepted that the Gothic was marked by plagiarism, and not just in the creation of cheap abridgments of popular novels. Is it possible to see who was plagiarizing from whom, and how much?
+
 Questions that I can already answer by myself in excel the way I did my paper on motifs:
 * Do men or women write more chapbooks vs novels? How do chapbook/novel counts change over time? (A few paragraphs in a paper mostly about something else.)
+* How long are most novels? How long are their chapters/ how many chapter do they have? Do these differences in form track to other differences, in author or time or subject matter?
 * What time periods are most novels set in? What places? (These are questions a human will have to answer.) For each one, is it written about more by men or by women? How does the popularity of each one change over time? (If I do both time and place, probably a paper.)
 
 It occurs to me, all the places where I say "paper" here, I really mean "chapter of my dissertation." Or "the entirety of my master's essay." 

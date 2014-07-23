@@ -1,3 +1,9 @@
+## 22 July 2015
+
+Right now entering only setting information that is unambiguous, based on mentions of dates or places.
+
+Most info is less certain, however. Perhaps add era categories of 'the past' and 'the present'? And place categories of 'Italian' when going based on names?
+
 ## 20 July 2015
 
 Suggestions from mom:
