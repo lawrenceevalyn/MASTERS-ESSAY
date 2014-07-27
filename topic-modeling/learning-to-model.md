@@ -107,14 +107,6 @@ It occurs to me, all the places where I say "paper" here, I really mean "chapter
 * Explains LSA and LDA.
 * Gives examples of topic models from networks, and networks from topic models.
 
-[Mom email 1](./reference/topic-modeling-reference/mom01.txt).
-* v basic topic modeling explanation (familiar)
-* v basic breakdown of areas in which CS researchers work
-
-[Mom email 2](./reference/topic-modeling-reference/mom02.txt).
-* explains tf-idf and LSA/LSI in more detail.
-* attachment: powerpoint on TresNet (irrelevant)
-
 [LSA is a marvellous tool, but literary historians may want to customize it for their own discipline.](http://tedunderwood.com/2011/10/16/lsa-is-a-marvellous-tool-but-humanists-may-no-use-it-the-way-computer-scientists-do/) by Ted Underwood.
 * Value of LSA is not its ability to identify synonyms (which is what information retrieval (i.e., mom) uses it for)
 * avoid SVD because it compresses the matrix too much/in the wrong way, to find transitive kinds of association. --> highlights semantic relationships at the cost of slightly blurring other kinds of association
@@ -136,15 +128,6 @@ It occurs to me, all the places where I say "paper" here, I really mean "chapter
 * Traditional vector space models (i.e. LSA?) turn keyword vectors into concept vectors (i.e. collapse columns??) to reduce semantic ambiguity. However, this ignores the parent-child relationships that the keywords have inside those concept vectors.
 * In this study, we introduce a novel technique to construct concept trees representing documents and we apply the tree edit distance algorithm to calculate document similarity.
 * Looks like a better way to identify whether documents are related to each other. Not useful if I want to find out what concepts my corpus is mostly about, potentially useful if I want to map a network of their relationships.
-
-[Mom email 3](./reference/topic-modeling-reference/mom03.txt).
-* more explanations of vector space models and matrices; used as guide for "What Do?" explanation
-
-[Mom email 4](./reference/topic-modeling-reference/mom04.txt).
-* corrections to "What Do?" explanation
-
-[Mom email 5](./reference/topic-modeling-reference/mom04.txt).
-* clarified categories/topics
 
 [Topic Modeling With the JAVA GUI + Gephi](http://electricarchaeology.ca/2011/11/11/topic-modeling-with-the-java-gui-gephi/) - Prepare your corpus of text, get topics with MALLET, prune the CSV, make a network, visualize it!
 * Not actually a tutorial.
