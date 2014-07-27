@@ -1,10 +1,12 @@
 ## 26 July 2015
 
-Started tracking down full texts of Tracy's novels.
-
-Research decisions:
+Started tracking down full texts of Tracy's novels:
 - If multiple e-texts are available, choose the one with the best OCR that still appears to follow the original text. Then manually delete any paratextual information that would not have been included in the original.
 - Paratextual information that *was* in the original-- including running titles/chapter headings, indexes, notes, etc-- shall remain.
+
+(Huh, it would be super interesting to algorithmically extract just the poems, quotes, and epigraphs in all these works... but probably easier to do it as a human.)
+
+**Should I use my Gothic 'canon' as training texts to identify the topics?** Or will this make it impossible to identify when books diverge interestingly from that canon?
 
 ## 22 July 2015
 
