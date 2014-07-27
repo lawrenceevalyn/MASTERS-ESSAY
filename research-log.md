@@ -1,3 +1,11 @@
+## 26 July 2015
+
+Started tracking down full texts of Tracy's novels.
+
+Research decisions:
+- If multiple e-texts are available, choose the one with the best OCR that still appears to follow the original text. Then manually delete any paratextual information that would not have been included in the original.
+- Paratextual information that *was* in the original-- including running titles/chapter headings, indexes, notes, etc-- shall remain.
+
 ## 22 July 2015
 
 Right now entering only setting information that is unambiguous, based on mentions of dates or places.
