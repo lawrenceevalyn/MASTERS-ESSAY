@@ -34,10 +34,6 @@ N is still too many dimensions. You want to reduce N to the X, number of predefi
 
 Now you know how much of each document comes from each category. Your categories are more useful than the categories generated via method 1, because you picked them out yourself.
 
-#### Questions
-
-At what stage does one opt for a concept-tree-distance model instead of a vector space model?
-
 ### Topic Modeling and Networks
 
 ####Inferring topic models from networks.
@@ -155,6 +151,18 @@ It occurs to me, all the places where I say "paper" here, I really mean "chapter
 
 [Visualizing Structure in Topic Models](http://www.r-bloggers.com/visualising-structure-in-topic-models/)
 * Argues that network maps aren't appropriate, points to a lot of other articles.
+
+[The Digital Humanities Contribution to Topic Modeling](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
+* Describes what's gonna be in the journal... looks less focused on specific research case uses than I'd hoped, but still handy.
+
+[Topic Modeling and Digital Humanities](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/) by David M. Blei
+* "Formally, a topic is a probability distribution over terms. In each topic, different sets of terms have high probability, and we typically visualize the topics by listing those sets (again, see Figure 1). As I have mentioned, topic models find the sets of terms that tend to occur together in the texts.[2] They look like “topics” because terms that frequently occur together tend to be about the same subject."
+* "Traditionally, statistics and machine learning gives a “cookbook” of methods, and users of these tools are required to match their specific problems to general solutions. In probabilistic modeling, we provide a language for expressing assumptions about data and generic methods for computing with those assumptions."
+* "In particular, LDA is a type of probabilistic model with hidden variables. Viewed in this context, LDA specifies a generative process, an imaginary probabilistic recipe that produces both the hidden topic structure and the observed words of the texts. ...Given a collection of texts, they reverse the imaginary generative process to answer the question “What is the likely hidden topical structure that generated my observed documents?”"
+* "Probabilistic models beyond LDA posit more complicated hidden structures and generative processes of the texts. As examples, we have developed topic models that include syntax, topic hierarchies, document networks, topics drifting through time, readers’ libraries, and the influence of past articles on future articles." --> mom can point me towards a handy suite?
+* "Here is the rosy vision. A humanist imagines the kind of hidden structure that she wants to discover and embeds it in a model that generates her archive. The form of the structure is influenced by her theories and knowledge — time and geography, linguistic theory, literary theory, gender, author, politics, culture, history. With the model and the archive in place, she then runs an algorithm to estimate how the imagined hidden structure is realized in actual texts. Finally, she uses those estimates in subsequent study, trying to confirm her theories, forming new theories, and using the discovered structure as a lens for exploration. She discovers that her model falls short in several ways. She revises and repeats." --> What hidden structure am I looking for...?
+* *"A model of texts, built with a particular theory in mind, cannot provide evidence for the theory. (After all, the theory is built into the assumptions of the model.) Rather, the hope is that the model helps point us to such evidence."*
+* "The goal is for scholars and scientists to creatively design models with an intuitive language of components, and then for computer programs to derive and execute the corresponding inference algorithms with real data. ...Probabilistic models promise to give scholars a powerful language to articulate assumptions about their data and fast algorithms to compute with those assumptions on large archives." --> So if I'm gonna get mom involved I need to start with a specific hypothesis, and model in a way that allows that hypothesis to be tested. I sort of already knew that, but I'll need to really focus on it.
 
 ## Works To-Read?
 http://www.scottbot.net/HIAL/?p=39600
