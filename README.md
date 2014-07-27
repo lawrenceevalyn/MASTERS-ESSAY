@@ -9,6 +9,7 @@
     * punctuation marks?
     * single letters?
     * "chapter" and "vol"/"volume"?
+- is there anything to be done about the f problem??
     
 ## Acquire full texts
 
