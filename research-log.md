@@ -1,3 +1,7 @@
+## 27 July 2015
+
+Decided that, if full texts are available as pdfs from sources other than NCCO (i.e., if pdfs of halfway adequate quality are available), I should snag those and run my own ocr on them. Asked mum for ocr recommendations.
+
 ## 26 July 2015
 
 Started tracking down full texts of Tracy's novels:
