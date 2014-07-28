@@ -21,10 +21,13 @@ book = re.sub('\n',' ', book)
 		
 book = re.sub('[^a-zA-Z\.]', ' ', book)
 		# substitute a space for everything that isn't a letter or period
-		# (this means it would delete newlines)
+		# (this means it deletes newlines)
 
 book = re.sub('vv', 'w', book)
 		# change 'vv' to 'w'
+		
+book = re.sub('s', 'f', book)
+		# change all Ss to Fs to reduce ambiguity
 		
 book = re.sub('Disclaimer: This file is generated from OCR (optical character recognition), which is a technology that converts images of text into text. While the technology is good at deciphering legible text, there are limitations and some text may not have been extracted correctly.','', book)
 		# delete Corvey disclaimer text

@@ -7,7 +7,6 @@
     * punctuation marks?
     * single letters?
     * "chapter" and "vol"/"volume"?
-- is there anything to be done about the f problem??
 - at what stage will I want to remove stopwords?
 - **would it help to remove everything that's not in a dictionary?**
     
