@@ -1,3 +1,12 @@
+## 30 July 2015
+
+Research ideas jotted on sticky notes in my room:
+* Why is there so little cannibalism in the Gothic?
+* Could find average chapter length of each book by skipping to the end, seeing what number the last chapter was, and dividing the page numbers by that
+    - add no. of pages & no. of chapters to spreadsheet
+* Can find all character names by extracting all capitalized words, discarding duplicates, manually discarding non-names.
+    - What about two-word name combos? i.e., Lord O'Sinister. Just discard titles & work with, e.g., O'Sinister?
+
 ## 27 July 2015
 
 Decided that, if full texts are available as pdfs from sources other than NCCO (i.e., if pdfs of halfway adequate quality are available), I should snag those and run my own ocr on them. Asked mum for ocr recommendations.
