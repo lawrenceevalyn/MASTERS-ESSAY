@@ -1,3 +1,9 @@
+## 3 August 2015
+
+Very annoyed to discover that #101, TALES OF TERROR, is in *verse*! **Verse!!** Not a novel at all! And this on top of, apparently, not really being written by Matthew Lewis.
+
+Unsure how to proceed-- wish I should just strike through the text; maybe hide the row?
+
 ## 30 July 2015
 
 Research ideas jotted on sticky notes in my room:
