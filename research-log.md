@@ -1,3 +1,9 @@
+## 4 August 2014
+
+Realizing that google OCR is much, much better than NCCO, probably due to quality of PDFs? Definitely thinking that re-OCR-ing from pdfs is going to be my best bet. Not sure about copyright status of google books? Have to research whether I can extract PDFs (or, please, heaven, please!) txt files *without* breaking DRM.
+
+It does look like, with NCCO Corvey as a back up, a lot more of these are available than I though. I expect I'll have 150 to 200 in the end!
+
 ## 3 August 2015
 
 Very annoyed to discover that #101, TALES OF TERROR, is in *verse*! **Verse!!** Not a novel at all! And this on top of, apparently, not really being written by Matthew Lewis.
