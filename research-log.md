@@ -1,3 +1,9 @@
+## 7 August 2014
+
+Just a note on how I'm sourcing books now-- I copy-paste the title from my spreadsheet into UVic's search system, and into a books.google.com search that only shows 'full view' results. I download the NCCO OCR (if it exists) and any PDF versions UVic provides that look like they're better scans than the Corvey microfilm. I make a note of all google editions, in case I want to rip them later. It goes pretty quickly!
+
+So far it looks like accessibility skews firmly in favour of novels, and away from weird-man chapbooks.
+
 ## 4 August 2014
 
 Realizing that google OCR is much, much better than NCCO, probably due to quality of PDFs? Definitely thinking that re-OCR-ing from pdfs is going to be my best bet. Not sure about copyright status of google books? Have to research whether I can extract PDFs (or, please, heaven, please!) txt files *without* breaking DRM.
