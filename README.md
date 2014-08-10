@@ -7,6 +7,7 @@
     * punctuation marks?
     * single letters?
     * "chapter" and "vol"/"volume"?
+    * the word "page" (due to Zofloya)?
 - at what stage will I want to remove stopwords?
 - **would it help to remove everything that's not in a dictionary?**
     
