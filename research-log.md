@@ -1,3 +1,7 @@
+## 12 August 2014
+
+Should have noted yesterday -- in fine Academic Spouse tradition, Ennis will be taking over the acquisition of OCR full texts, following the procedure described Aug 7 (minus acquisition of PDFs), for $1.50 per book. The relief from burnout is *incredible*. If things resolve satisfactorily for both, may hire zir to re-OCR from PDFs? But first will see what results can be extracted from the corpus as it exists.
+
 ## 7 August 2014
 
 Just a note on how I'm sourcing books now-- I copy-paste the title from my spreadsheet into UVic's search system, and into a books.google.com search that only shows 'full view' results. I download the NCCO OCR (if it exists) and any PDF versions UVic provides that look like they're better scans than the Corvey microfilm. I make a note of all google editions, in case I want to rip them later. It goes pretty quickly!
@@ -8,13 +12,13 @@ So far it looks like accessibility skews firmly in favour of novels, and away fr
 
 Realizing that google OCR is much, much better than NCCO, probably due to quality of PDFs? Definitely thinking that re-OCR-ing from pdfs is going to be my best bet. Not sure about copyright status of google books? Have to research whether I can extract PDFs (or, please, heaven, please!) txt files *without* breaking DRM.
 
-It does look like, with NCCO Corvey as a back up, a lot more of these are available than I though. I expect I'll have 150 to 200 in the end!
+It does look like, with NCCO Corvey as a back up, a lot more of these are available than I thought. I expect I'll have 150 to 200 in the end!
 
 ## 3 August 2015
 
 Very annoyed to discover that #101, TALES OF TERROR, is in *verse*! **Verse!!** Not a novel at all! And this on top of, apparently, not really being written by Matthew Lewis.
 
-Unsure how to proceed-- wish I should just strike through the text; maybe hide the row?
+Unsure how to proceed-- wish I could just strike through the text; maybe hide the row?
 
 ## 30 July 2015
 

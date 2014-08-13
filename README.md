@@ -9,7 +9,7 @@
     * "chapter" and "vol"/"volume"?
     * the word "page" (due to Zofloya)?
 - at what stage will I want to remove stopwords?
-- **would it help to remove everything that's not in a dictionary?**
+- **would it help to remove everything that's not in a dictionary?** --> except for words that are capitalized? (to preserve names) - it would be just like reading a moldy manuscript that's missing key details and cuts off right at a cliffhanger...
     
 ## Acquire full texts
 
