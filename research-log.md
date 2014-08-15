@@ -1,3 +1,7 @@
+## 14 August 2014
+
+JUST found out about the Oxford Text Archive (!!!) - knew I should have been doing more reading of other work to this point! But it looks like it's only going to have a very few texts, alas.
+
 ## 12 August 2014
 
 Should have noted yesterday -- in fine Academic Spouse tradition, Ennis will be taking over the acquisition of OCR full texts, following the procedure described Aug 7 (minus acquisition of PDFs), for $1.50 per book. The relief from burnout is *incredible*. If things resolve satisfactorily for both, may hire zir to re-OCR from PDFs? But first will see what results can be extracted from the corpus as it exists.
