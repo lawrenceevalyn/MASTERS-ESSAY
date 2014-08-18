@@ -1,6 +1,6 @@
 ## 17 August 2014
 
-Started gathering less-concrete setting data in addition-- so, now 'Place' and 'Year' include all locations and centuries definitively indicated by Tracy; 'Area' is an adjective based on the 'feel' of the story and especially the characters' names; and 'Era' is either 'feudal' or 'contemporary', based on the plot structure and especially the presence of noble castle-owners.
+Started gathering less-concrete setting data in addition-- so, now 'Place' and 'Year' include all locations and centuries definitively indicated by Tracy; 'Area' is an adjective based on the 'feel' of the story and especially the characters' names; and 'Era' is either 'past' (potentially with some elaboration) or 'contemporary', based on the plot structure and especially the presence of noble castle-owners.
 
 ## 14 August 2014
 
