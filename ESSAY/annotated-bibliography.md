@@ -11,6 +11,33 @@
 * concordance lines are REALLY cool
 * "If the words that describe the themes or the feelings elicited from the reading of the texts are used fairly infrequently, how is it that these themes and feelings are so easily associated with the genre of Gothic fiction? This can partially be explained through the high frequency of the words seemed and looked of which the tenth most frequent cluster is looked as if." (33) - Hmmm. Mostly on board, I suppose. "This helps to associate seemed and looked as if with the Gothic elements of the novels so that even when the Gothic words are not present, the association remains." (33)
 
+####Potter, Franz. *The History of Gothic Publishing, 1800-1835: Exhuming the Trade*.
+* **Literary Rubbish**. "To better understand and contextualise the history of the trade Gothic we must challenge certain assumptions about the canon-making process" (1).
+    - *The Critical Divide*. "Popular" gothics generally considered as not part of the genre, possibly even the cause of its decline (2). Two schools: "historically enclosed genre" vs "more comprehensive and continual diffusion of discourses" (4). Recycling is "essential to the life of the genre; it is a sign of activity rather than stagnation" (8).
+    - *Commercial readers*. Books kept circulating long after being written (9). Reading figures are a better indicator of importance/popularity.
+    - *The subliterary industry*. "the Gothic bluebook industry was itself a large secondary market for the Gothic and not merely a passive inheritor of Gothic subjects and styles from legitimate novels" (10).
+    - *Periodicals and terror*. "recycling... crosses the neat division between 'art' and 'trade' or 'genre' and 'trash'" (11).
+    - The business of morality: Authors and money. 
+* The Circulating Library
+	- The circulating library
+	- Gothic fiction in the circulating library
+	- The readers
+* Literary Mushrooms: The Gothic Bluebook
+	- A disreputable literary history
+	- Assessing the evidence
+	- The 'disposable rubbish' trade
+	- The fetishisation and moralisation of the formulaic
+	- Perverted tastes and vulgar readers
+* Ghosts, Spectres and Phantoms: Recycling the Gothic in Periodicals and Anthologies
+    - Definitions and boundaries: a compendium of prodigies
+    - The incubi of a morbid imaginations: Morality and the periodical Gothic
+    - Plundering the Germans
+    - The appetite for tales of terror
+* Morality and Blood: William Child Green
+* The Romance of Real Life: Sarah Wilkinson
+* The Business of Morality: Francis Lathom
+* The Monster of Morality: Mary Shelley.
+    
 ### References to pursue
 * O’Halloran: Corpus Stylistics as a way of overcoming arbitrariness and circularity.
     - O’Halloran, K. 2007a. ‘Corpus-assisted literary evaluation’, Corpora 2 (1), pp. 33-63.
