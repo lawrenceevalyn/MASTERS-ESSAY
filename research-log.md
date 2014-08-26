@@ -1,3 +1,7 @@
+## 26 August 2014
+
+Realised that University of Illinois has some great digitized texts that I have access to despite their not appearing in UVic's catalogue; at book 147, started searching it, too. http://quest.library.illinois.edu/illinoisharvest/
+
 ## 21 August 2014
 
 Really, I'm interested in how Radcliffe's rationalizing conclusions compare to her imitators. Are other explanations more plausible, more detailed? Less? How many forgo the explanation altogether?
@@ -28,13 +32,13 @@ Realizing that google OCR is much, much better than NCCO, probably due to qualit
 
 It does look like, with NCCO Corvey as a back up, a lot more of these are available than I thought. I expect I'll have 150 to 200 in the end!
 
-## 3 August 2015
+## 3 August 2014
 
 Very annoyed to discover that #101, TALES OF TERROR, is in *verse*! **Verse!!** Not a novel at all! And this on top of, apparently, not really being written by Matthew Lewis.
 
 Unsure how to proceed-- wish I could just strike through the text; maybe hide the row?
 
-## 30 July 2015
+## 30 July 2014
 
 Research ideas jotted on sticky notes in my room:
 * Why is there so little cannibalism in the Gothic?
@@ -43,11 +47,11 @@ Research ideas jotted on sticky notes in my room:
 * Can find all character names by extracting all capitalized words, discarding duplicates, manually discarding non-names.
     - What about two-word name combos? i.e., Lord O'Sinister. Just discard titles & work with, e.g., O'Sinister?
 
-## 27 July 2015
+## 27 July 2014
 
 Decided that, if full texts are available as pdfs from sources other than NCCO (i.e., if pdfs of halfway adequate quality are available), I should snag those and run my own ocr on them. Asked mum for ocr recommendations.
 
-## 26 July 2015
+## 26 July 2014
 
 Started tracking down full texts of Tracy's novels:
 - If multiple e-texts are available, choose the one with the best OCR that still appears to follow the original text. Then manually delete any paratextual information that would not have been included in the original.
@@ -57,7 +61,7 @@ Started tracking down full texts of Tracy's novels:
 
 **Should I use my Gothic 'canon' as training texts to identify the topics?** Or will this make it impossible to identify when books diverge interestingly from that canon?
 
-## 22 July 2015
+## 22 July 2014
 
 Right now entering only setting information that is unambiguous, based on mentions of dates or places.
 
@@ -65,13 +69,13 @@ Most info is less certain, however. Perhaps add era categories of 'the past' and
 
 Decided to mark time periods based on the main tale, rather than the frame narrative, where such frames exist.
 
-## 20 July 2015
+## 20 July 2014
 
 Suggestions from mom:
 - use ls* and redirect to filenames.text to get names for program to run
 - if I can write the program so I say 'run program.py on file.txt' then I can write a shell script that can just call that program through every file (a shell script is just a file of shell commands-- )
 
-## 15 July 2015
+## 15 July 2014
 
 Starting poking around with topic modeling.
 - model-2 is now 100 topics, 15 topic words, 600 iterations.
