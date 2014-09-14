@@ -1,3 +1,7 @@
+## 1 September 2014
+
+Full texts are done!! 162 of 208 exist in some kind of digital form; of those, 7 are human-corrected OCR, 115 are horrid OCR, and 40 are PDFs.
+
 ## 26 August 2014
 
 Realised that University of Illinois has some great digitized texts that I have access to despite their not appearing in UVic's catalogue; at book 147, started searching it, too. http://quest.library.illinois.edu/illinoisharvest/
