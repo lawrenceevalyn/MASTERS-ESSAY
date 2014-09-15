@@ -14,6 +14,10 @@
 
 ...
 
+####O’Halloran, Kieran (2007). Corpus-assisted literary evaluation. Corpora, 2(1) pp. 33–63.
+* Fleur Adcock’s poem, Street Song, is evaluated by the stylistician, Roger Fowler, as ‘dynamic and disturbing’. I agree with his literary evaluation. These unsettling effects take place in initial response to the poem... before  proper reflection and analysis of the poem and individual interpretation of it. Implicit within Fowler’s evaluation is that this is likely to apply for readers generally. The purpose of this article is to show how empirical corpus evidence can usefully provide substantiation of such initial evaluations of literary works, showing whether or not they are likely to be stereotypically experienced by readers. In drawing on both schema theory and corpus analysis to achieve this, the article makes links between cognitive stylistic and corpus stylistic foci. 
+
+...
 
 ####Potter, Franz. *The History of Gothic Publishing, 1800-1835: Exhuming the Trade*.
 * **Literary Rubbish**. "To better understand and contextualise the history of the trade Gothic we must challenge certain assumptions about the canon-making process" (1).
