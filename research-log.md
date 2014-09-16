@@ -1,3 +1,7 @@
+## 15 September 2014
+
+Updated to-do list in preparation for meeting with Dr Miles. Current plan: no topic modeling, because there just doesn't seem to be any reason for it. Instead, a variety of frquency-based analyses, looking for evidence of gendered difference, first in plot summaries and then in *Udolpho* vs. *Monk*.
+
 ## 1 September 2014
 
 Full texts are done!! 162 of 208 exist in some kind of digital form; of those, 7 are human-corrected OCR, 115 are horrid OCR, and 40 are PDFs.
