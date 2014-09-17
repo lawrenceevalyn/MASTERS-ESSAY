@@ -1,3 +1,13 @@
+## 16 September 2014
+
+Met with Dr Miles; set next meeting for Sept 30. Goal for this term: acquire, and write up, *all* data intended to be used in the essay.
+
+Set up the spreadsheet to record bibliographical data: pages and chapters per volume (recorded and actual), to calculate pages per chapter, and the presence of epigraphs. If it comes up (hasn't yet), a 'y' will only be recorded for epigraphs if they continue beyond the first chapter.
+
+Current research fear: the keyword frequency techniques I'm currently interested in are best-suited for studies of stylistics, which are absurd to attempt on Tracy's summaries. But I'm not convinced that topic modeling will be *more* relevant.
+
+It's important to stick to testing specific hypothesis... with the summaries, my null hypothesis is that men's books and women's books are about roughly the same kinds of things, so they'll be characterized by similar keywords. (Is that the right use of 'null hypothesis'?) If they produce basically similar keyword lists, I'll note it briefly, note that it might also reflect the obvious limits of my use of summaries-as-proxy, and then move on to whatever was more fruitful.
+
 ## 15 September 2014
 
 Updated to-do list in preparation for meeting with Dr Miles. Current plan: no topic modeling, because there just doesn't seem to be any reason for it. Instead, a variety of frquency-based analyses, looking for evidence of gendered difference, first in plot summaries and then in *Udolpho* vs. *Monk*.

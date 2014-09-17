@@ -16,4 +16,4 @@
 * Frequency Analysis
 * Collocations and Clusters
 
-## Note novel settings in spreadsheet?
+## Note chapters, pagination, and epigraphs in spreadsheet
