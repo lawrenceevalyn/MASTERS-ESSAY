@@ -1,26 +1,3 @@
-[ e_lemma.txt (Ver.1) 
-[ Complied by Yasumasa Someya, September 1, 1998.
-[ This lemma list is provided "as is" and is free to use for any research
-[ and/or educational purposes. 
-[ The list currently contains 40,569 words (tokens) in 14,762 lemma groups. 
-[ It is still far from complete, but I hope you find the list useful in 
-[ preparing your own more complete lemma list. If you have any questions or
-[ comments about this lemma list, feel free to contact me (ysomeya@gol.com)
-[ at any time.
-[ NOTE 1: You may want to change or delete some of the following entries:
-[   'nt -> 't,nt,t
-[   have -> has,having,had,'d,'ve,d,ve 
-[   be -> am,are,is,was,were,being,been,'m,m
-[   will -> 'll,ll
-[   meet -> meets,met
-[   meeting -> meetings
-[   misunderstand -> misunderstands,misunderstood
-[   misunderstanding -> misunderstandings
-[   understand -> understands,understood
-[   understanding -> understandings
-[ NOTE 2: Acronyms and other abbreviated words are listed here without
-[   full stops.(e.g. BA, Mr, Messrs, Tue, YMCA, etc.)
-[ ==========================================================================
 'nt  -> 't,nt,t
 a -> an
 A-bomb -> A-bombs

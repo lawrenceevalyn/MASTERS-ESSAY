@@ -1,4 +1,8 @@
-## 30 September 2014
+﻿## 30 September 2014
+
+Removed the problematic BE and HAVE entries from the lemma list, re-ran the wordlists for m and f summaries, also did wordlists for Udolpho and Monk. May actually NOT remove character names/ titles/ etc because they are making some interesting appearances on the summaries wordlists.
+
+---
 
 Got started with WordSmith Tools!
 
