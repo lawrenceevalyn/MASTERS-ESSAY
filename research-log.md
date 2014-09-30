@@ -1,3 +1,15 @@
+## 30 September 2014
+
+Got started with WordSmith Tools!
+
+Wanted to do some keyword analysis but the reference corpuses aren't available freely; sent requests for BNC and a Canadian corpus.
+
+Did some wordlists in the mean time. Found stoplists and lemma lists online, but couldn't figure out how to remove BE and HAVE; the stoplist wasn't catching them. (Maybe remove them from the lemma list? Later-- gee, it's annoying that I have to switch to Windows to run this software.)
+
+Definitely need to go through that stoplist again to remove, for example, "de" and "st".
+
+Is there some way to know whether the differences actually... matter? Statistically speaking?
+
 ## 16 September 2014
 
 Met with Dr Miles; set next meeting for Sept 30. Goal for this term: acquire, and write up, *all* data intended to be used in the essay.
