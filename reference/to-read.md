@@ -1,4 +1,5 @@
 ### References to pursue
+* **Corpus linguistics in literary analysis : Jane Austen and her contemporaries** by Bettina Fischer-Starcke
 * http://www.ahds.ac.uk/creating/guides/linguistic-corpora/
 * Rictor Norton's *Gothic Readings: The First Wave*
 * O’Halloran: Corpus Stylistics as a way of overcoming arbitrariness and circularity.
