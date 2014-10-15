@@ -1,4 +1,5 @@
 ### References to pursue
+* http://www.ahds.ac.uk/creating/guides/linguistic-corpora/
 * Rictor Norton's *Gothic Readings: The First Wave*
 * O’Halloran: Corpus Stylistics as a way of overcoming arbitrariness and circularity.
     - O’Halloran, K. 2007a. ‘Corpus-assisted literary evaluation’, Corpora 2 (1), pp. 33-63.
