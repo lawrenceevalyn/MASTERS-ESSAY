@@ -1,4 +1,10 @@
-﻿## 30 September 2014
+﻿## 17 October 2014
+
+Brought all the keywords to Dr Miles on Oct 8 -- rapidly became clear that BNC isn't a suitable corpus, because it singles out "upon" as the most statistically significant word, but a quick look at google n-grams shows that this is almost certainly a chronological trend. Need an 18th century corpus; ECCO would be perfect, if only they would give it to me.
+
+I think it's time to go back to the counting-and-making-graphs stage of things: Frederick Frank's "gothic type" designations, and the epigraph/chapter information I was going to track manually. If only that didn't seem so *tedious*.
+
+## 30 September 2014
 
 Removed the problematic BE and HAVE entries from the lemma list, re-ran the wordlists for m and f summaries, also did wordlists for Udolpho and Monk. May actually NOT remove character names/ titles/ etc because they are making some interesting appearances on the summaries wordlists.
 
