@@ -15,4 +15,4 @@ Lawrence will pay Ennis as soon as he's paid his tuition (just to make sure that
 
 ### Entering Frank's Metadata
 
-**September 28:** agreed to a rate of 50c per book for Ennis to add Frederick Frank's "Gothic Type" to each book's spreadsheet entry, to be completed before October 31.
+**September 28:** agreed to a rate of 25c per book for Ennis to add Frederick Frank's "Gothic Type" to each book's spreadsheet entry, to be completed before October 31.
