@@ -1,4 +1,12 @@
-﻿## 17 October 2014
+﻿## 11 November 2014
+
+Eek, since the last log update I have:
+
+Typed up Frank's Gothic Types for all 208 of Tracy's that he included in his own index. Found that he had WAY TOO MANY types; condensed them somewhat in a "main type" column.
+
+Initial findings:
+
+## 17 October 2014
 
 Brought all the keywords to Dr Miles on Oct 8 -- rapidly became clear that BNC isn't a suitable corpus, because it singles out "upon" as the most statistically significant word, but a quick look at google n-grams shows that this is almost certainly a chronological trend. Need an 18th century corpus; ECCO would be perfect, if only they would give it to me.
 
