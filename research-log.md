@@ -2,9 +2,13 @@
 
 Eek, since the last log update I have:
 
-Typed up Frank's Gothic Types for all 208 of Tracy's that he included in his own index. Found that he had WAY TOO MANY types; condensed them somewhat in a "main type" column.
+Last meeting (Nov 4), typed up Frank's Gothic Types for all 208 of Tracy's that he included in his own index. Found that he had WAY TOO MANY types; condensed them somewhat in a "main type" column.
 
-Initial findings:
+Initial findings: Domestic & Sentimental are strongly female-dominated, none of the others are male-dominated. Main chunks of the pie are Chapbook, Domestic, High Gothic, High Gothic (terror), History, and Sentimental.
+
+This week, started smashing the Gothic Types into Tracy's motifs. Pie charts are no good, but bar graphs seem promising -- in particular, history and the various High Gothics all seem to look similar, with domestic/sentimental identifiable in their *lack* of various motifs (e.g., murder).
+
+Potential structure of essay: Driving question is 'what categories usefully distinguish among these texts?' First attempt, gender: do seem to see a male tradition. Resulting assumption: male/horror holds, but terror is the norm and thus not female. Second attempt, genre: now there's no male tradition, but there is a female one. Resulting assumption: horror/terror no longer holds, but male/female might. Final conclusion: critical conversation should return to a consideration of the domestic/sentimental in the Gothic, because this is the framework best supported by the data.
 
 ## 17 October 2014
 
