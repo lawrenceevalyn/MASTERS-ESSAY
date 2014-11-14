@@ -1,4 +1,8 @@
-﻿## 11 November 2014
+﻿## 13 November 2014
+
+Potential structure for essay: models of the early gothic: Tracy's model; Frank's model; combined model; initial notes on what a model made of full text would look like; strengths and limitations of each model, implications.
+
+## 11 November 2014
 
 Eek, since the last log update I have:
 

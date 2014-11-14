@@ -1,19 +1,8 @@
 # TO DO
 
-## Acquire reference corpus
-* BNC for full texts?
-* What about summaries?
+## Graph genre prevalence for all 70 motifs
+* Condense Frank's genres further: focus on domestic/sentimental vs. High Gothic binary
 
-## Run corpus analysis on two bodies of plot summaries (male vs. female)
-* Keyword Analysis
-    - Concordance Lines and Extracts
-* Frequency Analysis
-* Collocations and Clusters
-
-## Run corpus analysis on *Udolpho* and *Monk*
-* Keyword Analysis
-    - Concordance Lines and Extracts
-* Frequency Analysis
-* Collocations and Clusters
+## Index all 500 of Frank's Gothic Types?
 
 ## Note chapters, pagination, and epigraphs in spreadsheet
