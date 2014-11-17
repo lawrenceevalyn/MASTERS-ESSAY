@@ -10,9 +10,4 @@
 Total: 162 books x $1.50 = **$243**
 Lawrence will pay Ennis as soon as he's paid his tuition (just to make sure that check doesn't bounce)
 
-**Mid September**: agreed that, rather than having Lawrence pay Ennis directly, the $243 will be applied to Ennis' half of wedding expenses.
-
-
-### Entering Frank's Metadata
-
-**September 28:** agreed to a rate of 25c per book for Ennis to add Frederick Frank's "Gothic Type" to each book's spreadsheet entry, to be completed before October 31.
+**October**: agreed that, rather than having Lawrence pay Ennis now, the $243 will be deposited in the shared bank account once it exists in January.
