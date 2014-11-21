@@ -14,6 +14,20 @@ This week, started smashing the Gothic Types into Tracy's motifs. Pie charts are
 
 Potential structure of essay: Driving question is 'what categories usefully distinguish among these texts?' First attempt, gender: do seem to see a male tradition. Resulting assumption: male/horror holds, but terror is the norm and thus not female. Second attempt, genre: now there's no male tradition, but there is a female one. Resulting assumption: horror/terror no longer holds, but male/female might. Final conclusion: critical conversation should return to a consideration of the domestic/sentimental in the Gothic, because this is the framework best supported by the data.
 
+## 4 November 2014
+
+Notes to follow up on from meeting with Dr Miles--
+
+ernest baker, history of the english novel
+clara macintyre
+enid railo, the haunted castle: a study of english romanticism
+J M S thompkins the popular novel in england
+1920s criticism - approached gothic as an offshoot of sentimental fiction prior to David Punter
+
+useful work for classifying things - m hadley
+the undiscovered genre: a search for the german gothic novel
+argument: such rapid interchange, you can't identify where things start or who's to blame for what
+
 ## 17 October 2014
 
 Brought all the keywords to Dr Miles on Oct 8 -- rapidly became clear that BNC isn't a suitable corpus, because it singles out "upon" as the most statistically significant word, but a quick look at google n-grams shows that this is almost certainly a chronological trend. Need an 18th century corpus; ECCO would be perfect, if only they would give it to me.
