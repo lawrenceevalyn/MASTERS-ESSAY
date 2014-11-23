@@ -1,4 +1,8 @@
-﻿## 13 November 2014
+﻿## 22 November 2014
+
+Condensed all High Gothic types to High Gothic; condensed Domestic and Sentimental to Domestic/Sentimental; for Natural Horror, identified with next most appropriate category; for others, condensed to Other Gothic; deleted types for ANECDOTES OF TWO WELL-KNOWN FAMILIES (Parody), THE MARCHIONESS!!! OR, "THE MATURED ENCHANTRESS" (Parody) and THE ADVENTURES OF FERDINAND COUNT FATHOM (Picaresque) for being non-Gothic.
+
+## 13 November 2014
 
 Potential structure for essay: models of the early gothic: Tracy's model; Frank's model; combined model; initial notes on what a model made of full text would look like; strengths and limitations of each model, implications.
 
