@@ -1,4 +1,27 @@
-﻿## 22 November 2014
+﻿## 25 November 2014
+
+crossdressing - history
+
+inquisition over time
+
+make a database? **
+
+dueling - a lot of dueling; seen as a feudal/aristocratic tradition - gentlemanly honor is above the law
+more prevalent in domestic/sentimental - because they include aristocrats and matters of honor, very invested in clash between aristocracy and middle class
+Richard Cronen - Paper Pellets : journalists duel over reviews
+
+My actual research feels like a way to find answers, but it's really a way to find useful questions
+
+More orphans in domestic/sentimental; name number of noble peasant & orphan in High Gothic: suggests that basic trope of High Gothic is the foundling (about the question of legitimacy, noble blood), but domestic/sentimental detaches the orphan from this plot * (who has the first noble peasant? - Walpole, from Shakespeare)
+
+Is there non-familial murder? Did she not index it because it wasn't turning up?
+
+* Which is the first High Gothic with poison? --> next time; very widespread sensationalist poisonings in France
+Udolpho poisoning is even more interesting if she's the first to use the motif, because Emily's assistant is named after a famous poisoner
+
+Goal for next meeting: start drafting the argument
+
+## 22 November 2014
 
 Condensed all High Gothic types to High Gothic; condensed Domestic and Sentimental to Domestic/Sentimental; for Natural Horror, identified with next most appropriate category; for others, condensed to Other Gothic; deleted types for ANECDOTES OF TWO WELL-KNOWN FAMILIES (Parody), THE MARCHIONESS!!! OR, "THE MATURED ENCHANTRESS" (Parody) and THE ADVENTURES OF FERDINAND COUNT FATHOM (Picaresque) for being non-Gothic.
 
