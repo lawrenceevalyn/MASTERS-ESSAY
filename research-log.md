@@ -1,6 +1,34 @@
-﻿## 25 November 2014
+﻿## 8 December 2014
 
-crossdressing - history
+Opening paragraph:
+Scholarly discussions of subgenres within early Gothic novel typically focus on the stylistics of horror versus terror. However, when I examine the popular gothic at scale, these two modes collapse into each other, the differences between them eclipsed by those between the High Gothic and the sentimental Gothic. Correlating Frederick Frank's genre classifications of 208 Gothic novels with Ann Tracy's index of motifs contained within them, I will argue for a revival of a much earlier critical framework which traces the Gothic's origins directly to the sentimental novel. 
+
+Outline for rest of paper:
+-- really don't see horror vs. terror: Frank's subjective Gothic types struggle to decide between them, and his ultimate choices don't seem to be based in any motifs. (This makes sense, since horror/terror is all about *how* something is included, not *what* is included.)
+-- but this does not mean no distinctions are visible at this scale: the domestic/sentimental novel is strikingly distinct, defined (with a few exceptions) by its lack of most (high) Gothic motifs
+-- previous criticism about the sentimental Gothic says [x]
+-- my model suggests [y] (notice the dueling!) --> really want to dig into the details here to show how reframing the Gothic conversation around the sentimental opens up useful new readings.
+-- maybe end with a close reading of a sentimental novel? or sentimental elements in a traditional Gothic novel?
+
+Criticism to read:
+* ernest baker, history of the english novel
+* clara macintyre
+* enid railo, the haunted castle: a study of english romanticism
+* J M S thompkins the popular novel in england
+
+Novels to read:
+* Charlotte Dacre's sentimental ones -- Libertine & Passions
+* Charles Maturin's Wild Irish Boy??
+* Clara Reeve - anything but Old English Baron
+* Regina Maria Roche - anything but Clermont
+* Mary Shelley - Lodore
+* Charlotte Smith - Marchmont
+
+(interesting that many 'big name' Gothic writers also have sentimental/domestic novels under their belts which we largely don't read or discuss!)
+
+## 25 November 2014
+
+crossdressing - definitive of history genre
 
 inquisition over time
 
@@ -54,8 +82,7 @@ J M S thompkins the popular novel in england
 1920s criticism - approached gothic as an offshoot of sentimental fiction prior to David Punter
 
 useful work for classifying things - m hadley
-the undiscovered genre: a search for the german gothic novel
-argument: such rapid interchange, you can't identify where things start or who's to blame for what
+the undiscovered genre: a search for the german gothic novel -- argument: such rapid interchange, you can't identify where things start or who's to blame for what
 
 ## 17 October 2014
 
