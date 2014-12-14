@@ -1,4 +1,19 @@
-﻿## 8 December 2014
+﻿## 13 December 2014
+
+(role of authorial reputation? --WH Ireland has no reputation to lose; what about Edward Montague?)
+
+Notes from meeting with supervisor -- go farther with the thesis: horror/terror (and even male/female) are artificial/retrospective categories, not widely influential at the time
+
+my method is inherently historicist (?)
+- a way to explicitly address my reliance on other critics' coding / the DH methods: the clear object lesson is that critical categories are often retrospective/anachronistic
+
+Frank tries to apply these divisions to the wide corpus, but the retrospective ones don't work -- domestic vs high gothic is clearly responding to observable features in the texts, but horror/terror he often doesn't even try to distinguish between, and the books resist falling into those categories
+
+**What is the 'school of Radcliffe' other than terror?** -- this *was* an active category at the time. But -- **WAS there a school of Lewis?**
+
+What other categorization did people do? -- look at Garside reviews of these texts
+
+## 8 December 2014
 
 Opening paragraph:
 Scholarly discussions of subgenres within early Gothic novel typically focus on the stylistics of horror versus terror. However, when I examine the popular gothic at scale, these two modes collapse into each other, the differences between them eclipsed by those between the High Gothic and the sentimental Gothic. Correlating Frederick Frank's genre classifications of 208 Gothic novels with Ann Tracy's index of motifs contained within them, I will argue for a revival of a much earlier critical framework which traces the Gothic's origins directly to the sentimental novel. 
