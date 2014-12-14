@@ -2,7 +2,7 @@
 
 ## Graph genre prevalence for all 70 motifs (50/70 complete)
 
-## Draft preliminary argument for essay
+## Scan Garside introduction
 
 <!--- next steps for later?
 
