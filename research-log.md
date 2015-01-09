@@ -1,4 +1,8 @@
-﻿## 13 December 2014
+﻿<!-- ## 8 January 2015
+
+Just making a note so I don't derail on my beeminder goal, but current research status is somewhere between "eurgh" and "AAAAAUGH". So, Situation Normal? -->
+
+## 13 December 2014
 
 (role of authorial reputation? --WH Ireland has no reputation to lose; what about Edward Montague?)
 
