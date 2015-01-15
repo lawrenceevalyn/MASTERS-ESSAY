@@ -1,4 +1,8 @@
-﻿<!-- ## 8 January 2015
+﻿## 14 January 2015
+
+I finished making all my genre-motif charts, and decided that indexing all 500 of Frank's genres isn't practical at this stage in the project. So now I need to STOP with principal research (stop! stop!!) and start WRITING.
+
+<!-- ## 8 January 2015
 
 Just making a note so I don't derail on my beeminder goal, but current research status is somewhere between "eurgh" and "AAAAAUGH". So, Situation Normal? -->
 

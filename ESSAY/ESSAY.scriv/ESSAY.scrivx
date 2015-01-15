@@ -8,7 +8,7 @@
                 <IconFileName>Book (Blue Book).png</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem ID="15" Type="Text" Created="2014-05-29 16:25:49 -0700" Modified="2014-05-29 16:25:53 -0700">
+                <BinderItem ID="15" Type="Text" Created="2014-05-29 16:25:49 -0700" Modified="2015-01-14 22:41:50 -0800">
                     <Title>Introduction</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -17,81 +17,41 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
-                </BinderItem>
-                <BinderItem ID="9" Type="Text" Created="2014-05-29 16:20:55 -0700" Modified="2014-05-29 16:21:23 -0700">
-                    <Title>Motifs</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
                     <Children>
-                        <BinderItem ID="10" Type="Text" Created="2014-05-29 16:21:26 -0700" Modified="2014-05-29 16:26:29 -0700">
-                            <Title>Gendered Gothics</Title>
+                        <BinderItem ID="23" Type="Text" Created="2015-01-14 22:41:39 -0800" Modified="2015-01-14 22:41:50 -0800">
+                            <Title>thesis</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>859,0</TextSelection>
+                                <TextSelection>576,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="11" Type="Text" Created="2014-05-29 16:21:30 -0700" Modified="2014-05-29 16:26:29 -0700">
-                            <Title>Male and Female Characters</Title>
+                        <BinderItem ID="24" Type="Text" Created="2015-01-14 22:41:45 -0800" Modified="2015-01-14 22:47:05 -0800">
+                            <Title>methods</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1068,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="12" Type="Text" Created="2014-05-29 16:21:30 -0700" Modified="2014-05-29 16:26:29 -0700">
-                            <Title>The Female Gothic</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>8,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="13" Type="Text" Created="2014-05-29 16:21:31 -0700" Modified="2014-05-29 16:26:29 -0700">
-                            <Title>The Male Gothic</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>147,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="14" Type="Text" Created="2014-05-29 16:24:40 -0700" Modified="2014-05-29 16:26:29 -0700">
-                            <Title>Conclusions</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>421,0</TextSelection>
+                                <TextSelection>108,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="16" Type="Text" Created="2014-05-29 16:25:56 -0700" Modified="2014-05-29 16:26:00 -0700">
-                    <Title>Plot Summaries</Title>
+                <BinderItem ID="16" Type="Text" Created="2014-05-29 16:25:56 -0700" Modified="2015-01-14 23:02:12 -0800">
+                    <Title>Ann Tracy</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>819,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" Type="Text" Created="2014-05-29 16:26:08 -0700" Modified="2014-05-29 16:26:14 -0700">
-                    <Title>Close Readings</Title>
+                <BinderItem ID="18" Type="Text" Created="2014-05-29 16:26:08 -0700" Modified="2015-01-14 22:36:32 -0800">
+                    <Title>Tracy + Frank</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -155,6 +115,70 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <Children>
+                <BinderItem ID="9" Type="Text" Created="2014-05-29 16:20:55 -0700" Modified="2014-05-29 16:21:23 -0700">
+                    <Title>Motifs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="10" Type="Text" Created="2014-05-29 16:21:26 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>Gendered Gothics</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>859,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="11" Type="Text" Created="2014-05-29 16:21:30 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>Male and Female Characters</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1068,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="12" Type="Text" Created="2014-05-29 16:21:30 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>The Female Gothic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="13" Type="Text" Created="2014-05-29 16:21:31 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>The Male Gothic</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>147,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="14" Type="Text" Created="2014-05-29 16:24:40 -0700" Modified="2014-05-29 16:26:29 -0700">
+                            <Title>Conclusions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>421,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="1" Type="ResearchFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
             <Title>Research</Title>
@@ -271,9 +295,9 @@
         <FirstName></FirstName>
     </ProjectProperties>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2014-11-30 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="" CanWriteOnDeadlineDate="No">54</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2014-08-14 16:59:05 -0700"></PreviousSession>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-02-09 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-6" CanWriteOnDeadlineDate="No">454</SessionTarget>
+        <PreviousSession Words="241" Characters="1503" Date="2015-01-14 22:26:16 -0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

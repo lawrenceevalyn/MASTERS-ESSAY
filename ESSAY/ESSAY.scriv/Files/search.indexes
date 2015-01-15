@@ -2,7 +2,7 @@
 <SearchIndexes Version="1.0">
     <Documents>
         <Document ID="18">
-            <Title>Close Readings</Title>
+            <Title>Tracy + Frank</Title>
         </Document>
         <Document ID="10">
             <Title>Gendered Gothics</Title>
@@ -78,12 +78,21 @@ These results remain preliminary, at least until a sample can be assembled which
 What about blockquotes?
 The final format of this essay is still up in the air.</Text>
         </Document>
+        <Document ID="23">
+            <Title>thesis</Title>
+            <Text>Scholarly discussions of subgenres within early Gothic novel typically focus on the stylistics of horror versus terror. However, when I examine the popular gothic at scale, these two modes collapse into each other, the differences between them eclipsed by those between the High Gothic and the sentimental Gothic. Correlating Frederick Frank's genre classifications of 208 Gothic novels with Ann Tracy's index of motifs contained within them, I will argue for a revival of a much earlier critical framework which traces the Gothic's origins directly to the sentimental novel. </Text>
+        </Document>
         <Document ID="16">
-            <Title>Plot Summaries</Title>
+            <Title>Ann Tracy</Title>
+            <Text>My first and simplest attempt to find historical bibliographic evidence of contemporary genre categorization was my search for the Female and Male Gothics in Ann Tracy’s bibliography. In addition to her invaluable plot summaries of 208 novels, Tracy’s text includes a ten-page index listing in which novels various “motifs” can be found. Tracy uses the term “motif” broadly, to encompass a wide range of images, plot elements, and character types, because the index itself is built to be used by scholars who wish to know where to look for novels which include, for example, a garden as a scene of temptation. However, a modern spreadsheet program renders trivially easy what would have been a monumental feat of correlation in 1981 when Tracy’s work was published, and I have adapted her index to a different purpose: </Text>
         </Document>
         <Document ID="7">
             <Title>Yikes, the images are definitely gonna have to hang</Title>
             <Text>Yikes, the images are definitely gonna have to hang out separately.</Text>
+        </Document>
+        <Document ID="24">
+            <Title>methods</Title>
+            <Text>My data collection was, in effect, a series of experiments, in which my hypotheses were contually disproven.</Text>
         </Document>
         <Document ID="17">
             <Title>Conclusions</Title>
