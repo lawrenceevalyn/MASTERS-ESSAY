@@ -1,8 +1,8 @@
 # TO DO
 
-## Graph genre prevalence for all 70 motifs (50/70 complete)
-
 ## Scan Garside introduction
+
+## WRITE
 
 <!--- next steps for later?
 
