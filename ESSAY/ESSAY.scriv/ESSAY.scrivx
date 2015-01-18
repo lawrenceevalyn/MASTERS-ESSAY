@@ -85,7 +85,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="27" Type="Text" Created="2015-01-17 17:05:26 -0800" Modified="2015-01-17 17:29:40 -0800">
+                        <BinderItem ID="27" Type="Text" Created="2015-01-17 17:05:26 -0800" Modified="2015-01-17 18:50:16 -0800">
                             <Title>intro to Frank</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -356,7 +356,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-02-09 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-6" CanWriteOnDeadlineDate="No">487</SessionTarget>
-        <PreviousSession Words="335" Characters="2040" Date="2015-01-17 15:12:01 -0800"></PreviousSession>
+        <PreviousSession Words="337" Characters="2056" Date="2015-01-17 15:12:01 -0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
