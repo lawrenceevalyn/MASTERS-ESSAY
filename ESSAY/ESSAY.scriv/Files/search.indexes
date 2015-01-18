@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="25">
+            <Title>intro / methods</Title>
+            <Text>My first and simplest attempt to find historical bibliographic evidence of contemporary genre categorization was my search for the Female and Male Gothics in Ann Tracy’s bibliography. In addition to her invaluable plot summaries of 208 novels, Tracy’s text includes a ten-page index listing the novels in which various “motifs” can be found. Tracy uses the term “motif” broadly, to encompass a wide range of images, plot elements, and character types, because the index itself is built to be used as a simple starting point for in-depth explorations of particular topics. However, a modern spreadsheet program renders trivially easy what would have been a monumental feat of correlation in 1981 when Tracy’s work was published, and I have adapted her index to a different purpose: charting the genders of the indexed authors, I have asked which motifs — if any — can serve as predictors of the authorial gender of a given text. If we know that a novel has a subterannean passage in it, for example, or a monastery, or a prophetic dream, do we know anything about who wrote it? This particular framing of the question— not “what do men and women each write about?” but “what, if it appears, can be used to distinguish between men and women?” — was chosen to avoid [[FIND THE ARTICLE ABOUT UNPROVABLE CIRCULAR HYPOTHESES]]</Text>
+        </Document>
         <Document ID="18">
-            <Title>Tracy + Frank</Title>
+            <Title>Frank</Title>
         </Document>
         <Document ID="10">
             <Title>Gendered Gothics</Title>
@@ -10,6 +14,9 @@
 At first glance, the gendered differences are not, in fact, particularly striking. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.
 Moreover, the motifs characterized by a strong contrast tend to appear in relatively few works, making up a correspondingly minor part of the average reader's experience of the genre. Of the five most-represented motifs-- fainting, confinement, abduction, storm, and suicide mentions-- the suicide mentions show the greatest contrast, with a ratio of 61% male authors to 39% female.
 On the whole, then, male and female writers seem to have more commonalities than they do differences.</Text>
+        </Document>
+        <Document ID="26">
+            <Title>results</Title>
         </Document>
         <Document ID="19">
             <Title>Appendices</Title>
@@ -23,6 +30,10 @@ Overall, then, it seems that women are reluctant to describe gender-segregated s
 Men are also much more interested in their own gender than women when we look at the gendered subjects of activities like abduction and fainting. Both are generally a female affair, and female abductees and fainters are written about by both men and women. However, the minority of male abductees and fainters have been written about more often by men.
 This, then, is our first surprise: rather than finding each gender writing mostly about itself, women appear to be equal-opportunity subject matter, whereas men are mostly of interest to men.</Text>
         </Document>
+        <Document ID="27">
+            <Title>intro to Frank</Title>
+            <Text>However, I argue that these gendered patterns are not due to a male/female horror/terror split, but rather reflect the gendered patterns of the domestic and sentimental Gothic vs the ‘high’ Gothic. In order to connect [these gendered patterns] to genres, I turned to Frederick Frank’s bibliography, The First Gothics, which includes a classification of each text’s “Gothic type”. Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts under consideration, he provided 131 unique classifications. Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” In order to render his assessments useful for my own project, however, it was necessary to reduce his minute distinctions into broader categories. This process of reduction became, in its own right, my second experiment: at each stage of my gradual process of simplification, I asked, “Which distinctions of genre appear to be borne out by differences in authorship or content?” This process of reduction also led to my second </Text>
+        </Document>
         <Document ID="0">
             <Title>ESSAY</Title>
         </Document>
@@ -34,8 +45,11 @@ And if we turn our attention to those images-- like blood, caves, and subterrane
 Caves and subterranean passages have perhaps been the most misperceived. Although Ann Radcliffe, critically credited with defining and refining the tropes of the female Gothic, makes heavy use of both motifs, she is one of very few female authors to do so. When her three caves and six subterranean passages are excluded from the sample, both motifs become even more decidedly male.
 Perhaps these men are, like Henry Walpole in The Castle of Otranto, presenting underground spaces as avenues of flight or sanctuary for distressed women; even if so, the association is no longer likely to be, as early feminist critic Juliann Fleenor characterized the Female Gothic, an expression of an unnameable conflict with patriarchy (28). It is more likely, instead, that these caverns have appeared as the secret meeting-places of conspirators, as part of a German-influenced tradition of tales about criminal underworlds and evil Illuminati.</Text>
         </Document>
+        <Document ID="28">
+            <Title>reduction</Title>
+        </Document>
         <Document ID="20">
-            <Title>Motifs</Title>
+            <Title>Tracy charts</Title>
         </Document>
         <Document ID="13">
             <Title>The Male Gothic</Title>
@@ -49,7 +63,7 @@ The masculine impulse to 'go farther,' to replace coy allusions with unflinching
             <Text>This is a test.</Text>
         </Document>
         <Document ID="21">
-            <Title>Plot Summaries</Title>
+            <Title>Frank charts</Title>
         </Document>
         <Document ID="14">
             <Title>Conclusions</Title>
@@ -61,6 +75,9 @@ These results remain preliminary, at least until a sample can be assembled which
         <Document ID="4">
             <Title>I found Scrivener very useful for composing my undergrad</Title>
             <Text>I found Scrivener very useful for composing my undergrad thesis. But I don’t like Scrivener’s version control at all. And I think I’d enjoy seeing all of Github’s statistics on my progress.</Text>
+        </Document>
+        <Document ID="29">
+            <Title>genre-motif charts</Title>
         </Document>
         <Document ID="22">
             <Title>Stray Thoughts</Title>
@@ -80,18 +97,18 @@ The final format of this essay is still up in the air.</Text>
         </Document>
         <Document ID="23">
             <Title>thesis</Title>
-            <Text>Scholarly discussions of subgenres within early Gothic novel typically focus on the stylistics of horror versus terror. However, when I examine the popular gothic at scale, these two modes collapse into each other, the differences between them eclipsed by those between the High Gothic and the sentimental Gothic. Correlating Frederick Frank's genre classifications of 208 Gothic novels with Ann Tracy's index of motifs contained within them, I will argue for a revival of a much earlier critical framework which traces the Gothic's origins directly to the sentimental novel. </Text>
+            <Text>Scholarly discussions of subgenres within early Gothic novel typically focus on the stylistics of horror versus terror. However, when I examine the popular gothic at scale, these two modes collapse into each other: the differences between them are eclipsed by those between the High Gothic and the sentimental Gothic. Correlating Frederick Frank's genre classifications of 208 Gothic novels with Ann Tracy's index of motifs contained within them, I will argue for a revival of a much earlier critical framework which traces the Gothic's origins directly to the sentimental novel. </Text>
         </Document>
         <Document ID="16">
             <Title>Ann Tracy</Title>
-            <Text>My first and simplest attempt to find historical bibliographic evidence of contemporary genre categorization was my search for the Female and Male Gothics in Ann Tracy’s bibliography. In addition to her invaluable plot summaries of 208 novels, Tracy’s text includes a ten-page index listing in which novels various “motifs” can be found. Tracy uses the term “motif” broadly, to encompass a wide range of images, plot elements, and character types, because the index itself is built to be used by scholars who wish to know where to look for novels which include, for example, a garden as a scene of temptation. However, a modern spreadsheet program renders trivially easy what would have been a monumental feat of correlation in 1981 when Tracy’s work was published, and I have adapted her index to a different purpose: </Text>
+            <Text>Experiment: what motifs are evidence of gender? Result: there’s a lot of man stuff, and a lot of everybody stuff, but not a lot of woman stuff.</Text>
         </Document>
         <Document ID="7">
             <Title>Yikes, the images are definitely gonna have to hang</Title>
             <Text>Yikes, the images are definitely gonna have to hang out separately.</Text>
         </Document>
         <Document ID="24">
-            <Title>methods</Title>
+            <Title>methodological philosophy</Title>
             <Text>My data collection was, in effect, a series of experiments, in which my hypotheses were contually disproven.</Text>
         </Document>
         <Document ID="17">
