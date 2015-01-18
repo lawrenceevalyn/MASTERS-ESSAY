@@ -13,7 +13,7 @@
 	<false/>
 	<key>binderSelection</key>
 	<array>
-		<integer>7</integer>
+		<integer>0</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
@@ -80,7 +80,7 @@
 	<real>227</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>18</integer>
+		<integer>0</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>1</integer>
@@ -107,7 +107,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>148</integer>
+		<integer>149</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -1363,9 +1363,19 @@
 				<integer>0</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{0, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>18</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>0</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>1</integer>
@@ -1449,7 +1459,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>143 222 1059 572 0 0 1440 878 </string>
+	<string>137 286 1059 572 0 0 1440 878 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>countDraftFootnotes</key>

@@ -85,7 +85,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="27" Type="Text" Created="2015-01-17 17:05:26 -0800" Modified="2015-01-17 17:23:23 -0800">
+                        <BinderItem ID="27" Type="Text" Created="2015-01-17 17:05:26 -0800" Modified="2015-01-17 17:29:40 -0800">
                             <Title>intro to Frank</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -96,9 +96,10 @@
                                 <TextSelection>1214,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="28" Type="Text" Created="2015-01-17 17:17:27 -0800" Modified="2015-01-17 17:22:01 -0800">
+                        <BinderItem ID="28" Type="Text" Created="2015-01-17 17:17:27 -0800" Modified="2015-01-17 17:29:46 -0800">
                             <Title>reduction</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -355,7 +356,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-02-09 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-6" CanWriteOnDeadlineDate="No">487</SessionTarget>
-        <PreviousSession Words="303" Characters="1858" Date="2015-01-17 15:12:01 -0800"></PreviousSession>
+        <PreviousSession Words="335" Characters="2040" Date="2015-01-17 15:12:01 -0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
