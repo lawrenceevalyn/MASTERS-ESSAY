@@ -4,7 +4,9 @@ With help from Charles, I figured out how to correlate my motifs with the new ge
 
 I think any genre-tag that has fewer than five books attached it one I can ignore at this stage -- as I index the rest of Frank, they may become relevant and gain more books, but for now they're just clutter. I'm finding horror/terror and Radcliffe/Monk&monastic-shocker to be useful dichotomies (though I'm a little uncomfortable using *percentage* bar graphs, even though they're so much clearer) but I need to figure out what I'm doing with high gothic/ domestic/ sentimental/ history/ etc. Maybe lump domestic & sentimental together again? There are *so many* high gothic texts.
 
-<!-- I really wish I was farther along-- it's well past the time when I should be *writing*, but I fundamentally believe that my previous genre-type experiment was methodologically flawed, and my motif-only work is uselessly incomplete. I just have to get more of my other responsibilities off my back and let Hard Work do its best! -->
+<!-- I really wish I was farther along-- it's well past the time when I should be *writing*, but I fundamentally believe that my previous genre-type experiment was methodologically flawed, and my motif-only work is uselessly incomplete. I just have to get more of my other responsibilities off my back and let Hard Work do its best! 
+
+though AUGH I am letting my gitminder goal fall so behind!! -->
 
 ## 14 January 2015
 
