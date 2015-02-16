@@ -1,23 +1,28 @@
-Hello everyone! My name is Lawrence Evalyn; I'm a graduate student at the University of Victoria, and I'm not quite good at titles yet -- on the program it says I'm here to talk to you about "Distant-Reading Gendered Gothic Motifs", but that's unforgivably vague. A more accurate title would be "Reading Metadata: Visualizing Gender Divides in the Gothic Novel 1790-1830." A catchier title would be "Reading Hundreds Of Books When You Don't Have Any Books: Some Pie Charts."
+On the program it says I'm here to talk to you about "Distant-Reading Gendered Gothic Motifs", but that's unforgivably vague without even being catchy. A more accurate title would be "Reading Metadata: Visualizing Gender Divides in the Gothic Novel 1790-1830." A catchier title would be "Reading Hundreds Of Books When You Don't Have Any Books: Some Pie Charts."
 
-I want to start with some background on my research questions, and then spend the bulk of my time exploring the visualization of metadata as a research practice.
+I want to start with some background on my research questions and loop back to some results at the end, but spend the bulk of my time exploring the visualization of metadata as a research practice.
 
-At the birth of the Gothic novel in the 1790s, the genre's position in the literary landscape was startlingly similar to that of modern-day romance novels. In particular, the Gothic novel was connected in the popular imagination with the emerging institution of the circulating library, a precursor to the modern public library which for the first time made it straightforward to readers to read books without having to purchase them. 
+So, a little bit of set-up on how the Gothic was read. At the birth of the Gothic novel in the 1790s, the genre's position in the literary landscape was startlingly similar to that of modern-day romance novels, in both popularity and reputation. Jane Austen's delightful Gothic parody Northanger Abbey actually has a great depiction of the Gothic reading experience.
 
-<!--Instead of purchasing a few novels and rereading them several times, readers began to borrow novels from subscription-based circulating libraries, read them voraciously once, and then return them for the next novel that looked like it offered a similar reading experience. The Gothic exploits this reading pattern by building novels around a central element of suspense, keeping readers turning the pages until they finally discover the dark secret at the end. What this means is that, when a reader finished with Ann Radcliffe's *Mysteries of Udolpho*, which has been receiving attention and praise from critics since the day it was published, that same reader would take volume three back to the library, pick out a new triple-decker Romance, and possibly start reading that same day a book like "Who's The Murderer?" or "There Is A Secret, Find It Out." So, I'm starting with the premise that, any time we attempt to define the 'normal' boundaries of the Gothic as a genre, we *have* to include "Horrid Mysteries" and "The Nuns of the Desert" and all of the other books which contributed to the genre directly alongside those texts which have since been canonized.-->
+[Catherine Morland and Isabella Thorpe]
+[Books are all "of the same kind"]
+[Primary evaluation: are they all horrid?]
+
+Ann Radcliffe's Mysteries of Udolpho and The Italian have been receiving critical acclaim since the day they were published, but the rest of these books were deemed so unimportant that for a long time twentieth-century scholars assumed that they had never even existed. But all the evidence I've seen suggests that readers didn't see Radcliffe's books as being exclusively in conversation with non-Gothic literature, or with one or two other rarified Gothic masterpieces, the way critics often examine them; readers may have thought Radcliffe was a better writer than Eliza Parsons, who wrote The Mysterious Warning and The Castle of Wolfenbach -- but the difference in skill didn't change the fact that they were "of the some kind."
+
+So my research tries to put these key texts back into context with their genre as a whole, using the power of spreadsheets. The most obvious answer would be to get a couple hundred novels, scan them, and start examining what they say -- unfortunately, my MA program is not that long. So I turned to bibliographies, and especially to one bibliography by Ann Tracy, The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs.
+
+This is the Index to Motifs. [Tracy's use of 'motif'].
+
+From here, I knew I needed to keep digesting all this data further, and it occurred to me that I had a prime opportunity to sort of check up on some of the critical conversation that happens around the Male Gothic versus the Female Gothic.
+
+not "discrete bounded entities" but "conditional expressions of interpretative parameters"
+
 
 texts “do not ‘belong’ to genres but are, rather, uses of them” (John Frow, *Genre*, 2). 
 
-My actual focus today is going to be on the experimental process I employed in order to [live up to] that premise, but 
-[Subterannean passages]
 
-So, now I want to spend my remaining ten minutes telling you about how this pie chart came to be.
-[Got my information from Tracy -- a process of taking information and rendering it digestible.]
-
-Now that I finally have a pretty circle, it's definitely digestible -- which means I can move on to phase two. Phase two is iterating these first graphs several times, in order to make them actually accurate.
-*[Joanna Drucker and Humanities Graphical Display]*
-
-The first thing I noticed was that I'd color coded girls and boys with pink and blue, even though that's both historically inaccurate and ridiculous. I also noticed that the defaults were ugly, so I fixed those.
+The first thing I noticed was that I'd color coded girls and boys with pink and blue, even though that's both historically inaccurate and ridiculous.
 
 The second thing I noticed was that both circles were the same size, which makes them look equally important. I decided to make the box itself a fixed size, to indicate the possibility space of all 208 novels under consideration, and then to scale the charts themselves based on 
 
