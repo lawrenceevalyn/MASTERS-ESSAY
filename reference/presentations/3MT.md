@@ -1,3 +1,0 @@
-- pretty much exactly like romance novels now
-- scholars in my field have done a lot of great work investigating the details of maybe a dozen books
-- but people who read romance novels don't read ten or twelve books over the course of 40 years, and we have a lot of evidence suggesting that the people who read these Gothic novels did so by checking them out from libraries, which were just becoming popularized then, so people would return the last volume of something that gets studied a lot, like Frankenstein, and they'd check out something that has been completely forgotten for two hundred years, like "" and "There Is A Secret, Find It Out" (those are real book titles, by the way). 

@@ -1,0 +1,12 @@
+Hey, everyone! Today I want to talk to you about the Gothic novel of the 1790s. But because I've been dabbling in the digital humanities, the book I'm going to be close-reading today is Ann Tracy's bibliography, The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs.
+
+In basically all fields, critics tend to define genres or time periods based on a close examination of relatively few texts, because we're only human. With the eighteenth century Gothic novel, even contemporary audiences tended to write off the bulk of novels being published as simply copies of Ann Radcliffe or Matthew Lewis.
+But my overarching research goal is to find ways to compare these canonical texts to the mass of texts that were being written and read alongside them, and to see if I can fact-check our assumptions about that mass of texts. Right now I'm curious about what critics describe as the Female Gothic and the Male Gothic; there's a lot of discussion about what characteristics each one has, and how authors play with the conventions of the two gendered traditions, but I was curious whether men and women's books were actually all that different from each other.
+
+So, the project I've completed most recently was an examination of Ann Tracy's 'index to motifs'. Tracy uses the word motif very broadly, to encompass things like 'shipwreck' or 'fire' or 'apparent peasant of noble demeanour.' I looked at the 70 motifs that appeared in at least 20 of the 208 novels that she indexed, to see is any motifs could serve as strong predictors of the author's gender. So, on the basis of all that, here is the Female Gothic!
+
+These were the only two motifs of the 70 which are notably more likely to appear in books by women than in books by men. A first reaction would be to say, well, that's interesting, the female gothic is a lot less about caves and subterranean passages and blood than we expected, it's much more domestic than we thought. Both these motifs appear with regularity in the works of Jane Austen, for example. But I actually think it's getting ahead of ourselves, with data like this, to say that there is necessarily a female gothic at all. Especially because most of my graphs look like-- this.
+
+39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties.
+
+29 motifs where men outnumber women.
