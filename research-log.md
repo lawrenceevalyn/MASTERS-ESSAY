@@ -1,4 +1,12 @@
-﻿## 1 February 2015
+﻿## 21 February 2015
+
+Oh, wow, the chapbooks/ high Gothics/ histories/ sentimental/ domestic charts look *just* like my earlier genre type graphs, but in a methodologically sound way!!
+
+A lot of my earlier hypotheses about going back to the domestic roots of the Gothic should still stand, then. Time to finish tabulating these Gothic types and get a draft out the door!
+
+<!-- I'm still fighting some Existential Dread, but as Ennis has repeatedly reminded me, I've *been working*, just on a wide range of more urgent things. There is still plenty of time to finish this! I'm not as far behind as I feel! I don't need to radically re-structure my intended thesis or do completely new experiments! It will BE OKAY. -->
+
+## 1 February 2015
 
 With help from Charles, I figured out how to correlate my motifs with the new genre-tags! Now I can mess around with correlating each motif with different genre-tags and seeing what happens.
 
