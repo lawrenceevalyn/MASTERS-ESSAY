@@ -1,4 +1,6 @@
-﻿## 21 February 2015
+﻿<!-- A little embarrassed how often I use these comments to just arbitrarily add a commit so my beeminder doesn't derail, but... I've set aside time to get some SERIOUS work done in the next few days! I've done a lot of talking and planning today.... that totally counts, right..? -->
+
+## 21 February 2015
 
 Oh, wow, the chapbooks/ high Gothics/ histories/ sentimental/ domestic charts look *just* like my earlier genre type graphs, but in a methodologically sound way!!
 
