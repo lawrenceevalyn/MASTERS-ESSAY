@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="60">
+            <Title>29 male charts</Title>
+            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them imdicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
+        </Document>
         <Document ID="54">
             <Title>key terms</Title>
             <Text>The key terms for my approach are “modeling” and “deformance.”</Text>
@@ -8,6 +12,10 @@
         <Document ID="47">
             <Title>However, this more sophisticated approach still seeks</Title>
             <Synopsis>However, this more sophisticated approach still seeks to define gendered approaches to writing based on a tiny number of writers.</Synopsis>
+        </Document>
+        <Document ID="61">
+            <Title>biggest charts</Title>
+            <Text>The defining features of the Gothic as a genre appear to be fainting, confinement, abduction, storm, and suicide mentions.</Text>
         </Document>
         <Document ID="55">
             <Title>many experiments</Title>
@@ -17,6 +25,10 @@
             <Title>The separation of Ann Radcliffe from her peers is not</Title>
             <Synopsis>The separation of Ann Radcliffe from her peers is not in keeping with how readers of the day experienced the gothic.</Synopsis>
         </Document>
+        <Document ID="62">
+            <Title>male/female chars</Title>
+            <Text>For the most part, my sample suggests that men write more about men, though without corresponding evidence that women write more about women.</Text>
+        </Document>
         <Document ID="49">
             <Title>The gothic calls for a large-scale examination.</Title>
             <Synopsis>The gothic calls for a large-scale examination.</Synopsis>
@@ -25,8 +37,26 @@
             <Title>why no texts?</Title>
             <Text>Most in need of explanation, I suspect, is my decision not to focus on any of the experiments which involved actual texts, whether literary or bibliographic.</Text>
         </Document>
+        <Document ID="63">
+            <Title>men: crime</Title>
+        </Document>
+        <Document ID="57">
+            <Title>70 pie charts</Title>
+            <Text>So basically I made 70 pie charts.</Text>
+        </Document>
+        <Document ID="64">
+            <Title>horror, incest</Title>
+            <Text>The masculine impulse to 'go farther,' to replace coy allusions with unflinching enactments, is most evident in my sample novels' treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration-- nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms "actual" incest, only "incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion)." This kind of narrative discretion is employed roughly equally by both male and female authors, and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented-- and all six are by men.</Text>
+        </Document>
+        <Document ID="58">
+            <Title>2 female charts</Title>
+        </Document>
         <Document ID="0">
             <Title>ESSAY</Title>
+        </Document>
+        <Document ID="59">
+            <Title>39 neutral charts</Title>
+            <Text>Only one of those 5 charts shows much of a contrast between men and women, which is in keeping with the bulk of my results. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.</Text>
         </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
@@ -88,7 +118,7 @@ The masculine impulse to 'go farther,' to replace coy allusions with unflinching
             <Title>Tracy charts</Title>
         </Document>
         <Document ID="21">
-            <Title>Frank charts</Title>
+            <Title>Detailed methods</Title>
         </Document>
         <Document ID="14">
             <Title>Conclusions</Title>
