@@ -1,4 +1,12 @@
-﻿<!-- A little embarrassed how often I use these comments to just arbitrarily add a commit so my beeminder doesn't derail, but... I've set aside time to get some SERIOUS work done in the next few days! I've done a lot of talking and planning today.... that totally counts, right..? -->
+﻿## 27 February
+
+Decided that horror/terror and Radcliffe/Monk genre-motif charts **will** have scaled percentages -- it feels weird to distort things that way, but on those axes, I **am** interested in proportions over absolute numbers. I think the absolute numbers are important to maintain for the subgenres charts, though, so I'll leave those as-is.
+
+<!-- SO EXCITED to have this WHOLE WEEKEND to just fucking WRITE THIS SHIT. It is going to feel SO GOOD to just MAKE SOME FUCKING PROGRESS in a way that MATTERS. -->
+
+<!-- ## ?? February
+
+A little embarrassed how often I use these comments to just arbitrarily add a commit so my beeminder doesn't derail, but... I've set aside time to get some SERIOUS work done in the next few days! I've done a lot of talking and planning today.... that totally counts, right..? -->
 
 ## 21 February 2015
 
