@@ -255,6 +255,19 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="67" Type="Text" Created="2015-02-28 16:02:08 -0800" Modified="2015-02-28 16:03:22 -0800">
+                            <Title>not horror/terror</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>197,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="44" Type="Text" Created="2015-02-28 13:37:38 -0800" Modified="2015-02-28 13:57:58 -0800">
                     <Title>Conclusion</Title>
@@ -768,7 +781,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-03-02 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">1884</SessionTarget>
-        <PreviousSession Words="1019" Characters="6209" Date="2015-02-27 18:27:50 -0800"></PreviousSession>
+        <PreviousSession Words="1052" Characters="6406" Date="2015-02-27 18:27:50 -0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
