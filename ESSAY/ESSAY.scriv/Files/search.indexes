@@ -49,7 +49,11 @@
             <Text>The masculine impulse to 'go farther,' to replace coy allusions with unflinching enactments, is most evident in my sample novels' treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration-- nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms "actual" incest, only "incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion)." This kind of narrative discretion is employed roughly equally by both male and female authors, and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented-- and all six are by men.</Text>
         </Document>
         <Document ID="58">
-            <Title>2 female charts</Title>
+            <Title>libertines, miniatures</Title>
+            <Text>In contrast to the wild abundance of male tropes, in my model of the genre, the ‘Female Gothic’ is defined by only two things: libertines, and miniature portraits.</Text>
+        </Document>
+        <Document ID="65">
+            <Title>Genres</Title>
         </Document>
         <Document ID="0">
             <Title>ESSAY</Title>
@@ -57,6 +61,14 @@
         <Document ID="59">
             <Title>39 neutral charts</Title>
             <Text>Only one of those 5 charts shows much of a contrast between men and women, which is in keeping with the bulk of my results. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.</Text>
+        </Document>
+        <Document ID="66">
+            <Title>not a binary</Title>
+            <Text>To force one's readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Lewis as the quintessential horror-Gothic writer.
+However, it does not follow that the terror-Gothic must therefore be the province of women. Ann Radcliffe may have founded the terror-Gothic school, but women and men appear to have followed in her footsteps equally. Moreover, the existence of two opposing schools does not prove the equal footing of those schools; setting aside questions of gender to look at the relative prominence of various motifs, readers are vastly more likely to encounter the temporary terrors of abduction and confinement than the more permanent horrors of bones and corpses. Even death, which could reasonably appear in either school of novel despite its horrifying potential, is unexpectedly scarce compared to the widespread fainting.
+In the wider context of the Gothic, then, it seems that the terror-Gothic and the Female Gothic are, in fact, simply the Gothic-- with the male horror-Gothic as the outlier subgenre in which an author's writing has been shaped by his gender.
+a useful reminder that not all contrasts are necessarily perfect binaries.
+</Text>
         </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
@@ -215,7 +227,7 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="34">
             <Title>general methods</Title>
-            <Text>To take the first clumsy steps toward that large-scale examination, I have deployed data visualizations of metadata regarding 208 early Gothic texts. My data derives from Ann Tracy’s bibliography The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs; my experimental method is informed by Lisa Samuels and Jerome McGann’s “Deformance and Interpretation” and by Willard McCarty’s “Knowing: Modeling in Literary Studies.”</Text>
+            <Text>To take the first clumsy steps toward that large-scale examination, I have deployed data visualizations of metadata regarding 208 early Gothic texts. My data derives from Ann Tracy’s bibliography The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs; my experimental method is informed by Lisa Samuels and Jerome McGann’s “Deformance and Interpretation” and by Willard McCarty’s “Knowing: Modeling in Literary Studies.”The sonnet is, perhaps, the form least likely to leap to mind when one sits down to discuss the poetry of the Harlem Renaissance. Even if one resists the urge to view the entire era through the lens of modernism, the next most obvious site of artistic experimentation is the use of dialect in poetry, and other attempts to capture the authentic voice of Harlem life. In contrast, the sonnet, as Amitai Avi-Ram has noted, is often read as conventional and inherently conservative (32). However, if we form our picture of the poetry of the Harlem Renaissance not based on the subsequent popularity of individual works or authors, but by examining the anthologies which explicity sought to define ‘Negro verse’ during the height of the movement itself, the sonnet appears not just as a recurring tradition but a site of innovation. On the rare occassion that a scholar considers a Harlem Renaissance sonnet at length, discussion of its form often begins and ends with the choice of the sonnet itself. And indeed, innovation within a fixed form is subtle and limited, easily overshadowed by more dramatic poetic inventions. Nonetheless, it is by no means impossible, and close examination of the wide range of sonnets circulating at this period reveals innovations at three sites of increasing subtlety: subject matter, sestet rhyme schemes, and manipulation of the volta. The varying experimentation by different poets serves different aesthetic and political goals, but as a whole, the Harlem Renaissance sonnet, despite its archaic European form, creates a small self-sufficient canon.</Text>
         </Document>
         <Document ID="27">
             <Title>intro to Frank</Title>
@@ -227,7 +239,7 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="35">
             <Title>more sophisticated</Title>
-            <Text>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Text>
+            <Text>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles] </Text>
         </Document>
         <Document ID="28">
             <Title>reduction</Title>
@@ -276,7 +288,7 @@ The conception of modeling I have developed here on the basis of practice in the
             <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
         </Document>
         <Document ID="39">
-            <Title>Results</Title>
+            <Title>Motifs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
