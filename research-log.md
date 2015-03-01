@@ -1,4 +1,8 @@
-﻿## 27 February
+﻿## 28 February 2015
+
+I've officially made it far enough in my essay to know fure sure that I **do** have to include Frederick Frank. But that seems to be going ok! I'm kind of surprised/intrigued to find that the female dominance of sentimental novels is much stronger than that of domestic novels -- I'm glad my new method doesn't require lumping those together!
+
+## 27 February 2015
 
 Decided that horror/terror and Radcliffe/Monk genre-motif charts **will** have scaled percentages -- it feels weird to distort things that way, but on those axes, I **am** interested in proportions over absolute numbers. I think the absolute numbers are important to maintain for the subgenres charts, though, so I'll leave those as-is.
 
