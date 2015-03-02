@@ -1,6 +1,6 @@
 ﻿## 28 February 2015
 
-I've officially made it far enough in my essay to know fure sure that I **do** have to include Frederick Frank. But that seems to be going ok! I'm kind of surprised/intrigued to find that the female dominance of sentimental novels is much stronger than that of domestic novels -- I'm glad my new method doesn't require lumping those together!
+I've officially made it far enough in my essay to know for sure that I **do** have to include Frederick Frank. But that seems to be going ok! I'm kind of surprised/intrigued to find that the female dominance of sentimental novels is much stronger than that of domestic novels -- I'm glad my new method doesn't require lumping those together!
 
 ## 27 February 2015
 
@@ -199,7 +199,7 @@ JUST found out about the Oxford Text Archive (!!!) - knew I should have been doi
 
 ## 12 August 2014
 
-Should have noted yesterday -- in fine Academic Spouse tradition, Ennis will be taking over the acquisition of OCR full texts, following the procedure described Aug 7 (minus acquisition of PDFs), for $1.50 per book. The relief from burnout is *incredible*. If things resolve satisfactorily for both, may hire zir to re-OCR from PDFs? But first will see what results can be extracted from the corpus as it exists.
+Should have noted yesterday -- in fine Academic Spouse tradition, Ennis will be taking over the acquisition of OCR full texts, following the procedure described Aug 7 (minus acquisition of PDFs), for $1.50 per book. The relief from burnout is *incredible*. If things resolve satisfactorily for both, may hire ver to re-OCR from PDFs? But first will see what results can be extracted from the corpus as it exists.
 
 ## 7 August 2014
 

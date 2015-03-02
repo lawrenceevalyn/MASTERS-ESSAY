@@ -40,13 +40,21 @@
         <Document ID="63">
             <Title>men: crime</Title>
         </Document>
+        <Document ID="70">
+            <Title>horror/terror</Title>
+            <Text>However, this binary is not at all what we see when examining Frank’s categorization of horror and terror. </Text>
+        </Document>
         <Document ID="57">
             <Title>70 pie charts</Title>
-            <Text>So basically I made 70 pie charts.</Text>
+            <Text>So basically I made 70 pie charts. [Preliminary mention of what I will argue about these pie charts.]</Text>
         </Document>
         <Document ID="64">
             <Title>horror, incest</Title>
             <Text>The masculine impulse to 'go farther,' to replace coy allusions with unflinching enactments, is most evident in my sample novels' treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration-- nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms "actual" incest, only "incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion)." This kind of narrative discretion is employed roughly equally by both male and female authors, and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented-- and all six are by men.</Text>
+        </Document>
+        <Document ID="71">
+            <Title>Radcliffe/Monk</Title>
+            <Text>Frank directly identifies many works as imitations of other works. 12 works are identified as ‘Radcliffian’ (18 counting Radcliffe’s own 6 works), 3 as imitations of The Monk, and 5 more as ‘monastic shockers’ (4 and 6 when The Monk is counted twice and included in both categories). The gender breakdowns of these categories are precisely what we would expect: all 18 Radcliffian novels are by women, and 7 of the 9 novels identified as Monk-ian or as monastic shockers are by men.</Text>
         </Document>
         <Document ID="58">
             <Title>libertines, miniatures</Title>
@@ -54,6 +62,9 @@
         </Document>
         <Document ID="65">
             <Title>Genres</Title>
+        </Document>
+        <Document ID="72">
+            <Title>Genre-Motifs</Title>
         </Document>
         <Document ID="0">
             <Title>ESSAY</Title>
@@ -70,9 +81,20 @@ In the wider context of the Gothic, then, it seems that the terror-Gothic and th
 a useful reminder that not all contrasts are necessarily perfect binaries.
 </Text>
         </Document>
+        <Document ID="73">
+            <Title>main genres</Title>
+        </Document>
+        <Document ID="67">
+            <Title>not horror/terror</Title>
+            <Text>However, I will argue that these gendered patterns are not due to a male/female horror/terror split, but rather reflect the gendered patterns of the domestic and sentimental Gothic vs the ‘high’ Gothic. Here I turn to Frederick Frank.</Text>
+        </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
             <Text>This is a test.</Text>
+        </Document>
+        <Document ID="68">
+            <Title>gothic types</Title>
+            <Text>Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts under consideration, he provided 131 unique classifications (CITE APPENDIX). Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” [In order to deal with this, I broke down the types into “tags”]</Text>
         </Document>
         <Document ID="4">
             <Title>I found Scrivener very useful for composing my undergrad</Title>
@@ -81,6 +103,10 @@ a useful reminder that not all contrasts are necessarily perfect binaries.
         <Document ID="5">
             <Title>So I’m going to try writing in Scrivener, and exporting</Title>
             <Text>So I’m going to try writing in Scrivener, and exporting to a html file whenever I feel I’ve made enough progress that I want to commit.</Text>
+        </Document>
+        <Document ID="69">
+            <Title>women: sentimental</Title>
+            <Text>Instead, the main gendered trend we see is the female dominance of ‘sentimental’ novels.</Text>
         </Document>
         <Document ID="6">
             <Title>This tests bold.</Title>
@@ -252,7 +278,7 @@ The conception of modeling I have developed here on the basis of practice in the
             <Title>Case Study</Title>
         </Document>
         <Document ID="36">
-            <Title>Methods</Title>
+            <Title>Methodology</Title>
         </Document>
         <Document ID="29">
             <Title>genre-motif charts</Title>

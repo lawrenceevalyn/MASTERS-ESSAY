@@ -76,8 +76,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="36" Type="Text" Created="2015-02-25 14:55:40 -0800" Modified="2015-02-28 13:57:39 -0800">
-                    <Title>Methods</Title>
+                <BinderItem ID="36" Type="Text" Created="2015-02-25 14:55:40 -0800" Modified="2015-02-28 17:02:38 -0800">
+                    <Title>Methodology</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -139,7 +139,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1663,0</TextSelection>
+                                <TextSelection>79,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="42" Type="Text" Created="2015-02-28 13:34:27 -0800" Modified="2015-02-28 15:55:39 -0800">
@@ -166,7 +166,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="57" Type="Text" Created="2015-02-28 14:29:30 -0800" Modified="2015-02-28 15:55:54 -0800">
+                        <BinderItem ID="57" Type="Text" Created="2015-02-28 14:29:30 -0800" Modified="2015-03-01 20:39:54 -0800">
                             <Title>70 pie charts</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -174,7 +174,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1618,0</TextSelection>
+                                <TextSelection>101,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="61" Type="Text" Created="2015-02-28 14:37:11 -0800" Modified="2015-02-28 15:55:54 -0800">
@@ -256,7 +256,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="67" Type="Text" Created="2015-02-28 16:02:08 -0800" Modified="2015-02-28 16:03:22 -0800">
+                        <BinderItem ID="67" Type="Text" Created="2015-02-28 16:02:08 -0800" Modified="2015-02-28 16:59:42 -0800">
                             <Title>not horror/terror</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -264,10 +264,76 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>197,0</TextSelection>
+                                <TextSelection>16,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="68" Type="Text" Created="2015-02-28 16:59:44 -0800" Modified="2015-03-01 22:05:18 -0800">
+                            <Title>gothic types</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>487,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="73" Type="Text" Created="2015-03-01 22:04:55 -0800" Modified="2015-03-01 22:05:04 -0800">
+                            <Title>main genres</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="71" Type="Text" Created="2015-03-01 20:46:27 -0800" Modified="2015-03-01 22:04:33 -0800">
+                            <Title>Radcliffe/Monk</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>482,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="70" Type="Text" Created="2015-02-28 17:01:55 -0800" Modified="2015-03-01 20:54:15 -0800">
+                            <Title>horror/terror</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>107,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="69" Type="Text" Created="2015-02-28 17:01:34 -0800" Modified="2015-03-01 22:05:47 -0800">
+                            <Title>women: sentimental</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem ID="72" Type="Text" Created="2015-03-01 22:04:18 -0800" Modified="2015-03-01 22:05:25 -0800">
+                    <Title>Genre-Motifs</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
                 <BinderItem ID="44" Type="Text" Created="2015-02-28 13:37:38 -0800" Modified="2015-02-28 13:57:58 -0800">
                     <Title>Conclusion</Title>
@@ -443,7 +509,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1214,0</TextSelection>
+                                        <TextSelection>380,422</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="28" Type="Text" Created="2015-01-17 17:17:27 -0800" Modified="2015-01-17 17:29:46 -0800">
@@ -781,7 +847,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-03-02 13:03:51 -0800" IgnoreDeadline="No">10000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">1884</SessionTarget>
-        <PreviousSession Words="1052" Characters="6406" Date="2015-02-27 18:27:50 -0800"></PreviousSession>
+        <PreviousSession Words="140" Characters="809" Date="2015-02-27 18:27:50 -0800"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
