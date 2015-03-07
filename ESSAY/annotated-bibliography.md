@@ -69,4 +69,4 @@ Ch. 2: the four 'schools' of the novel building on early 18thC masters: the Rich
 - seems to move into discussion of sensational novel; "Rape, jealous frenzy and murder are staple ingredients of these novels, and the general method is cumulative." (61)
 - "Two points have some interest in connection with the sensationalism of the eighteenth century. In the first place there is, on the whole, little insistence upon physical pain... Secondly, one notes the extraordinary pervasiveness through all grades of the novel of the theme of incest." (62)
 Ch. 3: in 70s and 80s, 'enjoying' a novel a problematic way to evaluate it; novels meant to be didactic.
-p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming & intrigue safer. "Gaming is one of the women's subjects."
+p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming & intrigue safer. "Gaming is one of the women's subjects." (79) - actually just a 55/45 split in favour of women
