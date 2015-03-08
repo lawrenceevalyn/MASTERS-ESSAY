@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="46">
-            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
-            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
+        <Document ID="60">
+            <Title>29 male charts</Title>
+            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them imdicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
         </Document>
         <Document ID="61">
             <Title>biggest charts</Title>
@@ -84,14 +84,6 @@
             <Title>39 neutral charts</Title>
             <Text>Only one of those 5 charts shows much of a contrast between men and women, which is in keeping with the bulk of my results. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.</Text>
         </Document>
-        <Document ID="74">
-            <Title>The Male Gothic</Title>
-            <Text>The Male Gothic is weird incest stuff off in the corner. The Female Gothic is not visible.</Text>
-        </Document>
-        <Document ID="67">
-            <Title>transition to Frank</Title>
-            <Text>The unbalanced nature of our attempted binary is borne out by my investigation of Frederick Frank’s bibliography, The First Gothics: A Critical Guide to the English Gothic Novel.</Text>
-        </Document>
         <Document ID="81">
             <Title>Thompkins</Title>
             <Text>Published originally in 1932!
@@ -103,27 +95,35 @@ Ch. 2: the four 'schools' of the novel building on early 18thC masters: the Rich
 Ch. 3: in 70s and 80s, 'enjoying' a novel a problematic way to evaluate it; novels meant to be didactic.
 p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming &amp; intrigue safer. "Gaming is one of the women's subjects." (79) - actually just a 55/45 split in favour of women</Text>
         </Document>
+        <Document ID="74">
+            <Title>The Male Gothic</Title>
+            <Text>The Male Gothic is weird incest stuff off in the corner. The Female Gothic is not visible.</Text>
+        </Document>
+        <Document ID="67">
+            <Title>transition to Frank</Title>
+            <Text>The unbalanced nature of our attempted binary is borne out by my investigation of Frederick Frank’s bibliography, The First Gothics: A Critical Guide to the English Gothic Novel.</Text>
+        </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
             <Text>This is a test.</Text>
-        </Document>
-        <Document ID="75">
-            <Title>male horror</Title>
-            <Text>To force one's readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Lewis as the quintessential horror-Gothic writer.</Text>
-        </Document>
-        <Document ID="4">
-            <Title>I found Scrivener very useful for composing my undergrad</Title>
-            <Text>I found Scrivener very useful for composing my undergrad thesis. But I don’t like Scrivener’s version control at all. And I think I’d enjoy seeing all of Github’s statistics on my progress.</Text>
-        </Document>
-        <Document ID="68">
-            <Title>tagging methods</Title>
-            <Text>Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts under consideration, he provided 131 unique classifications (CITE APPENDIX). Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” [In order to deal with this, I broke down the types into “tags”]</Text>
         </Document>
         <Document ID="82">
             <Title>Baker</Title>
             <Text>The History of the English Novel, Volume V: The Novel of Sentiment and the Gothic Romance
 
 </Text>
+        </Document>
+        <Document ID="4">
+            <Title>I found Scrivener very useful for composing my undergrad</Title>
+            <Text>I found Scrivener very useful for composing my undergrad thesis. But I don’t like Scrivener’s version control at all. And I think I’d enjoy seeing all of Github’s statistics on my progress.</Text>
+        </Document>
+        <Document ID="75">
+            <Title>male horror</Title>
+            <Text>To force one's readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Lewis as the quintessential horror-Gothic writer.</Text>
+        </Document>
+        <Document ID="68">
+            <Title>tagging methods</Title>
+            <Text>Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts under consideration, he provided 131 unique classifications (CITE APPENDIX). Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” [In order to deal with this, I broke down the types into “tags”]</Text>
         </Document>
         <Document ID="5">
             <Title>So I’m going to try writing in Scrivener, and exporting</Title>
@@ -346,16 +346,16 @@ The conception of modeling I have developed here on the basis of practice in the
             <Title>McCarty summary</Title>
             <Text>McCarty, in proposing language to discuss literary models and their epistemological implications, defines a distinction between models “of” something and models “for” something (CITE). Blueprints of historical buildings, for example, allow inquiry into the details of something that already exists, whereas blueprints for new buildings allow architectural ideas to be explored before they are brought into reality; both ways of modeling, McCarty says, “comprise a practical means of playing out the consequences of an idea in the real world” (CITE), from two different directions. My several attempts to model the Gothic novel, as a genre experienced by its popular readership in the late eighteenth century, are certainly models of that genre. As such, their merit at first seems most appropriately evaluated in terms of their compliance with the “fundamental principle” of modeling-of, namely, the “exact correspondence between model and object with respect to the webs of relationships among the selected elements in each” (CITE). By this principle, my essay ought to focus on those preliminary models which retained the most detail about the texts in question: Tracy’s plot summaries, for example, or even a much-smaller corpus of full texts for famous Gothics. However, as McCarty ultimately concludes, “modeling is pragmatic” (CITE); immediately after defining the “fundamental principle” of “exact correspondence,” McCarty describes two reasons it may</Text>
         </Document>
-        <Document ID="39">
-            <Title>Motifs</Title>
-        </Document>
-        <Document ID="60">
-            <Title>29 male charts</Title>
-            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them imdicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
-        </Document>
         <Document ID="53">
             <Title>need to go big</Title>
             <Text>The gothic calls for a large-scale examination.</Text>
+        </Document>
+        <Document ID="46">
+            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
+            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
+        </Document>
+        <Document ID="39">
+            <Title>Motifs</Title>
         </Document>
     </Documents>
 </SearchIndexes>

@@ -1,4 +1,16 @@
-﻿## 28 February 2015
+﻿## 7 March 2015
+
+THE CONFESSIONAL OF VALOMBRE. A ROMANCE is listed as both a Radcliffean imitation (of THE ITALIAN) **and** as a monastic shocker-- interesting!!
+
+worked on the "what other tags are correlated with the Racliffean tag?" question. I need an actual methodology for picking my colors for these!!
+
+observations:
+- 50% of Radcliffean novels are also high gothic! If you know a book is Radcliffean, you know it is probably high gothic, terror mode, and sentimental, in that order.
+- 25% of sentimental novels are also Radcliffean! genres which are likely to include Radcliffean novels are sentimental, naturalized, and high, in that order. (terror and monastic shocker are actually on par!! but this is an artefact of the much lower numbers of monastic shockers)
+
+this is totally in keeping with my hypothesis so far, hurrayyyyy
+
+## 28 February 2015
 
 I've officially made it far enough in my essay to know for sure that I **do** have to include Frederick Frank. But that seems to be going ok! I'm kind of surprised/intrigued to find that the female dominance of sentimental novels is much stronger than that of domestic novels -- I'm glad my new method doesn't require lumping those together!
 
