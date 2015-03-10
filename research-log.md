@@ -1,4 +1,10 @@
-﻿## 7 March 2015
+﻿## 9 March 2015
+
+Checked the handbook and glad I did: it says the Master’s Essay "**will not exceed** 10,000 words" -- so my target is actually 8-9k, so my current outline is actually **perfectly fine just as it is!!!** THIS IS SO DOABLE. I AM GOING TO DO THIS!
+
+And I don't need to mess with the genre-motif charts!! I can... STOP EXPERIMENTING!!!!
+
+## 7 March 2015
 
 THE CONFESSIONAL OF VALOMBRE. A ROMANCE is listed as both a Radcliffean imitation (of THE ITALIAN) **and** as a monastic shocker-- interesting!!
 
