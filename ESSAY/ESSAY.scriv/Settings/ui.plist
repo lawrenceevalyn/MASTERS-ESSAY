@@ -13,7 +13,7 @@
 	<false/>
 	<key>binderSelection</key>
 	<array>
-		<integer>11</integer>
+		<integer>10</integer>
 	</array>
 	<key>binderShowsLabelColorsAutosaveName</key>
 	<true/>
@@ -95,7 +95,7 @@
 	<integer>0</integer>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>54</integer>
+		<integer>56</integer>
 	</array>
 	<key>mainDocumentEditor.currentEditorViewMode</key>
 	<integer>0</integer>
@@ -122,7 +122,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>685</integer>
+		<integer>693</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -5847,6 +5847,70 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>55</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>34</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>56</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>84</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>20</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>84</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>69</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>56</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.outlinerColumnsState</key>
@@ -5915,7 +5979,7 @@
 	<key>mainDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {864, 522.40002}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{62, 0}</string>
+	<string>{708, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -5926,7 +5990,7 @@
 		<false/>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>127 131 1286 747 0 0 1440 878 </string>
+	<string>96 124 1286 747 0 0 1440 878 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>countDraftFootnotes</key>
