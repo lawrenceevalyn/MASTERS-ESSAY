@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="60">
-            <Title>29 male charts</Title>
-            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them indicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
+        <Document ID="46">
+            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
+            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
         </Document>
         <Document ID="61">
             <Title>biggest charts</Title>
@@ -19,7 +19,7 @@
         </Document>
         <Document ID="62">
             <Title>male/female chars</Title>
-            <Text>For the most part, my sample suggests that men write more about men, though without corresponding evidence that women write more about women.</Text>
+            <Text>The more we seek a neat binary in the model, the more we find that it is unbalanced. For example, my sample suggests that men write more about men (male fainters, male abductees, clergymen), though without corresponding evidence that women write more about women (female fainters, female abductees, nuns and abbesses).</Text>
         </Document>
         <Document ID="55">
             <Title>many experiments</Title>
@@ -70,7 +70,7 @@
         </Document>
         <Document ID="80">
             <Title>my ultimate argument</Title>
-            <Text>Ultimately, my fundamentally historicist methods will lead me to argue that gender in the Gothic does not operate as a female/male terror/horror Radcliffe/Monk binary. Instead, I suggest a reading of the genre in which [I HAVE CONCLUSIONS]</Text>
+            <Text>Ultimately, my fundamentally historicist methods will lead me to argue that gender in the early Gothic does not operate as a female/male terror/horror Radcliffe/Lewis binary. Instead, I suggest a reading of the genre in which [I HAVE CONCLUSIONS]</Text>
         </Document>
         <Document ID="73">
             <Title>main genres</Title>
@@ -78,14 +78,15 @@
         </Document>
         <Document ID="66">
             <Title>not a binary</Title>
-            <Text>These results serve as a useful reminder that not all contrasts are necessarily perfect binaries. This method allows us to perceive The Male Gothic as weird incest stuff off in the corner, but it does not follow that the other stuff is The Female Gothic.</Text>
+            <Text>These results serve as a useful reminder that not all contrasts are necessarily perfect binaries. This method allows us to perceive The Male Gothic as weird incest stuff off in the corner, but it does not follow that the other stuff is The Female Gothic.
+•	And indeed, all of the strongly male-dominated motifs are much less common than the more neutral motifs. This model suggests that, rather than a balanced opposition of Radcliffe’s female terror Gothic vs Lewis’s male horror Gothic, the genre as a popular movement was defined by a less-sensationalist (possibly Radcliffean, possibly terror-mode) non-gendered Gothic mainstream, with a subset of male horror Gothic writers making up a minor tradition within it.</Text>
         </Document>
         <Document ID="59">
             <Title>39 neutral charts</Title>
             <Text>Only one of those 5 charts shows much of a contrast between men and women, which is in keeping with the bulk of my results. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.</Text>
         </Document>
         <Document ID="81">
-            <Title>Thompkins</Title>
+            <Title>Tompkins</Title>
             <Text>Published originally in 1932!
 
 Ch. 1: largely about readership, esp. circulating libraries
@@ -101,7 +102,8 @@ p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming 
         </Document>
         <Document ID="67">
             <Title>transition to Frank</Title>
-            <Text>The unbalanced nature of our attempted binary is borne out by my investigation of Frederick Frank’s bibliography, The First Gothics: A Critical Guide to the English Gothic Novel.</Text>
+            <Text>•	In order to better define that Gothic mainstream, I turned to a second bibliography, which classified novels by their ‘Gothic type.’ 
+The unbalanced nature of our attempted binary is borne out by my investigation of Frederick Frank’s bibliography, The First Gothics: A Critical Guide to the English Gothic Novel.</Text>
         </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
@@ -123,7 +125,7 @@ p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming 
         </Document>
         <Document ID="68">
             <Title>tagging methods</Title>
-            <Text>Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts under consideration, he provided 131 unique classifications (CITE APPENDIX). Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” [In order to deal with this, I broke down the types into “tags”]</Text>
+            <Text>Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts indexed by both authors, he provided 131 unique classifications (CITE APPENDIX). Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” [In order to deal with this, I broke down the types into “tags”]</Text>
         </Document>
         <Document ID="5">
             <Title>So I’m going to try writing in Scrivener, and exporting</Title>
@@ -150,9 +152,9 @@ The final format of this essay is still up in the air.</Text>
             <Title>Yikes, the images are definitely gonna have to hang</Title>
             <Text>Yikes, the images are definitely gonna have to hang out separately.</Text>
         </Document>
-        <Document ID="77">
-            <Title>sentimental novels</Title>
-            <Text>This suggests a call back to an older school of criticism, which saw the sentimental novel— rather than the German Schauerromantik— as the forbear of the Gothic.</Text>
+        <Document ID="84">
+            <Title>Works Cited</Title>
+            <Text>Jones, Stephanie. Exploring Gothic Fiction: A Corpus-Based Analysis. http://hdl.handle.net/1842/5351</Text>
         </Document>
         <Document ID="10">
             <Title>Gendered Gothics</Title>
@@ -161,9 +163,9 @@ At first glance, the gendered differences are not, in fact, particularly strikin
 Moreover, the motifs characterized by a strong contrast tend to appear in relatively few works, making up a correspondingly minor part of the average reader's experience of the genre. Of the five most-represented motifs-- fainting, confinement, abduction, storm, and suicide mentions-- the suicide mentions show the greatest contrast, with a ratio of 61% male authors to 39% female.
 On the whole, then, male and female writers seem to have more commonalities than they do differences.</Text>
         </Document>
-        <Document ID="84">
-            <Title>Works Cited</Title>
-            <Text>Jones, Stephanie. Exploring Gothic Fiction: A Corpus-Based Analysis. http://hdl.handle.net/1842/5351</Text>
+        <Document ID="77">
+            <Title>sentimental novels</Title>
+            <Text>This suggests a call back to an older school of criticism, which saw the sentimental novel— rather than the German Schauerromantik— as the forbear of the Gothic.</Text>
         </Document>
         <Document ID="78">
             <Title>women: Radcliffean</Title>
@@ -186,7 +188,7 @@ This, then, is our first surprise: rather than finding each gender writing mostl
             <Text>In contrast, this technique allows me to see an emerging “school of Radcliffe” — and it’s the sentimental novel.
 [Of all the novels tagged Radcliffean, what else are they tagged?]
 50% of Radcliffean novels are also high gothic! If you know a book is Radcliffean, you know it is probably high gothic, terror mode, and sentimental, in that order.
-25% of sentimental novels are also Radcliffean! genres which are likely to include Radcliffean novels are sentimental, naturalized, and high, in that order. (terror and monastic shocker are actually on par!! but this is an artefact of the much lower numbers of monastic shockers)</Text>
+25% of sentimental novels are also Radcliffean! Genres which are likely to include Radcliffean novels are sentimental, naturalized, and high, in that order. (terror and monastic shocker are actually on par!! but this is an artefact of the much lower numbers of monastic shockers)</Text>
         </Document>
         <Document ID="12">
             <Title>The Female Gothic</Title>
@@ -304,7 +306,7 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="34">
             <Title>general methods</Title>
-            <Text>To take the first clumsy steps toward that large-scale examination, I have deployed data visualizations of metadata regarding 208 early Gothic texts. My data derives from Ann Tracy’s bibliography The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs and Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel; my experimental method is informed by Lisa Samuels and Jerome McGann’s “Deformance and Interpretation” and by Willard McCarty’s “Knowing: Modeling in Literary Studies.”</Text>
+            <Text>To take the first steps toward that large-scale examination, I have deployed data visualizations of metadata regarding 208 early Gothic texts. My data derives from Ann Tracy’s bibliography The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs and Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel; my experimental method is informed by Willard McCarty’s “Knowing: Modeling in Literary Studies” and by Lisa Samuels and Jerome McGann’s “Deformance and Interpretation.”</Text>
         </Document>
         <Document ID="27">
             <Title>intro to Frank</Title>
@@ -316,7 +318,8 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="35">
             <Title>more sophisticated</Title>
-            <Text>Criticism about gendered gothics has grown more sophisticated, moving from biologically essentialist writing to [Dr Miles] </Text>
+            <Text>Criticism about gendered gothics has grown more sophisticated, moving from biologically essentialist writing to [Dr Miles] 
+[•	Brief sketch of criticism on Male vs Female Gothics over time – from Fleenor’s societal emphasis on relationship to patriarchy to a more literary emphasis in Wallace &amp; Smith’s New Directions. ]</Text>
         </Document>
         <Document ID="28">
             <Title>reduction</Title>
@@ -336,7 +339,8 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="51">
             <Title>still small sample</Title>
-            <Text>However, this more sophisticated approach still seeks to define gendered approaches to writing based on a tiny number of writers.</Text>
+            <Text>However, this more sophisticated approach still seeks to define gendered approaches to writing based on a tiny number of writers.
+[•	But a more closer literary focus requires narrowing the field of Gothics under examination.]</Text>
         </Document>
         <Document ID="44">
             <Title>Conclusion</Title>
@@ -347,7 +351,8 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="52">
             <Title>voraciousness</Title>
-            <Text>The separation of Ann Radcliffe from her peers is not in keeping with how readers of the day experienced the gothic.</Text>
+            <Text>The separation of Ann Radcliffe from her peers is not in keeping with how readers of the day experienced the gothic.
+[•	This narrower focus is not in keeping with how, e.g., Ann Radcliffe was perceived as readers – she was not canonized separately from other Gothic writers either on the shelves of the circulating libraries or in the minds of book reviewers (as ‘literary fiction’ is separated from ‘romance novels’ today)]</Text>
         </Document>
         <Document ID="45">
             <Title>Outline</Title>
@@ -356,16 +361,16 @@ The conception of modeling I have developed here on the basis of practice in the
             <Title>McCarty summary</Title>
             <Text>McCarty, in proposing language to discuss literary models and their epistemological implications, defines a distinction between models “of” something and models “for” something (CITE). Blueprints of historical buildings, for example, allow inquiry into the details of something that already exists, whereas blueprints for new buildings allow architectural ideas to be explored before they are brought into reality; both ways of modeling, McCarty says, “comprise a practical means of playing out the consequences of an idea in the real world” (CITE), from two different directions. My several attempts to model the Gothic novel, as a genre experienced by its popular readership in the late eighteenth century, are certainly models of that genre. As such, their merit at first seems most appropriately evaluated in terms of their compliance with the “fundamental principle” of modeling-of, namely, the “exact correspondence between model and object with respect to the webs of relationships among the selected elements in each” (CITE). By this principle, my essay ought to focus on those preliminary models which retained the most detail about the texts in question: Tracy’s plot summaries, for example, or even a much-smaller corpus of full texts for famous Gothics. However, as McCarty ultimately concludes, “modeling is pragmatic” (CITE); immediately after defining the “fundamental principle” of “exact correspondence,” McCarty describes two reasons it may</Text>
         </Document>
+        <Document ID="39">
+            <Title>Motifs</Title>
+        </Document>
+        <Document ID="60">
+            <Title>29 male charts</Title>
+            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them indicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
+        </Document>
         <Document ID="53">
             <Title>need to go big</Title>
             <Text>The gothic calls for a large-scale examination.</Text>
-        </Document>
-        <Document ID="46">
-            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
-            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
-        </Document>
-        <Document ID="39">
-            <Title>Motifs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
