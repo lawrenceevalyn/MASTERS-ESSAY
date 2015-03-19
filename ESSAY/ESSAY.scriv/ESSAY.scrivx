@@ -52,6 +52,17 @@
                                 <TextSelection>424,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="87" Type="Text" Created="2015-03-18 21:55:08 -0700" Modified="2015-03-18 22:09:16 -0700">
+                            <Title>John Frow: genre</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>282,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="53" Type="Text" Created="2015-02-28 13:50:01 -0800" Modified="2015-02-28 15:55:18 -0800">
                             <Title>need to go big</Title>
                             <MetaData>
@@ -177,30 +188,19 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="57" Type="Text" Created="2015-02-28 14:29:30 -0800" Modified="2015-03-01 20:39:54 -0800">
-                            <Title>70 pie charts</Title>
+                        <BinderItem ID="57" Type="Text" Created="2015-02-28 14:29:30 -0800" Modified="2015-03-18 22:11:46 -0700">
+                            <Title>Tracy's goals</Title>
                             <MetaData>
-                                <LabelID>3</LabelID>
+                                <LabelID>4</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>101,0</TextSelection>
+                                <TextSelection>1106,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" Type="Text" Created="2015-02-28 14:37:11 -0800" Modified="2015-02-28 15:55:54 -0800">
-                            <Title>biggest charts</Title>
-                            <MetaData>
-                                <LabelID>3</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,122</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="59" Type="Text" Created="2015-02-28 14:31:58 -0800" Modified="2015-02-28 15:55:54 -0800">
-                            <Title>39 neutral charts</Title>
+                        <BinderItem ID="86" Type="Text" Created="2015-03-18 21:49:34 -0700" Modified="2015-03-18 21:54:44 -0700">
+                            <Title>nuance</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -208,6 +208,17 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="85" Type="Text" Created="2015-03-18 21:46:59 -0700" Modified="2015-03-18 22:30:45 -0700">
+                            <Title>70 pie charts</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>66,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="60" Type="Text" Created="2015-02-28 14:36:26 -0800" Modified="2015-03-07 18:06:43 -0800">
@@ -243,7 +254,7 @@
                                 <TextSelection>0,421</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="58" Type="Text" Created="2015-02-28 14:31:53 -0800" Modified="2015-03-01 22:33:42 -0800">
+                        <BinderItem ID="58" Type="Text" Created="2015-02-28 14:31:53 -0800" Modified="2015-03-18 22:35:04 -0700">
                             <Title>libertines, miniatures</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -252,6 +263,17 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,163</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="59" Type="Text" Created="2015-02-28 14:31:58 -0800" Modified="2015-02-28 15:55:54 -0800">
+                            <Title>39 neutral charts</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="62" Type="Text" Created="2015-02-28 14:37:29 -0800" Modified="2015-03-11 17:58:06 -0700">
@@ -263,6 +285,17 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="61" Type="Text" Created="2015-02-28 14:37:11 -0800" Modified="2015-03-18 22:12:58 -0700">
+                            <Title>biggest charts</Title>
+                            <MetaData>
+                                <LabelID>3</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>170,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="66" Type="Text" Created="2015-02-28 15:56:51 -0800" Modified="2015-03-11 17:57:33 -0700">
@@ -300,7 +333,7 @@
                                 <TextSelection>178,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" Type="Text" Created="2015-02-28 16:59:44 -0800" Modified="2015-03-11 17:59:21 -0700">
+                        <BinderItem ID="68" Type="Text" Created="2015-02-28 16:59:44 -0800" Modified="2015-03-18 22:44:57 -0700">
                             <Title>tagging methods</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -699,7 +732,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>29,0</TextSelection>
+                        <TextSelection>1181,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="82" Type="Text" Created="2015-03-06 23:30:17 -0800" Modified="2015-03-06 23:30:53 -0800">
@@ -710,6 +743,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>91,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="88" Type="Text" Created="2015-03-18 21:55:44 -0700" Modified="2015-03-18 22:02:16 -0700">
+                    <Title>Frow</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>987,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -965,7 +1008,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-03-18 13:03:51 -0700" IgnoreDeadline="No">9000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1, 4" CanWriteOnDeadlineDate="Yes">2489</SessionTarget>
-        <PreviousSession Words="216" Characters="1381" Date="2015-03-11 17:09:21 -0700"></PreviousSession>
+        <PreviousSession Words="520" Characters="3177" Date="2015-03-18 20:26:12 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
