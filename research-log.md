@@ -1,4 +1,16 @@
-﻿## 9 March 2015
+﻿## 19 March 2015
+
+The current timeline:
+
+April 8 - meet Dr Miles to report on progress; try to have a nearly-complete draft
+April 15 - SUBMIT DRAFT TO DR MILES (and probably Jentery)
+April 25 - submit final, edited draft
+
+June - defend before/after DHSI
+
+It's not what I might have wanted, but it has the advantage of being possible, and even halfway comfortable.
+
+## 9 March 2015
 
 Checked the handbook and glad I did: it says the Master’s Essay "**will not exceed** 10,000 words" -- so my target is actually 8-9k, so my current outline is actually **perfectly fine just as it is!!!** THIS IS SO DOABLE. I AM GOING TO DO THIS!
 
