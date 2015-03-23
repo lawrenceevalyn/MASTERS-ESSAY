@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="46">
-            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
-            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
+        <Document ID="60">
+            <Title>29 male charts</Title>
+            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them indicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
         </Document>
         <Document ID="61">
             <Title>biggest charts</Title>
@@ -210,7 +210,10 @@ Perhaps these men are, like Henry Walpole in The Castle of Otranto, presenting u
         </Document>
         <Document ID="87">
             <Title>John Frow: genre</Title>
-            <Text>This readerly voraciousness is particularly [important] in light of John Frow’s articulation of genre as, not a stable set of categories, but a self-defining process. Individual texts, Frow argues, “do not ‘belong’ to genres but are, rather, uses of them” (2), [explain this idea]. Genres function by “mediat[ing] between a social situation” of a reader embedded in real and literary contexts, “and the text which realises certain features of this situation, or which responds strategically to its demands” (14). 
+            <Text>This readerly voraciousness is particularly [important] in light of John Frow’s articulation of genre as, not a stable set of categories, but a self-defining process. Individual texts, Frow argues, “do not ‘belong’ to genres but are, rather, uses of them” (2), [explain this idea]. Genres function by bridging the “social situation” of a reader embedded in real and literary contexts, and a text that “realises certain features of this situation, or which responds strategically to its demands” (14). 
+
+Rather than reading genre simply to categorize “where a text ‘belongs,’” Frow argues, “we read… for those layers of background knowledges that texts evoke” through their genre relationships, which allow an assessment of “which types of meaning are appropriate and relevant,” and therefore how the text can be made to make sense (101). Frow concludes that “what we learn, in ‘doing’ genre (in performing and transforming it) is the values we share or don’t share with others and the means with which to challenge or defend them” (144).
+
 any investigation of Radcliffe’s use of genre must begin with an understanding of what she’s using.
 </Text>
         </Document>
@@ -383,16 +386,16 @@ The conception of modeling I have developed here on the basis of practice in the
             <Title>McCarty summary</Title>
             <Text>McCarty, in proposing language to discuss literary models and their epistemological implications, defines a distinction between models “of” something and models “for” something (CITE). Blueprints of historical buildings, for example, allow inquiry into the details of something that already exists, whereas blueprints for new buildings allow architectural ideas to be explored before they are brought into reality; both ways of modeling, McCarty says, “comprise a practical means of playing out the consequences of an idea in the real world” (CITE), from two different directions. My several attempts to model the Gothic novel, as a genre experienced by its popular readership in the late eighteenth century, are certainly models of that genre. As such, their merit at first seems most appropriately evaluated in terms of their compliance with the “fundamental principle” of modeling-of, namely, the “exact correspondence between model and object with respect to the webs of relationships among the selected elements in each” (CITE). By this principle, my essay ought to focus on those preliminary models which retained the most detail about the texts in question: Tracy’s plot summaries, for example, or even a much-smaller corpus of full texts for famous Gothics. However, as McCarty ultimately concludes, “modeling is pragmatic” (CITE); immediately after defining the “fundamental principle” of “exact correspondence,” McCarty describes two reasons it may</Text>
         </Document>
-        <Document ID="39">
-            <Title>Motifs</Title>
-        </Document>
-        <Document ID="60">
-            <Title>29 male charts</Title>
-            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them indicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
-        </Document>
         <Document ID="53">
             <Title>need to go big</Title>
             <Text>I turn to research at scale, then, to </Text>
+        </Document>
+        <Document ID="46">
+            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
+            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
+        </Document>
+        <Document ID="39">
+            <Title>Motifs</Title>
         </Document>
     </Documents>
 </SearchIndexes>
