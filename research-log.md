@@ -1,4 +1,4 @@
-﻿<!-- Setting up a beeminder goal to stay on track with this actual word count. ELEVEN DAYS. yeesh. -->
+﻿<!-- Setting up a beeminder goal to stay on track with this actual word count. ELEVEN DAYS. yeesh. But I can do it!!!!!!! !! -->
 
 <!-- I'll get back to this.... in time....... -->
 
