@@ -1,4 +1,6 @@
-﻿<!-- I'll get back to this.... in time....... -->
+﻿<!-- Setting up a beeminder goal to stay on track with this actual word count. ELEVEN DAYS. yeesh. -->
+
+<!-- I'll get back to this.... in time....... -->
 
 ## 19 March 2015
 

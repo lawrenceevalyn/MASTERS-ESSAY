@@ -60,7 +60,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1038,0</TextSelection>
+                                <TextSelection>1088,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="53" Type="Text" Created="2015-02-28 13:50:01 -0800" Modified="2015-03-18 23:33:42 -0700">
@@ -1008,7 +1008,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-15 13:03:51 -0700" IgnoreDeadline="No">9000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">242</SessionTarget>
-        <PreviousSession Words="86" Characters="525" Date="2015-03-23 00:14:45 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2015-03-30 17:50:48 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
