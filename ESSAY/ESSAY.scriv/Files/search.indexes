@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="46">
-            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
-            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
+        <Document ID="60">
+            <Title>29 male charts</Title>
+            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them indicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
         </Document>
         <Document ID="61">
             <Title>biggest charts</Title>
-            <Text>Moreover, the more popular a motif is— i.e., the larger a role it plays in making up the genre— the more likely it is to be non-gendered. In terms of sheer prevalence, the defining features of the Gothic as a genre appear to be fainting, confinement, abduction, storms, and references to suicide. Only one of those 5 charts shows much of a contrast between men and women, which is in keeping with the bulk of my results. </Text>
+            <Text>Moreover, the more popular a motif is— i.e., the larger a role it plays in making up the genre— the more likely it is to be non-gendered. In terms of sheer prevalence, the defining features of the Gothic as a genre appear to be fainting, confinement, abduction, storms, and references to suicide. Only one of those 5 charts shows a notable contrast between men and women, which is in keeping with the bulk of my results. </Text>
         </Document>
         <Document ID="54">
             <Title>key terms</Title>
@@ -19,7 +19,7 @@
         </Document>
         <Document ID="62">
             <Title>male/female chars</Title>
-            <Text>The more we seek a neat binary in the model, the more we find that it is unbalanced. For example, my sample suggests that men write more about men (male fainters, male abductees, clergymen), though without corresponding evidence that women write more about women (female fainters, female abductees, nuns and abbesses).</Text>
+            <Text>The more we seek a neat binary in the model, the more we find that it is unbalanced. For example, on the basis of the male-dominated authorship of books containing male fainters, male abductees, and clergymen, it might be tempting to argue that each gender write more often about itself. However, there is no corresponding evidence that women write more about women (female fainters, female abductees, nuns and abbesses).</Text>
         </Document>
         <Document ID="55">
             <Title>many experiments</Title>
@@ -83,7 +83,7 @@
         </Document>
         <Document ID="59">
             <Title>39 neutral charts</Title>
-            <Text>[The Female Gothic is outnumberd by the Nobody Gothic] More than half of the 70 motifs not strongly gendered. Three — “dueling and other single combat,” “elopement (any),” and “relative, lost, discovery of” — are even perfect ties.
+            <Text>[The Female Gothic is outnumbered by the Nobody Gothic] More than half of the 70 motifs not strongly gendered. Three — “dueling and other single combat,” “elopement (any),” and “relative, lost, discovery of” — are even perfect ties.
 Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.</Text>
         </Document>
         <Document ID="81">
@@ -386,16 +386,16 @@ The conception of modeling I have developed here on the basis of practice in the
             <Title>McCarty summary</Title>
             <Text>McCarty, in proposing language to discuss literary models and their epistemological implications, defines a distinction between models “of” something and models “for” something (CITE). Blueprints of historical buildings, for example, allow inquiry into the details of something that already exists, whereas blueprints for new buildings allow architectural ideas to be explored before they are brought into reality; both ways of modeling, McCarty says, “comprise a practical means of playing out the consequences of an idea in the real world” (CITE), from two different directions. My several attempts to model the Gothic novel, as a genre experienced by its popular readership in the late eighteenth century, are certainly models of that genre. As such, their merit at first seems most appropriately evaluated in terms of their compliance with the “fundamental principle” of modeling-of, namely, the “exact correspondence between model and object with respect to the webs of relationships among the selected elements in each” (CITE). By this principle, my essay ought to focus on those preliminary models which retained the most detail about the texts in question: Tracy’s plot summaries, for example, or even a much-smaller corpus of full texts for famous Gothics. However, as McCarty ultimately concludes, “modeling is pragmatic” (CITE); immediately after defining the “fundamental principle” of “exact correspondence,” McCarty describes two reasons it may</Text>
         </Document>
-        <Document ID="39">
-            <Title>Motifs</Title>
-        </Document>
-        <Document ID="60">
-            <Title>29 male charts</Title>
-            <Text>Of those charts that did seem to indicate a gendered trend, 29 of them indicated male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply.</Text>
-        </Document>
         <Document ID="53">
             <Title>need to go big</Title>
             <Text>I turn to research at scale, then, to </Text>
+        </Document>
+        <Document ID="46">
+            <Title>Criticism about gendered gothics has grown more sophisticated</Title>
+            <Synopsis>Criticism about gendered gothics has grown more sophisticated, moving from bioliogically essentialist writing to [Dr Miles]</Synopsis>
+        </Document>
+        <Document ID="39">
+            <Title>Motifs</Title>
         </Document>
     </Documents>
 </SearchIndexes>

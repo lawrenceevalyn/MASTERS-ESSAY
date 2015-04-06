@@ -265,7 +265,7 @@
                                 <TextSelection>0,163</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="59" Type="Text" Created="2015-02-28 14:31:58 -0800" Modified="2015-03-18 23:16:55 -0700">
+                        <BinderItem ID="59" Type="Text" Created="2015-02-28 14:31:58 -0800" Modified="2015-04-05 23:01:18 -0700">
                             <Title>39 neutral charts</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -276,7 +276,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" Type="Text" Created="2015-02-28 14:37:11 -0800" Modified="2015-03-18 23:17:53 -0700">
+                        <BinderItem ID="61" Type="Text" Created="2015-02-28 14:37:11 -0800" Modified="2015-04-05 23:27:20 -0700">
                             <Title>biggest charts</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -287,7 +287,7 @@
                                 <TextSelection>170,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="62" Type="Text" Created="2015-02-28 14:37:29 -0800" Modified="2015-03-11 17:58:06 -0700">
+                        <BinderItem ID="62" Type="Text" Created="2015-02-28 14:37:29 -0800" Modified="2015-04-05 23:28:58 -0700">
                             <Title>male/female chars</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -1008,7 +1008,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-15 13:03:51 -0700" IgnoreDeadline="No">9000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">242</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2015-03-30 17:50:48 -0700"></PreviousSession>
+        <PreviousSession Words="18" Characters="104" Date="2015-04-05 23:29:16 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
