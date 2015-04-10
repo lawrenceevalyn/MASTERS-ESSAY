@@ -387,6 +387,19 @@
                             <TextSettings>
                                 <TextSelection>42,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="90" Type="Text" Created="2015-04-09 21:56:28 -0700" Modified="2015-04-09 21:56:48 -0700">
+                                    <Title>explains comparison to Inchbald</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>589,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="69" Type="Text" Created="2015-02-28 17:01:34 -0800" Modified="2015-03-01 22:05:47 -0800">
                             <Title>women: sentimental</Title>
@@ -758,14 +771,14 @@
                         <TextSelection>452,535</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="89" Type="Text" Created="2015-04-09 17:36:30 -0700" Modified="2015-04-09 21:52:37 -0700">
+                <BinderItem ID="89" Type="Text" Created="2015-04-09 17:36:30 -0700" Modified="2015-04-09 21:56:12 -0700">
                     <Title>McIntyre</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>532,0</TextSelection>
+                        <TextSelection>620,589</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1021,7 +1034,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-15 13:03:51 -0700" IgnoreDeadline="No">9000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">242</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2015-04-09 16:55:41 -0700"></PreviousSession>
+        <PreviousSession Words="99" Characters="589" Date="2015-04-09 16:55:41 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
