@@ -52,7 +52,7 @@
                                 <TextSelection>424,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="87" Type="Text" Created="2015-03-18 21:55:08 -0700" Modified="2015-03-23 00:19:06 -0700">
+                        <BinderItem ID="87" Type="Text" Created="2015-03-18 21:55:08 -0700" Modified="2015-04-08 10:04:57 -0700">
                             <Title>John Frow: genre</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -333,7 +333,7 @@
                                 <TextSelection>178,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="68" Type="Text" Created="2015-02-28 16:59:44 -0800" Modified="2015-04-07 23:25:29 -0700">
+                        <BinderItem ID="68" Type="Text" Created="2015-02-28 16:59:44 -0800" Modified="2015-04-08 21:28:46 -0700">
                             <Title>tagging methods</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -344,7 +344,7 @@
                                 <TextSelection>363,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="73" Type="Text" Created="2015-03-01 22:04:55 -0800" Modified="2015-03-01 23:12:00 -0800">
+                        <BinderItem ID="73" Type="Text" Created="2015-03-01 22:04:55 -0800" Modified="2015-04-08 21:39:29 -0700">
                             <Title>main genres</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -758,6 +758,16 @@
                         <TextSelection>452,535</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="89" Type="Text" Created="2015-04-09 17:36:30 -0700" Modified="2015-04-09 21:52:37 -0700">
+                    <Title>McIntyre</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>532,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="2" Type="TrashFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
@@ -1011,7 +1021,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-15 13:03:51 -0700" IgnoreDeadline="No">9000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">242</SessionTarget>
-        <PreviousSession Words="3" Characters="25" Date="2015-04-07 13:58:33 -0700"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2015-04-09 16:55:41 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
