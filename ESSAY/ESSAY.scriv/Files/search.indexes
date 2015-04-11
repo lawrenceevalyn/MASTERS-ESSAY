@@ -143,7 +143,8 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="42">
             <Title>what I've made</Title>
-            <Text>[I’ve made a deformed model of Tracy’s bibliography, which is itself a deformed model of the Gothic]</Text>
+            <Text>
+[I’ve made a deformed model of Tracy’s bibliography, which is itself a deformed model of the Gothic]</Text>
         </Document>
         <Document ID="86">
             <Title>nuance</Title>
@@ -202,7 +203,9 @@ Radcliffe’s peers are “Matthew Gregory Lewis, Mrs. Inchbald, and Charlotte S
             <Synopsis>The gothic calls for a large-scale examination.</Synopsis>
         </Document>
         <Document ID="72">
-            <Title>Sentimental Novels</Title>
+            <Title>Sentimental Novels: return to older critics</Title>
+            <Text>"the accepted themes were repeated in a shallower tone and overlaid with all the romantic incidents of disguise, abduction, lost heirs and mistaken identity, which had been for hundreds of years the story-teller's stock in trade." (57) --> contains a problematic assumption that the 'goal' of the novel is to become realist ("In spite of critical admonitions, the average novelist paid, on the whole, very little attention to the probable, and the novel in consequence slipped farther away from reality, as though a window on to the other world had been changed to a magic lantern" (57) -- but we can reject this assumption (on the basis of our more modern criticism) without rejecting the observation that 'fantastic' (Gothic) plot elements do not fundamentally alter the societally conventional structure of the novel.
+</Text>
         </Document>
         <Document ID="73">
             <Title>main genres</Title>
@@ -238,7 +241,7 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
             <Text>This suggests a call back to an older school of criticism, which saw the sentimental novel— rather than the German Schauerromantik— as the forbear of the Gothic.</Text>
         </Document>
         <Document ID="34">
-            <Title>general methods</Title>
+            <Title>thesis: general methods</Title>
             <Text>To take the first steps toward that large-scale examination, I have deployed data visualizations of metadata regarding 208 early Gothic texts. My data derives from Ann Tracy’s bibliography The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs and Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel; my experimental method is informed by Willard McCarty’s “Knowing: Modeling in Literary Studies” and by Lisa Samuels and Jerome McGann’s “Deformance and Interpretation.”</Text>
         </Document>
         <Document ID="78">
@@ -247,7 +250,10 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
         </Document>
         <Document ID="35">
             <Title>more sophisticated</Title>
-            <Text>Criticism about gendered gothics has grown more sophisticated, moving from, for example,  Fleenor’s societal emphasis on relationship to patriarchy to a more literary emphasis in Wallace &amp; Smith’s Femlae Gothic: New Directions.</Text>
+            <Text>Criticism about gendered gothics has grown more sophisticated, moving from, for example,  Fleenor’s societal emphasis on relationship to patriarchy to a more literary emphasis in Wallace &amp; Smith’s Female Gothic: New Directions.
+
+Fleenor: It argues that, whereas terror-Gothic novels relate to other Gothics, horror-Gothic relates “directly to a patriarchal paradigm—that the woman is motherless, that she is a defective male, and that she has for her God the male, not the absolute” (7). It emphasizes the Gothic as literature “written and consistently read by women” (7), and argues that “…the Gothic form allows us – as readers and as writers – to express the conflict for which patriarchy has no name” (28), i.e., the conflict between a woman and her prescribed societal role.
+In his essay “‘Mother Radcliffe’: Ann Radcliffe and the Female Gothic,” Robert Miles argues that The Italian, as a direct response to The Monk, is able to make use of both Female and Male Gothic “narrative grammar” (56). </Text>
         </Document>
         <Document ID="79">
             <Title>Radcliffe: sentimental</Title>
@@ -265,7 +271,8 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
         </Document>
         <Document ID="37">
             <Title>Sam&amp;McG summary</Title>
-            <Text>But if my spreadsheet and graphs model “the Gothic novel”, they also deform it.</Text>
+            <Text>So, pragmatic reasons are one reason a model might diverge in “isomorphic exactness” (McCarty CITE) from that which it models; the other is what McCarty terms “distortion” (CITE), but which Lisa Samuels and Jerome McGann might call “deformance.”
+Accordingly, if my spreadsheet and graphs model “the Gothic novel”, they also deform it.</Text>
         </Document>
         <Document ID="61">
             <Title>biggest charts</Title>
@@ -273,8 +280,7 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
         </Document>
         <Document ID="38">
             <Title>McCarty summary</Title>
-            <Text>McCarty, in proposing language to discuss literary models and their epistemological implications, defines a distinction between models “of” something and models “for” something (CITE). Blueprints of historical buildings, for example, allow inquiry into the details of something that already exists, whereas blueprints for new buildings allow architectural ideas to be explored before they are brought into reality; both ways of modeling, McCarty says, “comprise a practical means of playing out the consequences of an idea in the real world” (CITE), from two different directions. My several attempts to model the Gothic novel, as a genre experienced by its popular readership in the late eighteenth century, are certainly models of that genre. As such, their merit at first seems most appropriately evaluated in terms of their compliance with the “fundamental principle” of modeling-of, namely, the “exact correspondence between model and object with respect to the webs of relationships among the selected elements in each” (CITE). By this principle, my essay ought to focus on those preliminary models which retained the most detail about the texts in question: Tracy’s plot summaries, for example, or even a much-smaller corpus of full texts for famous Gothics. However, as McCarty ultimately concludes, “modeling is pragmatic” (CITE); immediately after defining the “fundamental principle” of “exact correspondence,” McCarty describes two reasons it may
-[The key idea is that models are constructed, and the construction of a model makes it sensitive to some areas of difference while eliding others.]</Text>
+            <Text>McCarty, in proposing language to discuss literary models and their epistemological implications, defines a distinction between models “of” something and models “for” something (CITE). Blueprints of historical buildings, for example, allow inquiry into the details of something that already exists, whereas blueprints for new buildings allow architectural ideas to be explored before they are brought into reality; both ways of modeling, McCarty says, “comprise a practical means of playing out the consequences of an idea in the real world” (CITE), from two different directions. My several attempts to model the Gothic novel, as a genre experienced by its popular readership in the late eighteenth century, are certainly models of that genre. As such, their merit at first seems most appropriately evaluated in terms of their compliance with the “fundamental principle” of modeling-of, namely, the “exact correspondence between model and object with respect to the webs of relationships among the selected elements in each” (CITE). By this principle, my essay ought to focus on those preliminary models which retained the most detail about the texts in question: Tracy’s plot summaries, for example, or even a much-smaller corpus of full texts for famous Gothics. However, as McCarty ultimately concludes, “modeling is pragmatic” (CITE); immediately after defining the “fundamental principle” of “exact correspondence,” McCarty describes two reasons it may be violated: when exact correspondence is impossible for practical reasons, and when it has been intentionally distorted in order to study the effects of those distortions.</Text>
         </Document>
         <Document ID="62">
             <Title>male/female chars</Title>
@@ -320,7 +326,7 @@ The unbalanced nature of our attempted binary is borne out by my investigation o
         </Document>
         <Document ID="90">
             <Title>explains comparison to Inchbald</Title>
-            <Text>“One of the reviews of /The Mysteries of Udolpho/ closes with these words: ‘This is the best composition of this kind since Mrs. Inchbald’s /Simple Story/.’ The expression, ‘this kind,’ is a little puzzling here. The reviewer must surely be thinking of fiction in general, for, except that they are both fiction, two compositions could hardly be more unlike than The Mysteries of Udolpho and A Simple Story.” (McIntyre 94) “…the ethical purpose of the book is rather too obvious for successful art. Mrs. Radcliffe, it is true, was strictly moral… but her main interest does not lie there.”</Text>
+            <Text>This may explain the compaison of Udolpho to Inchbald’s A Simple Story which so puzzled Clara McIntyre. In response to a review which declated Udolpho to be “the best composition of this kind since Mrs. Inchbald’s Simple Story,” McIntyre is taken aback by the expression “this kind” (94). She says, “The reviewer must surely be thinking of fiction in general, for, except that they are both fiction, two compositions could hardly be more unlike than The Mysteries of Udolpho and A Simple Story” (94). McIntyre begins to draw a connection based on “the ethical purpose of the book,” which in Inchbald is “rather too obvious for successful art,” but decides that although Radcliffe’s writing “it is true, was strictly moral,” Radcliffe’s “main interest” does not lie in moralizing, and Udolpho’s project is along a different line. However, [McIntyre overlooked the importance of moral sentiment.]</Text>
         </Document>
         <Document ID="24">
             <Title>methodological philosophy</Title>
@@ -329,6 +335,9 @@ The unbalanced nature of our attempted binary is borne out by my investigation o
         <Document ID="68">
             <Title>tagging methods</Title>
             <Text>Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts indexed by both authors, he provided 131 unique classifications (CITE APPENDIX). [They were meant to be read by a human who wants to know more about an individual book, not mechanically used to map similarities between a large number of books]. Many of these are “unique” primarily from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, may be subtly different from each other, but [TRANSITION]. I divided each “Gothic type” into a set of tags, and tallied the use of each tag the same way I tallied Tracy’s motifs. The novel A Suffolk Tale, for example, listed in Frank as “Domestic fiction (various Gothic elements)” (315), was tagged as “domestic” and “Gothic elements.” Similarly, Radcliffe’s Italian, listed as “Pure or high Gothic (terror and horror modes)” (302), tagged as “high,” “Gothic,” “terror mode,” “horror mode,” and “Radcliffean.” By allowing each individual phrase of Frank’s ‘Gothic types’ to become its own tag, rather than attempting to define my own categories and sort each genre types into them, I allowed the most important categories to emerge on their own. [The axes of distinction to which my model is sensitive are thus based on what is actually seen.]</Text>
+        </Document>
+        <Document ID="91">
+            <Title>goal is to be fruitful</Title>
         </Document>
         <Document ID="3">
             <Title>This is a test.</Title>
@@ -353,6 +362,15 @@ The unbalanced nature of our attempted binary is borne out by my investigation o
             <Title>So I’m going to try writing in Scrivener, and exporting</Title>
             <Text>So I’m going to try writing in Scrivener, and exporting to a html file whenever I feel I’ve made enough progress that I want to commit.</Text>
         </Document>
+        <Document ID="92">
+            <Title>models sensitive to different things</Title>
+            <Text>Exact correspondence is, of course, never a practical option; if there have been no adjustments of scale or materials, [it] is no longer a model at all, but the [thing itself]; tautologically, models are only needed when the thing itself is in some way unsuitable for study (too big, too complicated, or no longer in complete existence), and so models are always “fictional” (McCarty CITE). 
+“Since modeling is pragmatic, the worth of a model must be judged by its fruitfulness.” (McCarty CITE).
+[The key idea is that models are constructed, and the construction of a model makes it sensitive to some areas of difference while eliding others.]</Text>
+        </Document>
+        <Document ID="93">
+            <Title>JMS Thompkins</Title>
+        </Document>
         <Document ID="6">
             <Title>This tests bold.</Title>
             <Text>This tests bold. And italic.
@@ -371,6 +389,13 @@ The final format of this essay is still up in the air.</Text>
             <Title>Yikes, the images are definitely gonna have to hang</Title>
             <Text>Yikes, the images are definitely gonna have to hang out separately.</Text>
         </Document>
+        <Document ID="94">
+            <Title>Leah Price: Radcliffe lit context</Title>
+            <Text>As Price’s work indicates, this context is complex, and Radcliffe engages with it very intentionally.
+
+
+</Text>
+        </Document>
         <Document ID="28">
             <Title>reduction</Title>
         </Document>
@@ -381,12 +406,21 @@ The final format of this essay is still up in the air.</Text>
         <Document ID="9">
             <Title>Motifs</Title>
         </Document>
+        <Document ID="95">
+            <Title>literary framework</Title>
+        </Document>
         <Document ID="29">
             <Title>genre-motif charts</Title>
         </Document>
         <Document ID="52">
             <Title>voraciousness</Title>
             <Text>However, this narrower focus is not in keeping with how, e.g., Ann Radcliffe was perceived by her readers – she was not canonized separately from other Gothic writers either on the shelves of the circulating libraries or in the minds of book reviewers (as ‘literary fiction’ is separated from ‘romance novels’ today). [Info on circulating libraries]</Text>
+        </Document>
+        <Document ID="96">
+            <Title>Punter</Title>
+            <Text>Punter, David. The Literature of Terror: A History of Gothic Fictions from 1765 to the Present Day. London and New York: Longman, 1980. Print.
+	This book, perhaps the first to pay serious scholarly attention to the wide reach of the Gothic, puts forth “a set of descriptions which will both help to identify the historical Gothic while suggesting reasons for its survival and for the multifarious forms in which it has survived” (20-21). Examining works from the birth of the Gothic to his present day, Punter identifies the unifying element of the Gothic as fear, expressed through a “dialectic of comfort and disturbance” and “a continuous oscillation between reassurance and threat” (423). In his final proposal of “a theory of the Gothic,” he argues that “Gothic fiction becomes a process of cultural self-analysis, and the images which it throws up become the dream-figures of a troubled social group.” with “the glance over the shoulder”—a nostalgic attempt to understand the past—as the inherent function of the ghost-story. The Gothic, “at the psychological interface between the well-ordered psyche and its rebel subjects,” may not provide an escape, but can provide “refuge while at the same time undermining the architectural fabric” of the bourgeois ideology which attempts to “naturalise” the unstable situation of society (425-6).
+</Text>
         </Document>
         <Document ID="53">
             <Title>need to go big: research Qs</Title>
@@ -398,6 +432,12 @@ The final format of this essay is still up in the air.</Text>
 At first glance, the gendered differences are not, in fact, particularly striking. 39 of the 70 motifs-- 55% of them-- are distinguished by less than a 60-40 split, with three perfect ties. Of the 31 that show a notable contrast, only eight show a difference of more than 70-30.
 Moreover, the motifs characterized by a strong contrast tend to appear in relatively few works, making up a correspondingly minor part of the average reader's experience of the genre. Of the five most-represented motifs-- fainting, confinement, abduction, storm, and suicide mentions-- the suicide mentions show the greatest contrast, with a ratio of 61% male authors to 39% female.
 On the whole, then, male and female writers seem to have more commonalities than they do differences.</Text>
+        </Document>
+        <Document ID="97">
+            <Title>Price</Title>
+            <Text>Price draws attention to the ways in which all reading, and particularly all scholarly writing, must involve a constant re-editing of texts, influenced by memory and argument.
+Just as her rational explanations allowed Radcliffe to incorporate empowering myths unapologetically into modern literature, so too do her “embellishments” allow her to demonstrate her literary seriousness. Price herself notes that the prevalence in the novel of material that ought not be skipped, particularly her original poetry, “differentiates Radcliffe,” in reviewers’ minds, “from mere entertainers” (97). But Radcliffe doesn’t simply write and quote poetry: she also fills her text with landscapes and architecture, drawing on the literary traditions of travel narratives; with moral contemplations that wouldn’t be out of place in popular sentimental novels; with dramatic structures and staging that owe an obvious debt to the theatre; and, of course, with all the traditions of romance. Even the frustrating digressions of her comic servants come straight from Shakespeare. Walpole had, much earlier, “designedly” introduced bumbling servants based on the model of a “higher authority,” namely, “the great master of nature, SHAKESPEARE” (22). Indeed, Walpole provides a direct description of the Gothic-as-new-Classic framework, comparing Shakespeare to “the Grecian sculptor, who, to convey the idea of a Colossus… inserted a little boy measuring his thumb” (22). But whereas Walpole must explain and justify his lineage, Radcliffe allows it to go without saying. Walpole’s preface points to specific characters, and scenes, but Radcliffe attributes her epigraphs, whichever play they are drawn from or character they are spoken by, to, simply, “Shakespeare.” In the strength of her unifying vision, Radcliffe is like the Romantic poet, discussed by Tilar Mazzeo; she subordinates all her literary borrowings to a singular goal, ‘mastering’ them with her individual genius, and thus transforms them. Udolpho’s “beauties” go beyond embellishment to create a deeply intertextual novel, which is built upon diverse foundations but stands upon its own authority.
+</Text>
         </Document>
         <Document ID="54">
             <Title>key terms</Title>
