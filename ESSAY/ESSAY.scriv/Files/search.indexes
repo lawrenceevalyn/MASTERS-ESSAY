@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <SearchIndexes Version="1.0">
     <Documents>
+        <Document ID="102">
+            <Title>Methodology</Title>
+        </Document>
         <Document ID="11">
             <Title>Male and Female Characters</Title>
             <Text>For the most part, my sample suggests that men write more about men, though without corresponding evidence that women write more about women. Not all of the individual motifs involve a particularly noteworthy contrast, but in general, monasteries are much more often discussed by men, and convents only weakly more by women...
@@ -66,6 +69,9 @@ Perhaps these men are, like Henry Walpole in The Castle of Otranto, presenting u
             <Title>why no texts?</Title>
             <Text>Most in need of explanation, I suspect, is my decision not to focus on any of the experiments which involved actual texts, whether literary or bibliographic. Certainly, the early Gothic is uncharted territory for computational stylometry; the one corpus-based analysis which I was able to discover, an MSc dissertation by Stephanie Jones (2010), begins its investigation in 1816, well past the Gothic’s first flourishing. [However, full-text analysis relies on having full texts, which only exist for the most critically-examined novels. My goal is not to examine Radcliffe herself, but the ‘school of Radcliffe’; although I can see less clearly, I can see more broadly, which suits my particular questions.]</Text>
         </Document>
+        <Document ID="103">
+            <Title>Motifs</Title>
+        </Document>
         <Document ID="13">
             <Title>The Male Gothic</Title>
             <Text>A male interest in crime and conspiracy is also suggested by the predominantly-male authorship of banditti and piracy, and Inquisition and secrecy.
@@ -75,7 +81,7 @@ The masculine impulse to 'go farther,' to replace coy allusions with unflinching
         </Document>
         <Document ID="57">
             <Title>Tracy's goals</Title>
-            <Text>I began with the ten-page ‘Index to Motifs’ included at the end of Ann Tracy’s bibliography. Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. This index is clearly built for a different kind of scholarly use than that which I have made of it; its intended audience is “scholars with particular interests” (195), such as “garden as a scene of temptation” (200), who wish to locate new books to close-read. Accordingly, Tracy has prioritized presenting a wide range of distinctive individual motifs, such as “hand, cold, seizing heroine” (200), rather than broad categories. Indeed, her preface to the index indicates that highly popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only” (195), and castles have similarly been ignored. Tracy’s omissions work at cross-purposes to my own approach — despite Tracy’s assertion that castles “are so pervasive a device that no purpose can be served by the recitation of two hundred novels that have them” (195), I would have liked to compare them to manor houses, cottages, abbeys, and convents — and I have had to discard much of her work. 138 of her motifs have been disregarded entirely, because they appear in fewer than twenty novels. Additionally, most of the motifs which she breaks down into detailed sub-categories have been reduced back to their stem category. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine” (203), but I have elided these nuances in favor of a broader category of “poison (any).”</Text>
+            <Text>I began with the ten-page ‘Index to Motifs’ included at the end of Ann Tracy’s bibliography. Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. This index is clearly built for a different kind of scholarly use than that which I have made of it; its intended audience is “scholars with particular interests” (195), such as “garden as a scene of temptation” (200), who wish to locate new books to close-read. Accordingly, Tracy has prioritized presenting a wide range of distinctive individual motifs, such as “hand, cold, seizing heroine” (200), rather than broad categories. Indeed, her preface to the index indicates that highly popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only” (195), and castles have similarly been ignored. Tracy’s omissions work at cross-purposes to my own approach — despite Tracy’s assertion that castles “are so pervasive a device that no purpose can be served by the recitation of two hundred novels that have them” (195), I would have liked to compare them to manor houses, cottages, abbeys, and convents — and I have had to discard much of her work. 138 of her motifs have been disregarded entirely, because they appear in fewer than twenty novels. Additionally, most of the motifs which she breaks down into detailed sub-categories have been reduced back to their stem category. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine” (203), but I have elided these nuances in favor of a broader category of “poison (any),” which applies to [X] novels and thus allows [subcategorization].</Text>
         </Document>
         <Document ID="80">
             <Title>my ultimate argument</Title>
@@ -87,6 +93,9 @@ The masculine impulse to 'go farther,' to replace coy allusions with unflinching
 However, it does not follow that the terror-Gothic must therefore be the province of women. Ann Radcliffe may have founded the terror-Gothic school, but women and men appear to have followed in her footsteps equally. Moreover, the existence of two opposing schools does not prove the equal footing of those schools; setting aside questions of gender to look at the relative prominence of various motifs, readers are vastly more likely to encounter the temporary terrors of abduction and confinement than the more permanent horrors of bones and corpses. Even death, which could reasonably appear in either school of novel despite its horrifying potential, is unexpectedly scarce compared to the widespread fainting.
 In the wider context of the Gothic, then, it seems that the terror-Gothic and the Female Gothic are, in fact, simply the Gothic-- with the male horror-Gothic as the outlier subgenre in which an author's writing has been shaped by his gender.
 These results remain preliminary, at least until a sample can be assembled which involves more texts at fewer levels of mediation. However, they serve as a useful reminder that not all contrasts are necessarily perfect binaries. Research at a large scale provides a unique opportunity to compare the critical perception of a body of work to contemporary readers' experience of that same body; here, it has focused only on one specific way of seeking gendered imagery, but future projects can easily expand to investigate plot structure or chronology, and in a few years perhaps even style. And in the mean time, those scholars of the Gothic who study deeply only a few texts at a time can discuss their observations regarding potential expressions of a male viewpoint without needing to seek its exact analogue among female writers.</Text>
+        </Document>
+        <Document ID="104">
+            <Title>Genres</Title>
         </Document>
         <Document ID="58">
             <Title>libertines, miniatures</Title>
@@ -117,6 +126,9 @@ Of the 31 that show a notable contrast, only eight show a difference of more tha
         <Document ID="16">
             <Title>Ann Tracy</Title>
             <Text>Experiment: what motifs are evidence of gender? Result: there’s a lot of man stuff, and a lot of everybody stuff, but not a lot of woman stuff.</Text>
+        </Document>
+        <Document ID="105">
+            <Title>Sentimental Novels</Title>
         </Document>
         <Document ID="83">
             <Title>all Frank genre charts</Title>
@@ -171,9 +183,12 @@ The conception of modeling I have developed here on the basis of practice in the
         <Document ID="18">
             <Title>Frank</Title>
         </Document>
+        <Document ID="106">
+            <Title>Conclusion</Title>
+        </Document>
         <Document ID="85">
             <Title>70 pie charts</Title>
-            <Text>The charts’ design is meant to render the charts a [fertile?] body for interpretive readings. The size of each circle, for example, reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two colors in each chart reflects the difference between the percentages. This latter choice is motivated by my desire to identify motifs that have strong predictive power: if a motif is used completely equally by men and women, for example, it is not a useful tool to draw distinctions between two camps. Accordingly, if the motif [is not useful as a tool to distinguish between two gendered camps], its chart doesn’t have two camps. [Preliminary mention of what I will argue about these pie charts.]</Text>
+            <Text>The charts’ design is meant to render the charts a fruitful body for interpretive readings. The size of each circle, for example, reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two colors in each chart reflects the difference between the percentages. This latter choice is motivated by my desire to identify motifs that have strong predictive power: if a motif is used completely equally by men and women, for example, it is not a useful tool to draw distinctions between two camps. Accordingly, if the motif [is not useful as a tool to distinguish between two gendered camps], its chart doesn’t have two camps. [Preliminary mention of what I will argue about these pie charts.]</Text>
         </Document>
         <Document ID="19">
             <Title>Appendices</Title>
@@ -185,7 +200,12 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="86">
             <Title>nuance</Title>
-            <Text>However, this [whatever] does not result in a loss of [knowledge]. Instead, [Pivoting metaphor]. [I deform her index to produce a model of the Gothic that is sensitive to what particular elements of the ‘Gothic toolkit’ authors are more likely to use.] [Sensitivity to one thing is traded for sensitivity to another.]</Text>
+            <Text>This description of my methods emphasizes places where differences between books have been 
+However, this [whatever] does not result in a loss of [knowledge]. Instead, [Pivoting metaphor]. [I deform her index to produce a model of the Gothic that is sensitive to what particular elements of the ‘Gothic toolkit’ authors are more likely to use.] [My deformed version of Tracy’s index is now far less useful for locating outlier texts for closer reading, but sensitivity to one thing is traded for sensitivity to another.]</Text>
+        </Document>
+        <Document ID="107">
+            <Title>Thesis</Title>
+            <Text>Literary discussions of gender at the birth of the Gothic novel in the late eighteenth century have grown ever more nuanced and detail-oriented over the years. [We have gone from, for example,  Fleenor’s societal emphasis on relationship to patriarchy to a more literary emphasis in Wallace &amp; Smith’s Female Gothic: New Directions.] [However, to accomplish this more sophisticated approach, scholars have of necessity focused in greater detail on smaller numbers of texts.] [My goal, in applying a large-scale digital methodology to this [field], is not to duplicate the research on individual novels carried out by other scholars, but to open up new ways of understanding the relationships within the broader body of texts.] [Throughout my essay, I will touch upon the implications my findings might have for the way we understand Ann Radcliffe’s works, but my primary interest in is the ‘school of Radcliffe’ itself.] [This ‘school’ was, evidently, readily identifiable to Radcliffe’s contemporaries, but [I will argue that its identifying features are not entirely those which seem most notable to modern critics]]. [Over the course of two large-scale literary ‘experiments,’ in which I model the early Gothic novel by means of bibliographic data, I have asked what schools, if any, make themselves apparents, and whether there is cause to believe that the hundreds of women writing Gothic novels wrote observably different books than the hundreds of men doing the same.] [My preliminary results suggest that male and female schools do indeed exist, but that both are dwarfed by a non-gendered Gothic mainstream.]</Text>
         </Document>
         <Document ID="43">
             <Title>Case Study</Title>
@@ -195,7 +215,7 @@ The conception of modeling I have developed here on the basis of practice in the
             <Text>This readerly voraciousness is particularly [important] in light of John Frow’s articulation of genre as, not a stable set of categories, but a self-defining process. Individual texts, Frow argues, “do not ‘belong’ to genres but are, rather, uses of them” (2), [explain this idea]. Genres function by bridging the “social situation” of a reader embedded in real and literary contexts, and a text that “realises certain features of this situation, or which responds strategically to its demands” (14). 
 
 Rather than reading genre simply to categorize “where a text ‘belongs,’” Frow argues, “we read… for those layers of background knowledges that texts evoke” through their genre relationships, which allow an assessment of “which types of meaning are appropriate and relevant,” and therefore how the text can be made to make sense (101). Frow concludes that “what we learn, in ‘doing’ genre (in performing and transforming it) is the values we share or don’t share with others and the means with which to challenge or defend them” (144).
-any investigation of Radcliffe’s use of genre must begin with an understanding of what she’s using.</Text>
+Any investigation of Radcliffe’s use of genre must begin with an understanding of what she’s using.</Text>
         </Document>
         <Document ID="44">
             <Title>Conclusion</Title>
@@ -205,6 +225,9 @@ any investigation of Radcliffe’s use of genre must begin with an understanding
             <Text>Frow, John. Genre. London and New York: Routledge, 2006. Print.
 	This book’s central task is the reframing of the text-genre relationship, arguing that texts “do not ‘belong’ to genres but are, rather, uses of them” (2). Genres function by “mediat[ing] between a social situation” of a reader embedded in real and literary contexts, “and the text which realises certain features of this situation, or which responds strategically to its demands” (14). Rather than reading genre simply to categorize “where a text ‘belongs,’” Frow argues, “we read… for those layers of background knowledges that texts evoke” through their genre relationships, which allow an assessment of “which types of meaning are appropriate and relevant,” and therefore how the text can be made to make sense (101). Frow concludes that “what we learn, in ‘doing’ genre (in performing and transforming it) is the values we share or don’t share with others and the means with which to challenge or defend them” (144).
 </Text>
+        </Document>
+        <Document ID="108">
+            <Title>school of Radcliffe - voraciousness</Title>
         </Document>
         <Document ID="45">
             <Title>Outline</Title>
@@ -433,6 +456,9 @@ The final format of this essay is still up in the air.</Text>
 
 </Text>
         </Document>
+        <Document ID="100">
+            <Title>First Draft</Title>
+        </Document>
         <Document ID="28">
             <Title>reduction</Title>
         </Document>
@@ -452,6 +478,9 @@ The final format of this essay is still up in the air.</Text>
         <Document ID="52">
             <Title>voraciousness</Title>
             <Text>However, this narrower focus is not in keeping with how, e.g., Ann Radcliffe was perceived by her readers – she was not canonized separately from other Gothic writers either on the shelves of the circulating libraries or in the minds of book reviewers (as ‘literary fiction’ is separated from ‘romance novels’ today). [Info on circulating libraries]</Text>
+        </Document>
+        <Document ID="101">
+            <Title>Introduction</Title>
         </Document>
         <Document ID="96">
             <Title>Punter</Title>
