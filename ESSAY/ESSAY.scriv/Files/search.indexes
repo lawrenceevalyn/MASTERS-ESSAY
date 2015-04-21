@@ -7,7 +7,7 @@
         </Document>
         <Document ID="117">
             <Title>design</Title>
-            <Text>The charts’ design is meant to render the charts a fruitful body for interpretive readings. The size of each circle, for example, reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two colors in each chart reflects the difference between the percentages. This latter choice is motivated by my desire to identify motifs that have strong predictive power: if a motif is used completely equally by men and women, for example, it is not a useful tool to draw distinctions between two camps. Accordingly, if the motif [is not useful as a tool to distinguish between two gendered camps], its chart doesn’t have two camps. [These largely non-gendered charts turned out to make up the majority of charts overall.]</Text>
+            <Text>Influenced by Joanna Drucker’s warnings that [graphs] too easily give the impression of a quantitative and objective truth which cannot exist, particularly in humanities [investigations] (“Humanities Approaches to Graphical Display”), I have [made my graphic design decisions procedurally generated]. [The goal is for the visual presentation of each chart to qualitatively indicate [stuff], and thus make them a fruitful body for interpretive readings.] The size of each circle, for example, reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two colors in each chart reflects the difference between the two percentages.  I wished to avoid graphs whose labels said that a motif featured a 50/50 split, but whose starkly-constrasted colours nonetheless implied that books by male versus female authors could be easily distinguished from each other. Instead, I wanted my reader's ease in distinguishing between male and female authors to be directly connected to the ease with which a reader in the 1790s might have been able to accomplish the same task if given only the information that a certain motif was present. Accordingly, if the motif [is not useful as a tool to distinguish between two gendered camps], its chart doesn’t have two camps. [All these design choices further emphasize my model’s sensitivity to each motif’s gendered use.] [Each chart is able to immediately provide an answer to the question, “does knowing that this motif appears in a book tell me anything about the likely gender of that book’s author?”]</Text>
         </Document>
         <Document ID="72">
             <Title>Sentimental Novels: return to older critics</Title>
@@ -33,7 +33,7 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
         </Document>
         <Document ID="118">
             <Title>male gothic</Title>
-            <Text>Nonetheless, an identificable gendered school does emerge: 29 distinctly male-authored motifs indicate male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply. The masculine impulse to 'go farther,' to replace coy allusions with unflinching enactments, is most evident in my sample novels' treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration-- nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms "actual" incest, only "incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion)." This kind of narrative discretion is employed roughly equally by both male and female authors, and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented-- and all six are by men. To force one's readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Lewis as the quintessential horror-Gothic writer.</Text>
+            <Text>And indeed, an identifiable gendered school does emerge at a glance: 29 distinctly male-authored motifs indicate male dominance of largely the things we would expect men to dominate. These motifs suggest that the darkest side of the Gothic was primarily the province of men: death may be slightly female-dominated, but murder is male-dominated, as are blood, corpses, and bones. These motifs suggest that men are more likely not to simply mention death as a plot device or an inevitability, but rather to dwell vividly upon its effects. Similarly, human sacrifice, putrefaction, starvation, and torture all involve directly depicting that which other novels might merely imply. The masculine impulse to 'go farther,' to replace coy allusions with unflinching enactments, is most evident in my sample novels' treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration-- nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms "actual" incest, only "incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion)." This kind of narrative discretion is employed roughly equally by both male and female authors, and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented-- and all six are by men. To force one's readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Lewis as the quintessential horror-Gothic writer.</Text>
         </Document>
         <Document ID="74">
             <Title>The Male Gothic</Title>
@@ -102,6 +102,7 @@ p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming 
         <Document ID="84">
             <Title>Works Cited</Title>
             <Text>Baker, Ernest A. The History of the English Novel: Volume V, The Novel of Sentiment and the Gothic Romance. 1929. New York: Barnes &amp; Noble, 1950. Print.
+Drucker, Joanna. "Humanities Approaches to Graphical Display." Digital Humanities Quarterly 5.1 (2011): n. pag. Web. 17 March 2014.
 Fleenor, Juliann E., ed. The Female Gothic. Montreal and London: Eden Press, 1983. Print.
 Frank, Frederick S. The First Gothics: A Critical Guide to the English Gothic Novel. New York: Garland, 1987. Print.
 Frow, John. Genre. London and New York: Routledge, 2006. Print.
@@ -252,7 +253,7 @@ Just as her rational explanations allowed Radcliffe to incorporate empowering my
             <Title>Introduction</Title>
         </Document>
         <Document ID="135">
-            <Title>limitations</Title>
+            <Title>pivoting</Title>
         </Document>
         <Document ID="98">
             <Title>Baker</Title>
@@ -310,6 +311,12 @@ Enormous interlude on Fanny Burney, who “provides an interlude of natural come
         <Document ID="136">
             <Title>limitations</Title>
         </Document>
+        <Document ID="140">
+            <Title>Tracy jottings</Title>
+            <Text>[There are only a few things that each of these motifs might be correlated with.] [For each book, Tracy provides the author and title, the number of volumes, the publisher location and company, and the year.] 
+
+Tracy’s omissions work at cross-purposes to my own approach — despite Tracy’s assertion that castles “are so pervasive a device that no purpose can be served by the recitation of two hundred novels that have them” (195), I would have liked to compare them to manor houses, cottages, abbeys, and convents. Indeed, since my own interest lies in seeking difference within each group, rather than between groups, I have had to disregard much of Tracy’s work. </Text>
+        </Document>
         <Document ID="18">
             <Title>Frank</Title>
         </Document>
@@ -359,6 +366,9 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
             <Title>thesis</Title>
             <Text>Scholarly discussions of subgenres within early Gothic novel typically focus on the stylistics of horror versus terror. However, when I examine the popular gothic at scale, these two modes collapse into each other: the differences between them are eclipsed by those between the High Gothic and the sentimental Gothic. Correlating Frederick Frank's genre classifications of 208 Gothic novels with Ann Tracy's index of motifs contained within them, I will argue for a revival of a much earlier critical framework which traces the Gothic's origins directly to the sentimental novel. </Text>
         </Document>
+        <Document ID="141">
+            <Title>my modifications</Title>
+        </Document>
         <Document ID="24">
             <Title>methodological philosophy</Title>
             <Text>My data collection was, in effect, a series of experiments, in which my hypotheses were contually disproven.</Text>
@@ -370,6 +380,10 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
         <Document ID="138">
             <Title>editing - Leah Price</Title>
             <Text>[It is through this new sensitivity that Samuels and McGann begin to [echo?] McCarty.] [The two essays at first seem to be concerned with very different approaches, but they converge by way of Leah Price.] In The Anthology and the Rise of the Novel, Price draws attention to the ways in which all reading, and particularly all scholarly writing, must involve a constant re-editing of texts, influenced by memory and argument. In keeping with Samuels and McGann’s classification of “[e]laborate scholarly editions” (33) as deformative criticism, Price argues that any edited text — ‘elaborate’ or not — produces, not a flawed or distorted copy of the original, but a new text. The process of editing a text must always reveal the editor’s “unspoken assumptions about the most efficient way to convey information, and indeed what counts as information at all” (13), and thus [gives us a new thing to examine]. [Editing, deforming, and modeling are all ways of coming to know a text procedurally.] [All three are fruitful in the same ways.] [Editing: abridgements of Clarissa rewrote the text to reach new audiences and convey new messages.] [Deformance: “Our actions on these works… allow us to begin to understand our thinking about them” (Samuels and McGann 49)] [Modeling: principles of isomorphism in modeling “may be violated deliberately in order to study the consequences” (CITE)]. All three frameworks allow knowledge to be discovered via “a constellation of paraphrases that evolve… from an uncritical to a critical moment” (Samuels and McGann 47), and each framework “gains its power by baring its own devices” (Samuels and McGann 49).</Text>
+        </Document>
+        <Document ID="142">
+            <Title>my model</Title>
+            <Text>My own adaptation of Tracy’s bibliography [accepts this model and elaborates on it.] [Tracy is always pointing outward to the books themselves, but I have foregrounded the motifs.] [I turn my attention to those motifs prevalent enough that their multiple appearances constitute an object worthy of study.] Due to Tracy’s interest in uniqueness, 138 of the 208 motifs indexed appear in fewer than 20 novels, and have thus been excluded from my study. [This leaves me with 70 motifs, which form the foundation of my experiments.] Tracy’s boolean treatment of these motifs has already elided many details; in her index, a motif either exists in a work or it does not, with no attention paid even in the detailed summaries as to how the motif is presented or the importance of its presence. The brief description of [a character] as “a parricide” (CITE) in Melmoth the Wanderer, for example, is sufficient to have that work indexed under “parricide” (Tracy 202), placing it on equal footing as novels like [X] and [Y] in which the murder of a father plays a central role in the plot. I have further distilled each motif to its simplest case by ignoring the detailed sub-categories which Tracy sometimes provides.  “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine” (203), but I have elided these nuances in favor of a broader category of “poison (any).” This new motif applies to 30 novels, a large enough group that it becomes possible to look for patterns within in. This description of my methods emphasizes places where differences between books have been intentionally reduced. However, this [whatever] does not result in a loss of [knowledge]. Instead, [Pivoting metaphor]. [I deform her index to produce a model of the Gothic that is sensitive to what particular elements of the ‘Gothic toolkit’ authors are more likely to use.] [My deformed version of Tracy’s index is now far less useful for locating outlier texts for closer reading, but sensitivity to one thing is traded for sensitivity to another.] [The motifs which Tracy implicitly treats as [existing outside the novels] are now exposed for explicit investigation.]</Text>
         </Document>
         <Document ID="30">
             <Title>Tracy Draft</Title>
@@ -387,6 +401,10 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
             <Title>intro to Frank</Title>
             <Text>However, I argue that these gendered patterns are not due to a male/female horror/terror split, but rather reflect the gendered patterns of the domestic and sentimental Gothic vs the ‘high’ Gothic. In order to connect [these gendered patterns] to genres, I turned to Frederick Frank’s bibliography, The First Gothics, which includes a classification of each text’s “Gothic type”. Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts under consideration, he provided 131 unique classifications (CITE APPENDIX). Many of these are “unique” only from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, clearly refer to the same general “type.” In order to render his assessments useful for my own project, however, it was necessary to reduce his minute distinctions into broader categories. This process of reduction became, in its own right, my second experiment: at each stage of my gradual process of simplification, I asked, “Which distinctions of genre appear to be borne out by differences in authorship or content?” This process of reduction also led to my second [result]: in my historicist reading of the bulk of the early Gothic the operant genre distinctions are not really to do with horror vs terror, but rather the domestic vs High Gothic.</Text>
         </Document>
+        <Document ID="143">
+            <Title>focus on gender</Title>
+            <Text>[I decided to focus on gender.] </Text>
+        </Document>
         <Document ID="32">
             <Title>Drafts</Title>
         </Document>
@@ -395,6 +413,11 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
         </Document>
         <Document ID="100">
             <Title>First Draft</Title>
+        </Document>
+        <Document ID="144">
+            <Title>Ways to improve this essay, LATER.</Title>
+            <Text>* sort charts in Appendix A according to female %
+* add a paragraph between “my model” and “design” in the “Motifs” section, explaining why I decided to examine each motif on the axis of gender.</Text>
         </Document>
         <Document ID="33">
             <Title>Tracy &amp; Frank</Title>
@@ -624,8 +647,8 @@ This readerly voraciousness is particularly [important] in light of John Frow’
             <Text>The more we seek a neat binary in the model, the more we find that it is unbalanced. For example, on the basis of the male-dominated authorship of books containing male fainters, male abductees, and clergymen, it might be tempting to argue that each gender write more often about itself. However, there is no corresponding evidence that women write more about women (female fainters, female abductees, nuns and abbesses).</Text>
         </Document>
         <Document ID="114">
-            <Title>methods</Title>
-            <Text>I began with the ten-page ‘Index to Motifs’ included at the end of Ann Tracy’s bibliography. Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. This index is clearly built for a different kind of scholarly use than that which I have made of it; its intended audience is “scholars with particular interests” (195), such as “garden as a scene of temptation” (200), who wish to locate new books to close-read. Accordingly, Tracy has prioritized presenting a wide range of distinctive individual motifs, such as “hand, cold, seizing heroine” (200), rather than broad categories. Indeed, her preface to the index indicates that highly popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only” (195), and castles have similarly been ignored. Tracy’s omissions work at cross-purposes to my own approach — despite Tracy’s assertion that castles “are so pervasive a device that no purpose can be served by the recitation of two hundred novels that have them” (195), I would have liked to compare them to manor houses, cottages, abbeys, and convents — and I have had to discard much of her work. 138 of her motifs have been disregarded entirely, because they appear in fewer than twenty novels. Additionally, most of the motifs which she breaks down into detailed sub-categories have been reduced back to their stem category. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine” (203), but I have elided these nuances in favor of a broader category of “poison (any),” which applies to [X] novels and thus allows [subcategorization].</Text>
+            <Title>Tracy's model</Title>
+            <Text>I began with the ten-page ‘Index to Motifs’ included at the end of Ann Tracy’s bibliography. Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. This index is clearly built for a different kind of scholarly use than that which I have made of it; its intended audience is “scholars with particular interests” (195), who wish to locate new books to close-read that contain difficult-to-find individual story elements, such as “doppelganger” (198) or “garden as a scene of temptation” (200). Accordingly, Tracy has prioritized presenting a wide range of distinctive individual motifs rather than those that constitute the norm. Indeed, her preface to the index indicates that highly popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only” (195), and castles have similarly been ignored. [Tracy’s model of the Gothic is sensitive to uniqueness.] [It treats each individual novels as a bucket of discrete elements, only one of which is likely to be of interest to a given scholar.] [The information presented alongside each novel’s bibliographic entry, by which critics are meant to determine whether they want to read the book, is a plot summary.] [Her summaries point out distinctive details, such as “a particularly interesting Satan, with molten insides” (74) ][The bare facts of the plot are thus treated as the primary site of interesting investigation.] [The motifs themselves — Satans, murders, doppelgangers, gardens — thus become the stable objects of study, which may or may not become visible in individual texts.] [Intertextual and chronological relationships are minimized in favor of [motifs]]. [In this model of the Gothic, the Gothic is defined by free-floating concepts, which must be examined through the filter of individual novels.]</Text>
         </Document>
         <Document ID="59">
             <Title>39 neutral charts</Title>
@@ -641,7 +664,6 @@ Of the 31 that show a notable contrast, only eight show a difference of more tha
         </Document>
         <Document ID="115">
             <Title>model</Title>
-            <Text>This description of my methods emphasizes places where differences between books have been intentionally reduced. However, this [whatever] does not result in a loss of [knowledge]. Instead, [Pivoting metaphor]. [I deform her index to produce a model of the Gothic that is sensitive to what particular elements of the ‘Gothic toolkit’ authors are more likely to use.] [My deformed version of Tracy’s index is now far less useful for locating outlier texts for closer reading, but sensitivity to one thing is traded for sensitivity to another.]</Text>
         </Document>
         <Document ID="65">
             <Title>Genres</Title>

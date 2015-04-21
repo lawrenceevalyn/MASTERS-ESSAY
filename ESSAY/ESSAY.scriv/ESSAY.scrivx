@@ -111,10 +111,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="103" Type="Text" Created="2015-04-15 06:23:13 -0700" Modified="2015-04-15 07:46:05 -0700">
+                <BinderItem ID="103" Type="Text" Created="2015-04-15 06:23:13 -0700" Modified="2015-04-21 02:18:22 -0700">
                     <Title>Motifs</Title>
                     <MetaData>
-                        <LabelID>2</LabelID>
+                        <LabelID>3</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -122,40 +122,29 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="114" Type="Text" Created="2015-04-15 08:10:51 -0700" Modified="2015-04-19 22:21:23 -0700">
-                            <Title>methods</Title>
+                        <BinderItem ID="114" Type="Text" Created="2015-04-15 08:10:51 -0700" Modified="2015-04-21 01:04:07 -0700">
+                            <Title>Tracy's model</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>304,0</TextSelection>
+                                <TextSelection>1028,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="135" Type="Text" Created="2015-04-16 04:00:31 -0700" Modified="2015-04-16 04:00:39 -0700">
-                            <Title>limitations</Title>
+                        <BinderItem ID="142" Type="Text" Created="2015-04-21 01:23:33 -0700" Modified="2015-04-21 01:49:08 -0700">
+                            <Title>my model</Title>
                             <MetaData>
-                                <LabelID>2</LabelID>
+                                <LabelID>3</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2219,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="115" Type="Text" Created="2015-04-15 08:11:37 -0700" Modified="2015-04-19 22:21:23 -0700">
-                            <Title>model</Title>
-                            <MetaData>
-                                <LabelID>2</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>542,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="117" Type="Text" Created="2015-04-15 08:12:41 -0700" Modified="2015-04-19 22:21:23 -0700">
+                        <BinderItem ID="117" Type="Text" Created="2015-04-15 08:12:41 -0700" Modified="2015-04-21 02:16:32 -0700">
                             <Title>design</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -166,7 +155,7 @@
                                 <TextSelection>775,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="118" Type="Text" Created="2015-04-15 08:15:20 -0700" Modified="2015-04-19 22:21:23 -0700">
+                        <BinderItem ID="118" Type="Text" Created="2015-04-15 08:15:20 -0700" Modified="2015-04-21 02:16:24 -0700">
                             <Title>male gothic</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -370,7 +359,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="84" Type="Text" Created="2015-03-10 23:43:49 -0700" Modified="2015-04-20 20:06:14 -0700">
+                        <BinderItem ID="84" Type="Text" Created="2015-03-10 23:43:49 -0700" Modified="2015-04-21 02:07:35 -0700">
                             <Title>Works Cited</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -378,7 +367,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1110,0</TextSelection>
+                                <TextSelection>283,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="20" Type="Text" Created="2014-05-29 16:30:50 -0700" Modified="2015-04-20 00:56:02 -0700">
@@ -417,6 +406,16 @@
                     </Children>
                 </BinderItem>
             </Children>
+        </BinderItem>
+        <BinderItem ID="144" Type="Text" Created="2015-04-21 02:17:01 -0700" Modified="2015-04-21 02:18:16 -0700">
+            <Title>Ways to improve this essay, LATER.</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>194,0</TextSelection>
+            </TextSettings>
         </BinderItem>
         <BinderItem ID="100" Type="Text" Created="2015-04-15 06:22:20 -0700" Modified="2015-04-15 06:22:23 -0700">
             <Title>First Draft</Title>
@@ -1190,6 +1189,17 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="140" Type="Text" Created="2015-04-20 23:48:40 -0700" Modified="2015-04-21 01:37:16 -0700">
+                    <Title>Tracy jottings</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>130,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="1" Type="ResearchFolder" Created="2014-05-26 13:03:53 -0700" Modified="2014-05-26 13:03:53 -0700">
@@ -1543,6 +1553,49 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="115" Type="Text" Created="2015-04-15 08:11:37 -0700" Modified="2015-04-21 00:15:15 -0700">
+                    <Title>model</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="141" Type="Text" Created="2015-04-21 00:14:10 -0700" Modified="2015-04-21 01:46:05 -0700">
+                    <Title>my modifications</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="135" Type="Text" Created="2015-04-16 04:00:31 -0700" Modified="2015-04-21 01:48:20 -0700">
+                    <Title>pivoting</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="143" Type="Text" Created="2015-04-21 02:06:04 -0700" Modified="2015-04-21 02:06:17 -0700">
+                    <Title>focus on gender</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1581,9 +1634,9 @@
         <FirstName></FirstName>
     </ProjectProperties>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-22 13:03:51 -0700" IgnoreDeadline="No">8500</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">250</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2015-04-18 17:03:56 -0700"></PreviousSession>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-22 13:03:51 -0700" IgnoreDeadline="No">8000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Never" DeterminedFromDeadline="No" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">250</SessionTarget>
+        <PreviousSession Words="258" Characters="1639" Date="2015-04-18 17:03:56 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
