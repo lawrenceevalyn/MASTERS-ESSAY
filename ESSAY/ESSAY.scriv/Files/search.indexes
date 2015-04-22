@@ -7,7 +7,7 @@
         </Document>
         <Document ID="117">
             <Title>design</Title>
-            <Text>Influenced by Joanna Drucker’s warnings that [graphs] too easily give the impression of a quantitative and objective truth which cannot exist, particularly in humanities [investigations] (“Humanities Approaches to Graphical Display”), I have [made my graphic design decisions procedurally generated]. [The goal is for the visual presentation of each chart to qualitatively indicate [stuff], and thus make them a fruitful body for interpretive readings.] The size of each circle, for example, reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two colors in each chart reflects the difference between the two percentages.  I wished to avoid graphs whose labels said that a motif featured a 50/50 split, but whose starkly-constrasted colours nonetheless implied that books by male versus female authors could be easily distinguished from each other. Instead, I wanted my reader's ease in distinguishing between male and female authors to be directly connected to the ease with which a reader in the 1790s might have been able to accomplish the same task if given only the information that a certain motif was present. Accordingly, if the motif [is not useful as a tool to distinguish between two gendered camps], its chart doesn’t have two camps. [All these design choices further emphasize my model’s sensitivity to each motif’s gendered use.] [Each chart is able to immediately provide an answer to the question, “does knowing that this motif appears in a book tell me anything about the likely gender of that book’s author?”]</Text>
+            <Text>Influenced by Joanna Drucker’s warnings that [graphs] too easily give the impression of a quantitative and objective truth which cannot exist, particularly in humanities [investigations] (“Humanities Approaches to Graphical Display”), I have [made my graphic design decisions procedurally generated]. [The goal is for the visual presentation of each chart to qualitatively indicate [stuff], and thus make them a fruitful body for interpretive readings.] I chose pie charts, one per motif, to visually represent Tracy’s treatment of each motif as a self-contained field which may or may not have distinct divisions within it. The size of each circle reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two colors in each chart reflects the difference between the two percentages.  I wished to avoid graphs whose labels said that a motif featured a 50/50 split, but whose starkly-constrasted colours nonetheless implied that books by male versus female authors could be easily distinguished from each other. Instead, I wanted my reader's ease in distinguishing between male and female authors to be directly connected to the ease with which a reader in the 1790s might have been able to accomplish the same task if given only the information that a certain motif was present. Accordingly, if the motif [is not useful as a tool to distinguish between two gendered camps], its chart doesn’t have two camps. [All these design choices further emphasize my model’s sensitivity to each motif’s gendered use.] [Each chart is able to immediately provide an answer to the question, “does knowing that this motif appears in a book tell me anything about the likely gender of that book’s author?”]</Text>
         </Document>
         <Document ID="72">
             <Title>Sentimental Novels: return to older critics</Title>
@@ -28,8 +28,11 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
             <Text>Instead, the main gendered trend we see is the female dominance of ‘sentimental’ novels.</Text>
         </Document>
         <Document ID="122">
-            <Title>methods</Title>
-            <Text>In order to better define that Gothic mainstream, I turned to a second bibliography, which classified novels by their ‘Gothic type’; here, too, the unbalanced nature of our attempted binary becomes obvious. Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use: for the 178 texts indexed by both authors, he provided 131 unique classifications (CITE APPENDIX). [They were meant to be read by a human who wants to know more about an individual book, not mechanically used to map similarities between a large number of books]. Many of these are “unique” primarily from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, may be subtly different from each other, but [TRANSITION]. I divided each “Gothic type” into a set of tags, and tallied the use of each tag the same way I tallied Tracy’s motifs. The novel A Suffolk Tale, for example, listed in Frank as “Domestic fiction (various Gothic elements)” (315), was tagged as “domestic” and “Gothic elements.” Similarly, Radcliffe’s Italian, listed as “Pure or high Gothic (terror and horror modes)” (302), tagged as “high,” “Gothic,” “terror mode,” “horror mode,” and “Radcliffean.” By allowing each individual phrase of Frank’s ‘Gothic types’ to become its own tag, rather than attempting to define my own categories and sort each genre types into them, I allowed the most important categories to emerge on their own. [The axes of distinction to which my model is sensitive are thus based on what is actually seen.]</Text>
+            <Title>Frank's model</Title>
+            <Text>In order to better define that Gothic mainstream, I turned to a second bibliography, which classified novels by their ‘Gothic type’; here, too, the unbalanced nature of our attempted binary becomes obvious. Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use than my own quantification: for the 178 texts indexed by both authors, Frank provides 131 unique classifications. Many of these are “unique” primarily from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, are distinguished only by a slight gradation of degree. [Whereas Tracy treated her motifs as independent and stable, Frank is not interested in the Gothic types themselves.] [Similarly, his “Critical Synopsis” of each text is not interested in recapitulating the details of the novels’ events. Instead, each synopsis describes the origins of any literary borrowings, briefly discusses the plot in terms of its structural tropes, and places the work’s attitude into a broader context.]
+The two bibliographies’ treatments of Grenville Fletcher’s Rosalviva, Or, The Demon Dwarf, for example, serves as a useful illustration of their differences. Tracy’s summary is a litany of events: it begins matter-of-factly with the sentence “Leontini loves Viola di Morini, but she marries someone else,” and is equally unfazed when the titular dwarf arrives in the third act and when the dwarven appearence turns out to be false (51). Frank, in contrast, spends more than half his words on context, as his own first sentence [suggests]:
+“From Rumplestilskin in the fairytale to the comic evil of Dickens’s Daniel Quilp in The Old Curiosity Shop (1841), the figure of the dwarf was often called upon to perform such demonic services as vengeance, prophecy, child possession, and transformation.” (107)
+To this broad literary history he adds Mary Shelley’s story “Transformation” as potential precursor for the disguise in Fletcher’s novel, and includes several assessments of the Gothic’s particular embellishments of “the dwarf as a resolver of dilemmas of identity” (107) and “dwarfs… spin[ning] webs of murderous intrigue for diabolic ladies” (108). All of these details stand in stark contrast to Tracy’s list of seven novels under the index entry “dwarf,” which treats the sinister disguise in Rosalviva as interchangeable with depictions of non-supernatural and even non-evil little people. Unlike Tracy, then, Frank is interested not simply in what happens, but in how it happens. [His object of study is the text, and the connections between it and its most closely related texts.] His Gothic type for Sophia Lee’s The Recess, for example, describes the novels as “Gothified history (terror and sentimental elements)” (204), tying it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traced systematically — no helpful index like Tracy’s attempts to collect them. Instead, [his Gothic types model the Gothic as [a web of connections].] </Text>
         </Document>
         <Document ID="118">
             <Title>male gothic</Title>
@@ -45,7 +48,6 @@ The sample is dominated by the high Gothic and by the terror mode, both of which
         </Document>
         <Document ID="123">
             <Title>many schools</Title>
-            <Text>The eleven tags which correspond to at least nine novels and their respective prevalence are, from most popular to least popular, as follows: “high or pure” Gothic (64); “terror mode” (63); “history” (30); “domestic” fiction (28); “horror mode” (25); “sentimental” fiction (24); “Radcliffean” novels (19, which includes 6 novels by Radcliffe); “chapbook” stories (17); “natural” Gothics, consisting of entirely explained or non-supernatural elements, including those based on authentic contemporary murders (11); “Schauerromantik” novels (11); and “Monk-ian” novels classified either as imitations of The Monk or as monastic shockers (9, including The Monk). The sample is dominated by the high Gothic and by the terror mode, both of which are largely gender-neutral affairs. However, horror is not nearly so evenly matched against terror as we might have hoped — nor as male-dominated. And mingled in with our Radcliffean and Monk-ian novels are all kinds of schools not generally accorded particular importance for the field as a whole: history, domestic, sentimental, naturalized, Schauerromantik.</Text>
         </Document>
         <Document ID="119">
             <Title>female gothic</Title>
@@ -72,7 +74,6 @@ p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming 
         </Document>
         <Document ID="124">
             <Title>male gothic</Title>
-            <Text>Indeed, in accordance with the conclusions I drew from Tracy’s motifs, the Male Gothic operates as a distinct minority of the genre as a whole. Even including ‘Monk-ian’ in this list requires a bit of fudging; this category includes 3 texts named as imitations of The Monk, 5 texts named as ‘monastic shockers,’ and The Monk itself — and even then this only provides 9 novels, below my initial arbitrary threshold of 10.</Text>
         </Document>
         <Document ID="77">
             <Title>sentimental novels</Title>
@@ -90,7 +91,7 @@ p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming 
         </Document>
         <Document ID="125">
             <Title>female gothic</Title>
-            <Text>And yet, it seems that the Radcliffean novel, as a categorization, does bear scrutiny as a gendered tradition. This bright yellow rectangle suggests that the problem, while hunting for the Female Gothic among Tracy’s motifs, was not a lack of a female-dominated tradition — the problem was the method. The particular deformation of the motif-charts allowed my model to be sensitive only to certain types of information, but the gendered trend suggested by Frank’s gothic types is not defined by flashy plot-devices like skulls and incest. Instead, the emerging ‘school of Radcliffe’ suggested here is deeply tied to the sentimental novel. To be precise about the nature of this connection, I [made several pivot tables] along the same principles of [predictive utility] that structured my examination of Tracy’s motifs. Approaching from one direction, 50% of Radcliffean novels are also high gothic. If you know a book is Radcliffean, you know it is probably high Gothic, terror mode, and sentimental, in that order. Approaching from the other direction, 25% of sentimental novels are also Radcliffean. Gothic types which are likely to include Radcliffean novels are sentimental, naturalized or explained, and high Gothic, in that order.</Text>
+            <Text>This bright yellow rectangles of ‘Radcliffe’ and ‘sentimental’ together suggest that the problem, while hunting for the Female Gothic among Tracy’s motifs, was not a lack of a female-dominated tradition — the problem was the method. The particular deformation of the motif-charts allowed my model to be sensitive only to certain types of information, but the gendered trend suggested by Frank’s gothic types is not defined by flashy plot-devices like skulls and incest. Instead, the emerging ‘school of Radcliffe’ suggested here is deeply tied to the sentimental novel. To be precise about the nature of this connection, I [made several pivot tables] along the same principles of [predictive utility] that structured my examination of Tracy’s motifs. Approaching from one direction, 50% of Radcliffean novels are also high gothic. If you know a book is Radcliffean, you know it is probably high Gothic, terror mode, and sentimental, in that order. Approaching from the other direction, 25% of sentimental novels are also Radcliffean. Gothic types which are likely to include Radcliffean novels are sentimental, naturalized or explained, and high Gothic, in that order.</Text>
         </Document>
         <Document ID="79">
             <Title>Radcliffe: sentimental</Title>
@@ -213,6 +214,7 @@ Perhaps these men are, like Henry Walpole in The Castle of Otranto, presenting u
         </Document>
         <Document ID="133">
             <Title>design</Title>
+            <Text>My graphic design choices, as I sought to render each chart legible in terms of this driving question, followed similar principles as my motif chart designs. However, since each chart was specialized to a particular sub-question, each chart has its own slighly different procedure. [Stacked bar graphs let me consider all of the most-common tags as a group.] [Showing the raw counts, rather than [presenting] each bar as a percentage, allows the size of each bar to convey the relative prevalence of each tag.] I have also continued to use colour contrast to indicate gendered difference, when a chart examines a gendered difference.</Text>
         </Document>
         <Document ID="95">
             <Title>literary framework</Title>
@@ -417,7 +419,8 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
         <Document ID="144">
             <Title>Ways to improve this essay, LATER.</Title>
             <Text>* sort charts in Appendix A according to female %
-* add a paragraph between “my model” and “design” in the “Motifs” section, explaining why I decided to examine each motif on the axis of gender.</Text>
+* add a paragraph between “my model” and “design” in the “Motifs” section, explaining why I decided to examine each motif on the axis of gender.
+* GENRE-MOTIF CHARTS — they prove that Frank’s classifications are based on detectable differences between the works, not just his own preconceptions</Text>
         </Document>
         <Document ID="33">
             <Title>Tracy &amp; Frank</Title>
@@ -431,6 +434,10 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
         </Document>
         <Document ID="101">
             <Title>Introduction</Title>
+        </Document>
+        <Document ID="145">
+            <Title>my model</Title>
+            <Text>Just as I had to work against the grain of Tracy’s preference for uniqueness and difference in order to [seek connections and correlations between motifs], so too have I [worked against the grain of Frank’s model], this time in the reverse direction: I have sought to separate out each strand, to treat it as [a category existing beyond the texts it applies to], so that [I can examine each one individually]. Rather than trying to define a single “Gothic type” for each work, I divided each “Gothic type” into a set of tags, and tallied the use of each tag the same way I tallied Tracy’s motifs. The novel A Suffolk Tale, for example, listed in Frank as “Domestic fiction (various Gothic elements)” (315), was tagged as “domestic” and “Gothic elements.” Similarly, Radcliffe’s Italian, listed as “Pure or high Gothic (terror and horror modes)” (302), tagged as “high,” “Gothic,” “terror mode,” “horror mode,” and “Radcliffean.” By allowing each individual phrase of Frank’s Gothic types to become its own tag, I allowed the most important categories— and their relationships— to emerge with as little critical intervention as possible. My further [analysis of gender] followed the same principles as my [analysis] of Tracy’s motifs: each chart was built to answer the question, “does knowing that this tag is associated with a book tell me anything about the likely gender of that book’s author?” Because Frank’s classifications are subjective attempts to [assess the overall tone of a work in context], rather than [boolean checklist items], an answer of “yes” to this question no longer tells us “this motif is a useful predictor of gender,” but rather indicates “the critical [definition] of this genre tag is responding to a gendered usage.”</Text>
         </Document>
         <Document ID="35">
             <Title>more sophisticated</Title>
@@ -485,6 +492,11 @@ The conception of modeling I have developed here on the basis of practice in the
         <Document ID="36">
             <Title>Methodology</Title>
         </Document>
+        <Document ID="146">
+            <Title>Frank jottings</Title>
+            <Text>The eleven tags which correspond to at least nine novels and their respective prevalence are, from most popular to least popular, as follows: “high or pure” Gothic (64); “terror mode” (63); “history” (30); “domestic” fiction (28); “horror mode” (25); “sentimental” fiction (24); “Radcliffean” novels (19, which includes 6 novels by Radcliffe); “chapbook” stories (17); “natural” Gothics, consisting of entirely explained or non-supernatural elements, including those based on authentic contemporary murders (11); “Schauerromantik” novels (11); and “Monk-ian” novels classified either as imitations of The Monk or as monastic shockers (9, including The Monk). 
+Mingled in with our Radcliffean and Monk-ian novels are all kinds of schools not generally accorded particular importance for the field as a whole: history, domestic, sentimental, naturalized, Schauerromantik. Indeed, in accordance with the conclusions I drew from Tracy’s motifs, the Male Gothic operates as a distinct minority of the genre as a whole. Even including ‘Monk-ian’ in this list requires a bit of fudging; this category includes 3 texts named as imitations of The Monk, 5 texts named as ‘monastic shockers,’ and The Monk itself — and even then this only provides 9 novels, below my initial arbitrary threshold of 10.</Text>
+        </Document>
         <Document ID="37">
             <Title>Sam&amp;McG summary</Title>
             <Text>So, pragmatic reasons are one reason a model might diverge in “isomorphic exactness” (McCarty CITE) from that which it models; the other is what McCarty terms “distortion” (CITE), but which Lisa Samuels and Jerome McGann might call “deformance.”
@@ -505,6 +517,10 @@ Accordingly, if my spreadsheet and graphs model “the Gothic novel”, they als
         <Document ID="0">
             <Title>ESSAY</Title>
         </Document>
+        <Document ID="147">
+            <Title>no terror/horror</Title>
+            <Text>The first thing these design choices make apparent is the unbalanced nature of the terror/horror binary, in keeping with my [observations of Tracy’s motifs]. The terror mode enormously outnumbers the horror mode, with 62 novels (35% of the sample) tagged “terror” and only 24 (13%) tagged “horror”. Of those 24 novels tagged as horror, 14 were also tagged as terror, leaving a mere 10 books as pure “horror mode.” However, although the relative scale of each mode accords with what we saw in Tracy’s motifs, the smaller horror mode no longer seems to be so strongly male-dominated. And if we attempt to treat the two modes as mutually-exclusive, separating out the “horror-terror” mixed-modes books from the rest, our gendered expectations are [even more wrong]: the 10 pure-horror books are precisely split between male and female authors, and it is the horror-terror mode which is most predictive of male authorship.</Text>
+        </Document>
         <Document ID="43">
             <Title>Case Study</Title>
         </Document>
@@ -520,6 +536,11 @@ Accordingly, if my spreadsheet and graphs model “the Gothic novel”, they als
         </Document>
         <Document ID="44">
             <Title>Conclusion</Title>
+        </Document>
+        <Document ID="148">
+            <Title>Radcliffe/Lewis</Title>
+            <Text>And yet, it seems that the Radcliffean novel, as a categorization, does bear scrutiny as a gendered tradition. Frank identifies twelve novels as explicit imitations of Radcliffe; the “Radcliffe” tag includes those twelve, and Radcliffe’s own six novels — and every last one is by a woman. Radcliffe’s opposite in this binary is the “Monk / monastic” tag; no works were identified as imitations of Lewis himself, but nine (including The Monk itself) are identified as an imitation of The Monk, a “monastic shocker,” or both. Of these nine, seven are by men. </Text>
+            <Comments>The two monastic shockers with female authors, for the curious, are The Confessional of Valombre and Di Montranzo, Or, The Novice of Corpus Domini, both by Louisa Sidney Stanhope (Frank 380).</Comments>
         </Document>
         <Document ID="4">
             <Title>I found Scrivener very useful for composing my undergrad</Title>
@@ -540,6 +561,10 @@ Accordingly, if my spreadsheet and graphs model “the Gothic novel”, they als
             <Text>This tests bold. And italic.
 What about blockquotes?
 The final format of this essay is still up in the air.</Text>
+        </Document>
+        <Document ID="149">
+            <Title>many schools</Title>
+            <Text>Mingled in with our Radcliffean and Monk-ian novels are all kinds of schools not generally accorded particular importance for the field as a whole: the eleven tags which correspond to at least nine novels and their respective prevalence are, from most popular to least popular, as follows: “high or pure” (64); “terror” (63); “history” (30); “domestic” fiction (28); “horror” (25); “sentimental” (24); “Radcliffean” (19); “chapbook” (17); “natural,” consisting of entirely explained or non-supernatural elements, including those based on authentic contemporary murders (11); “Schauerromantik” (11); and “Monk-ian / monastic shocker” (9).</Text>
         </Document>
         <Document ID="46">
             <Title>Criticism about gendered gothics has grown more sophisticated</Title>
