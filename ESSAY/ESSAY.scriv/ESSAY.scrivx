@@ -65,18 +65,18 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="111" Type="Text" Created="2015-04-15 11:03:58 -0400" Modified="2015-05-16 19:49:30 -0400">
+                        <BinderItem ID="111" Type="Text" Created="2015-04-15 11:03:58 -0400" Modified="2015-05-21 17:33:46 -0400">
                             <Title>modeling - McCarty</Title>
                             <MetaData>
-                                <LabelID>3</LabelID>
+                                <LabelID>4</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2062,0</TextSelection>
+                                <TextSelection>2699,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="113" Type="Text" Created="2015-04-15 11:09:40 -0400" Modified="2015-04-22 07:10:02 -0400">
+                        <BinderItem ID="113" Type="Text" Created="2015-04-15 11:09:40 -0400" Modified="2015-05-21 17:39:02 -0400">
                             <Title>deformance - Samuels &amp; McGann</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -84,10 +84,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>430,0</TextSelection>
+                                <TextSelection>58,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="138" Type="Text" Created="2015-04-20 19:41:37 -0400" Modified="2015-05-16 21:25:33 -0400">
+                        <BinderItem ID="138" Type="Text" Created="2015-04-20 19:41:37 -0400" Modified="2015-05-21 17:18:16 -0400">
                             <Title>editing - Leah Price</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -95,21 +95,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>899,0</TextSelection>
+                                <TextSelection>1723,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="154" Type="Text" Created="2015-05-16 21:09:53 -0400" Modified="2015-05-16 23:07:20 -0400">
-                            <Title>procedurality - Ramsay</Title>
-                            <MetaData>
-                                <LabelID>2</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="112" Type="Text" Created="2015-04-15 11:09:33 -0400" Modified="2015-05-16 22:36:00 -0400">
+                        <BinderItem ID="112" Type="Text" Created="2015-04-15 11:09:33 -0400" Modified="2015-05-21 17:18:28 -0400">
                             <Title>salience</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -117,7 +106,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>245,0</TextSelection>
+                                <TextSelection>1453,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -418,6 +407,17 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
+                <BinderItem ID="154" Type="Text" Created="2015-05-16 21:09:53 -0400" Modified="2015-05-21 15:41:17 -0400">
+                    <Title>procedurality - Ramsay</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1834,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="152" Type="Text" Created="2015-05-16 19:43:01 -0400" Modified="2015-05-16 21:09:36 -0400">
                     <Title>procedural</Title>
                     <MetaData>
@@ -1316,7 +1316,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>364,0</TextSelection>
+                        <TextSelection>3490,56</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="137" Type="Text" Created="2015-04-17 17:07:23 -0400" Modified="2015-04-20 22:12:54 -0400">
@@ -1336,7 +1336,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1216,0</TextSelection>
+                        <TextSelection>6609,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1702,6 +1702,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem ID="155" Type="Text" Created="2015-05-21 17:16:58 -0400" Modified="2015-05-21 17:28:12 -0400">
+                    <Title>fruitfulness</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1743,7 +1754,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-21 16:03:51 -0400" IgnoreDeadline="No">8000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Never" DeterminedFromDeadline="No" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">250</SessionTarget>
-        <PreviousSession Words="629" Characters="3797" Date="2015-05-16 19:37:24 -0400"></PreviousSession>
+        <PreviousSession Words="735" Characters="4504" Date="2015-05-21 15:40:32 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
