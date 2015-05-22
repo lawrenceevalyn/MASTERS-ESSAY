@@ -1501,9 +1501,7 @@
 		</dict>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 824}, {631.20001, 225.59998}}</string>
-	<key>mainDocumentEditor.selectedRanges</key>
-	<string>{3275, 178}</string>
+	<string>{{0, 0}, {631.20001, 209.60001}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
@@ -5850,9 +5848,9 @@
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 299.20001}, {631.20001, 278.39996}}</string>
+	<string>{{0, 288.79999}, {631.20001, 294.20001}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{1904, 0}</string>
+	<string>{543, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
