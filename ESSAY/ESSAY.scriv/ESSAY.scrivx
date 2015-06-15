@@ -334,7 +334,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1262,0</TextSelection>
+                        <TextSelection>0,1262</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="19" Type="Text" Created="2014-05-29 16:28:08 -0700" Modified="2015-04-21 20:50:34 -0700">
@@ -1266,7 +1266,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>161,0</TextSelection>
+                        <TextSelection>4959,484</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="89" Type="Text" Created="2015-04-09 17:36:30 -0700" Modified="2015-04-09 21:56:12 -0700">
@@ -1316,7 +1316,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3490,56</TextSelection>
+                        <TextSelection>4420,349</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="137" Type="Text" Created="2015-04-17 14:07:23 -0700" Modified="2015-04-20 19:12:54 -0700">
@@ -1754,7 +1754,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-21 13:03:51 -0700" IgnoreDeadline="No">8000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Never" DeterminedFromDeadline="No" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">250</SessionTarget>
-        <PreviousSession Words="735" Characters="4502" Date="2015-06-15 01:39:18 -0700"></PreviousSession>
+        <PreviousSession Words="735" Characters="4502" Date="2015-06-15 02:53:59 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

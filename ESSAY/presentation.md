@@ -2,11 +2,13 @@
 
 My interest in the Gothic novel 1790-1830 is focused on the role of non-canonical texts, and how we can make sense of the wider body of novels that formed the context for the trailblazing works which are currently studied. My goal was to extract as much meaning as possible from the metadata available to me, to form the hypotheses that will drive the next phase of my research during my PhD. In particular, I wanted to see if I could find defining characteristics of the Female Gothic or the 'school of Radcliffe.'
 
-Individual texts, Frow argues, “do not ‘belong’ to genres but are, rather, uses of them” (2), framing genre not as a singular stable identifier for a novel but as a set of expectations that an author may strategically fulfill or foil. Rather than reading genre simply to categorize “where a text ‘belongs,’” Frow argues, “we read… for those layers of background knowledges that texts evoke” through their genre relationships, which allow an assessment of “which types of meaning are appropriate and relevant,” and therefore how the text can be made to make sense (101).
+Based on Frow's argument that individual texts “do not ‘belong’ to genres but are, rather, uses of them” (2), 
+I argue that the 'school of Radcliffe', as it would have been identified by 18th century readers, cannot be defined by Radcliffe's works alone. Gothic readers were famously voracious, reading Radcliffe's works immediately alongside large number of now-forgotten Gothics, and it is these non-canonical works which would have defined the shape of the Gothic as a whole as that genre emerged.
+
 
 ## Critical Frameworks
 
-So, my objects of inquiry were actually two bibliographies of the Gothic: Ann Tracy's The Gothic Novel 1790-1830, and Frederick Frank's The First Gothics. For each bibliography, I looked critically at what model of the early Gothic is implied by the information presented, and translated that model to a form that can be visually interpreted.
+Although my inquiry is essentially historicist, my objects of inquiry were actually two bibliographies of the Gothic: Ann Tracy's The Gothic Novel 1790-1830, and Frederick Frank's The First Gothics. For each bibliography, I looked critically at what model of the early Gothic is implied by the information presented, and translated that model to a form that can be visually interpreted.
 
 ## Ann Tracy
 
@@ -29,7 +31,7 @@ a perfectly-opposed Female Gothic.
 For the 178 texts indexed by both authors, Frank provides 131 unique classifications. I broke down each element of these classification into 'tags', which I could then track individually. [“Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements)” > "domestic", "gothic elements"] Whereas Tracy treated her motifs as independent and stable, Frank is not interested in his
 Gothic types in and of themselves.
 
-These are the 45 tags that emerged, and here is the gendered breakdown of the eleven most popular tags. The marginalized nature of our male Gothic is evident in the low numbers of Schauerromantik and Lewis-ian novels -- in fact, there were so few novels marked as either imitations of the Monk or as monastic shockers that I had to reduce my arbitrary cut-off of 10 to 9 simply to be ably to consider Lewis. And again, our sample is dominated by a non-gendered mainstread.
+These are the 45 tags that emerged, and here is the gendered breakdown of the eleven most popular tags. The marginalized nature of our male Gothic is evident in the low numbers of Schauerromantik and Lewis-ian novels -- in fact, there were so few novels marked as either imitations of the Monk or as monastic shockers that I had to reduce my arbitrary cut-off of 10 to 9 simply to be ably to consider Lewis. And again, our sample is dominated by a non-gendered mainstream.
 
 But for the first time we also see a female Gothic, connected to sentimental writing-- which explains why this female tradition was not visible in Tracy's motifs, since sentimental novels are not characterized by flashy imagery.
 
@@ -39,16 +41,11 @@ sentimental, in that order. Approaching from the other direction, 25% of sentime
 also Radcliffean (fig. 99). Gothic types which are likely to include Radcliffean novels are
 sentimental, naturalized or explained, and high Gothic, in that order.
 
-moral sentiment, and its connection to the emotional experience of the reader, was
-the throughline which connected the Gothic deeply to its non-Gothic literary context, and to the
-broader intellectual debates of the end of the Enlightenment.
-
 ## The Sentimental Novel
 
-sentimental novel > novel of sensibility > sensational novel
+If there is a female Gothic, then, it has its roots in sentimental fiction. In turning to the sentimental novel, I return to a version of the history of the Gothic prevalent in the 1950s and 60s, in which the Gothic does not grow out of a German tradition, but out of the French, as part of a process of intensification from the sentimental novel to the novel of sensibility to the sensational and Gothic novels. This body of criticism, exemplified by Ernest Baker and JMS Thompkins, has fallen out of the critical conversation somewhat justifiably for the fundamental realist teleology which defines their approaches. However, we can reject their assumption that the goal of the novel is to become realist, without rejecting their argument that the development from sentiment to Gothic was a matter of intensification, rather than of change in type. 
 
-“The sources of Gothic romance… are to be sought in the popular variant of the fiction of sensibility evolved by the Abbé Prévost and elaborated later on by Baculard d’Arnaud. The exciting adventures, the violent emotions, the gloomy scenes, forests, and antres, castles, dungeons, and graveyards, in the abbé’s novels and the plays and stories of Baculard, were to be the distinctive features of Gothic romance throughout its course. It was all a derivative of the cult of emotion.” (Baker 175)
-“Some novelists sought only to conjure up a witching atmosphere of awe and vague apprehension; others employed the most violent shocks of physical anguish and fear. They all dabbled in the supernatural, either playing upon or playing with feelings of superstition; and, later on, those who had become acquainted with German folk-lore and its ghosts and elves and goblins found their account in satiating the greediest appetites for crime, diabolism, and nameless horrors.” (Baker 176)
+This allows a new way of understanding the genre itself, in which moral sentiment, and its connection to the emotional experience of the reader, was the throughline which connected the Gothic deeply to its non-Gothic literary context, and to the broader intellectual debates of the end of the Enlightenment.
 
 ## Conclusion
 
