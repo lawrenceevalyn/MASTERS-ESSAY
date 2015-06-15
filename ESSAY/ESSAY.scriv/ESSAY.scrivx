@@ -1256,10 +1256,10 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>253,0</TextSelection>
+                        <TextSelection>346,235</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="98" Type="Text" Created="2015-04-12 18:49:23 -0700" Modified="2015-04-12 20:01:50 -0700">
+                <BinderItem ID="98" Type="Text" Created="2015-04-12 18:49:23 -0700" Modified="2015-06-15 01:44:49 -0700">
                     <Title>Baker</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1754,7 +1754,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2015-04-21 13:03:51 -0700" IgnoreDeadline="No">8000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Never" DeterminedFromDeadline="No" WritingDays="1-7" CanWriteOnDeadlineDate="Yes">250</SessionTarget>
-        <PreviousSession Words="735" Characters="4502" Date="2015-06-14 16:04:33 -0700"></PreviousSession>
+        <PreviousSession Words="735" Characters="4502" Date="2015-06-15 01:39:18 -0700"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
