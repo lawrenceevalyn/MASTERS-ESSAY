@@ -1,4 +1,20 @@
-﻿<!-- Setting up a beeminder goal to stay on track with this actual word count. ELEVEN DAYS. yeesh. But I can do it!!!!!!! !! -->
+﻿## 11 April 2017
+
+Reviving this repo in preparation for PUBLICATION! Gonna turn this into an article! :D And PUBLISH it!! :D :D
+
+Key note from Jentery to keep in mind:
+"I wonder when the essay might be more persuasive as an argument through or with your graphs, as opposed to a reflective sort of process documentation. That is, perhaps fewer arguments about how this became that, and more treatments of your graphs as evidence? I imagine the latter would better situate your writing in, say, a scholarly journal context."
+
+Also:
+"I wonder if the legends in your graphics should better account for the spectrum (right word?) of colors expressed in the bar graphs. Thoughts? With [yellow] female author and [blue] male author at the top, will audiences be able to interpret the colors in between? I’m keen on the move you’re making; I just wonder whether it’s always legible to readers, especially when/if the graphs stand alone."
+
+I was planning to cut some of the statistics on that tiny tiny pool of Radcliffean novels, but Jentery says "Like" to the following sentence: "If you know a book is Radcliffean, you know it is probably high Gothic, terror mode, and sentimental, in that order."
+
+-- But really, I want to be much more conscious generally of the fact that it's likely to be **assessed** as those things by critics.
+
+(Those kinds of conclusions would really need all 500 of Frank's gothic types to be involved, to be useful........)
+
+<!-- Setting up a beeminder goal to stay on track with this actual word count. ELEVEN DAYS. yeesh. But I can do it!!!!!!! !! -->
 
 <!-- I'll get back to this.... in time....... -->
 
@@ -58,7 +74,7 @@ A lot of my earlier hypotheses about going back to the domestic roots of the Got
 
 With help from Charles, I figured out how to correlate my motifs with the new genre-tags! Now I can mess around with correlating each motif with different genre-tags and seeing what happens.
 
-I think any genre-tag that has fewer than five books attached it one I can ignore at this stage -- as I index the rest of Frank, they may become relevant and gain more books, but for now they're just clutter. I'm finding horror/terror and Radcliffe/Monk&monastic-shocker to be useful dichotomies (though I'm a little uncomfortable using *percentage* bar graphs, even though they're so much clearer) but I need to figure out what I'm doing with high gothic/ domestic/ sentimental/ history/ etc. Maybe lump domestic & sentimental together again? There are *so many* high gothic texts.
+I think any genre-tag that has fewer than five books attached to it is one I can ignore at this stage -- as I index the rest of Frank, they may become relevant and gain more books, but for now they're just clutter. I'm finding horror/terror and Radcliffe/Monk&monastic-shocker to be useful dichotomies (though I'm a little uncomfortable using *percentage* bar graphs, even though they're so much clearer) but I need to figure out what I'm doing with high gothic/ domestic/ sentimental/ history/ etc. Maybe lump domestic & sentimental together again? There are *so many* high gothic texts.
 
 <!-- I really wish I was farther along-- it's well past the time when I should be *writing*, but I fundamentally believe that my previous genre-type experiment was methodologically flawed, and my motif-only work is uselessly incomplete. I just have to get more of my other responsibilities off my back and let Hard Work do its best! 
 
@@ -129,7 +145,7 @@ Richard Cronen - Paper Pellets : journalists duel over reviews
 
 My actual research feels like a way to find answers, but it's really a way to find useful questions
 
-More orphans in domestic/sentimental; name number of noble peasant & orphan in High Gothic: suggests that basic trope of High Gothic is the foundling (about the question of legitimacy, noble blood), but domestic/sentimental detaches the orphan from this plot * (who has the first noble peasant? - Walpole, from Shakespeare)
+More orphans in domestic/sentimental; same number of noble peasant & orphan in High Gothic: suggests that basic trope of High Gothic is the foundling (about the question of legitimacy, noble blood), but domestic/sentimental detaches the orphan from this plot * (who has the first noble peasant? - Walpole, from Shakespeare)
 
 Is there non-familial murder? Did she not index it because it wasn't turning up?
 
@@ -141,6 +157,8 @@ Goal for next meeting: start drafting the argument
 ## 22 November 2014
 
 Condensed all High Gothic types to High Gothic; condensed Domestic and Sentimental to Domestic/Sentimental; for Natural Horror, identified with next most appropriate category; for others, condensed to Other Gothic; deleted types for ANECDOTES OF TWO WELL-KNOWN FAMILIES (Parody), THE MARCHIONESS!!! OR, "THE MATURED ENCHANTRESS" (Parody) and THE ADVENTURES OF FERDINAND COUNT FATHOM (Picaresque) for being non-Gothic.
+
+####**NOTE FROM THE FUTURE (April 11 2017): PARODY IS OBVIOUSLY AN IMPORTANT PART OF THE GOTHIC**, cf exhuming the trade of Gothic publishing
 
 Condensed Political/Philosophical into Other Gothic because there were only 5.
 
@@ -207,7 +225,7 @@ It's important to stick to testing specific hypothesis... with the summaries, my
 
 ## 15 September 2014
 
-Updated to-do list in preparation for meeting with Dr Miles. Current plan: no topic modeling, because there just doesn't seem to be any reason for it. Instead, a variety of frquency-based analyses, looking for evidence of gendered difference, first in plot summaries and then in *Udolpho* vs. *Monk*.
+Updated to-do list in preparation for meeting with Dr Miles. Current plan: no topic modeling, because there just doesn't seem to be any reason for it. Instead, a variety of frequency-based analyses, looking for evidence of gendered difference, first in plot summaries and then in *Udolpho* vs. *Monk*.
 
 ## 1 September 2014
 

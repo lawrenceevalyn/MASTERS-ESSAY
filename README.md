@@ -2,12 +2,16 @@
 
 ## WRITE
 
-<!--- next steps for later?
+* write an abstract
+* send queries to two journals (ask about figures)
+* figure out how to do figures & citations the LaTeX way in Scrivener
+* retype essay into new Scrivener doc
 
-## Index all 500 of Frank's Gothic Types?
+## REASEARCH
 
-## Note chapters, pagination, and epigraphs in spreadsheet
+(Try to resist the impulse!!)
 
-## Make charts for horror/terror, Radcliffe/monastic, and high/sentimental/domestic/history/chapbook? -- teach Ennis?
-
---->
+* Open old spreadsheet in Tableau
+    * recreate a pie chart
+    * try to correlate Frank & Tracy
+* Index all 500 of Frank's Gothic Types??

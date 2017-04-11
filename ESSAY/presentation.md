@@ -31,7 +31,7 @@ a perfectly-opposed Female Gothic.
 For the 178 texts indexed by both authors, Frank provides 131 unique classifications. I broke down each element of these classification into 'tags', which I could then track individually. [“Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements)” > "domestic", "gothic elements"] Whereas Tracy treated her motifs as independent and stable, Frank is not interested in his
 Gothic types in and of themselves.
 
-These are the 45 tags that emerged, and here is the gendered breakdown of the eleven most popular tags. The marginalized nature of our male Gothic is evident in the low numbers of Schauerromantik and Lewis-ian novels -- in fact, there were so few novels marked as either imitations of the Monk or as monastic shockers that I had to reduce my arbitrary cut-off of 10 to 9 simply to be ably to consider Lewis. And again, our sample is dominated by a non-gendered mainstream.
+These are the 45 tags that emerged, and here is the gendered breakdown of the eleven most popular tags. The marginalized nature of our male Gothic is evident in the low numbers of Schauerromantik and Lewis-ian novels -- in fact, there were so few novels marked as either imitations of the Monk or as monastic shockers that I had to reduce my arbitrary cut-off of 10 to 9 simply to be able to consider Lewis. And again, our sample is dominated by a non-gendered mainstream.
 
 But for the first time we also see a female Gothic, connected to sentimental writing-- which explains why this female tradition was not visible in Tracy's motifs, since sentimental novels are not characterized by flashy imagery.
 
