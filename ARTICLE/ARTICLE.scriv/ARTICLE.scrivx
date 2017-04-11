@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-11 19:33:10 -0400" ModID="1941CBB1-4B53-4EB0-BF96-050DE7DCAF22">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-11 19:47:07 -0400" ModID="122E2F0D-0298-41F5-8DD8-7C8478EB366F">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -7,15 +7,15 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="13" UUID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:20:16 -0400">
+                <BinderItem ID="13" UUID="3459DF35-B75F-43AE-A0F6-8017AC3FF1DA" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:46:36 -0400">
                     <Title>Abstract</Title>
                     <MetaData>
-                        <LabelID>1</LabelID>
+                        <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>362,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="28" UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:20:25 -0400">
@@ -173,14 +173,14 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="9" UUID="33B4B91A-323E-41EA-86B2-7DA0B72D97B3" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
-                            <Title>Thought</Title>
+                        <BinderItem ID="9" UUID="33B4B91A-323E-41EA-86B2-7DA0B72D97B3" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:42:25 -0400">
+                            <Title>Abstract outline</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>952,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -234,8 +234,8 @@
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-04-16 02:21:51 -0400" IgnoreDeadline="No">7250</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">1450</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-04-11 19:14:01 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="1-7" CanWriteOnDeadlineDate="No">250</SessionTarget>
+        <PreviousSession Words="94" Characters="616" Date="2017-04-11 19:14:01 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
