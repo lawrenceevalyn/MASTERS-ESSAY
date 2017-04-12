@@ -2,8 +2,6 @@
 
 ## WRITE
 
-* write an abstract
-* send queries to two journals (ask about figures)
 * figure out how to do figures & citations the LaTeX way in Scrivener
 * retype essay into new Scrivener doc
 
