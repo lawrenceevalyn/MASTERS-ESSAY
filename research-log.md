@@ -12,6 +12,7 @@ For reference --
 
 ![pie chart of confinement (any)](https://github.com/lawrenceevalyn/MASTERS-ESSAY/blob/master/CHARTS/tableau/confinement-any-pie.png?raw=true)
 
+Remaking the charts in Numbers works OK-- I can open my old Excel spreadsheet and copy-paste to at least have the information-- but it's fiddly enough that I'll definitely only want to do it for charts that I'm sure will be in the final essay. So I'll work with the ones from my MA appendices for now, and remake all the necessary charts after I've retyped the draft.
 
 
 ## 11 April 2017
