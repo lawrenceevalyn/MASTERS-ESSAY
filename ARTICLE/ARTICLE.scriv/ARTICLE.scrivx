@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-12 00:29:37 -0400" ModID="C992AD9E-F700-4E99-AF57-4F67D00C6107">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-14 19:08:31 -0400" ModID="A43B6271-3E79-4BE0-9945-47A39BF682AA">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -15,7 +15,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1102,0</TextSelection>
+                        <TextSelection>656,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="28" UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 20:05:43 -0400">
@@ -56,7 +56,7 @@
                         <IconFileName>Book (Blue Book).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>171,0</TextSelection>
+                        <TextSelection>276,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="40" UUID="E01826F4-E58E-4DDD-A4A6-44FD401B7F3B" Type="Text" Created="2017-04-11 23:43:38 -0400" Modified="2017-04-11 23:44:36 -0400">
@@ -68,6 +68,18 @@
                     <TextSettings>
                         <TextSelection>1736,79</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="41" UUID="5E676867-80AA-42F9-8E19-1C15414A98DF" Type="Text" Created="2017-04-12 19:57:22 -0400" Modified="2017-04-12 19:57:31 -0400">
+                            <Title>email reply</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>803,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="29" UUID="24773813-FAD2-46D8-9F7B-501D53995BC5" Type="Text" Created="2017-04-11 19:27:52 -0400" Modified="2017-04-11 19:27:58 -0400">
                     <Title>Secondary Criticism</Title>
@@ -190,7 +202,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>952,0</TextSelection>
+                                <TextSelection>921,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="39" UUID="47381554-960D-4939-8142-266E802F0619" Type="Text" Created="2017-04-11 20:05:27 -0400" Modified="2017-04-11 20:05:43 -0400">
@@ -254,8 +266,8 @@
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-04-16 02:21:51 -0400" IgnoreDeadline="No">7500</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">1850</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2017-04-12 00:00:20 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="Yes" WritingDays="1-7" CanWriteOnDeadlineDate="No">3750</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-14 19:08:14 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

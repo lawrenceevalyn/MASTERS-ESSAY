@@ -1,4 +1,20 @@
-﻿## 11 April 2017
+﻿## 14 April 2017
+
+Definitely determined that Tableau is NOT going to be he fastest way to remake my charts in grayscale for publication, or indeed the best way to make and compare 96 charts of any kind. It REALLY feels like Tableau ought to be able to make a whole bunch of little pie charts all next to each other in one chart, or at least a whole bunch of little bar graphs, but it wants to correlate everything on one sheet with everything else on that sheet, and it doesn't have a good way to implement a consistent scale reference for everything on one dashboard. So, I'll use Excel or Numbers to remake just the charts I want to use in my article, and turn to Tableau another time to try to make large-scale very dense charts (which seem to be its best use).
+
+Most importantly, there was no good way to vary the colour based on the percentage without doing a LOT more work, since the percentage needed to be calculated and weighted for each individual chart. Much simpler to just start with a pie chart that already has the right percentages and recolour.
+
+For reference --
+
+![stacked bar chart of death](https://github.com/lawrenceevalyn/MASTERS-ESSAY/blob/master/CHARTS/tableau/death-stacked-bars.png?raw=true)
+
+![compared bar chart of good and bad abbesses](https://github.com/lawrenceevalyn/MASTERS-ESSAY/blob/master/CHARTS/tableau/abbesses-good-bad-bars-comparison.png?raw=true)
+
+![pie chart of confinement (any)](https://github.com/lawrenceevalyn/MASTERS-ESSAY/blob/master/CHARTS/tableau/confinement-any-pie.png?raw=true)
+
+
+
+## 11 April 2017
 
 Reviving this repo in preparation for PUBLICATION! Gonna turn this into an article! :D And PUBLISH it!! :D :D
 
