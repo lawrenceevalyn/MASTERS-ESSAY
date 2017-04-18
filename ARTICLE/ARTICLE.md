@@ -21,13 +21,17 @@ Over the course of two literary experiments, in which I model the early Gothic n
 
 My [work] to contextualize Radcliffe among hundreds of noncanonical novels is in keeping with the voracious habits of her readers. Although Radcliffe was, by the time she published The Mysteries of Udolpho, widely recognized as a master of her craft, she was not canonized separately from other Gothic writers either on the shelves of he circulating libraries or in the minds of book reviewers. [She was producing better Gothics, not a different kind of book entirely — quote someone; maybe Gamer? (Romantics later declare themselves a different kind of thing)] Her readers’ voraciousness is particularly important to our understanding of her works in light of Frow’s articulation of genre as, not a stable set of categories, but an ongoing conversation. Individual texts, Frow argues, “do not ‘belong’ to genres, but are, rather, uses of them”[^cf4]. [Genre is not a stable identifier but a set of expectations which an author may strategically fulfill or foil.] [Accordingly, Radcliffe’s works cannot be identified as Gothic — or as Female Gothic — in isolation.] 
 
-# my approach to experimentation #
+# I'm modelling here #
 
-My approach to literary experimentation is shaped by Willard McCarty’s framework of the strengths and limits of “modeling”, with influence from Lisa Samuels and Jerome McGann’s discussion of “deformance”, to allow for models which are sensitive to certain distinctions but not to others. McCarty points to modeling as “a practical means of playing out the consequences of an idea in the real world”[^cf5]. My spreadsheets and graphs of early Gothic novels thus constitute models [seeking to capture the genre as it was experienced by its popular readership]. 
+[Although I will use a number of graphs to make my argument, I’m not doing “data visualization”, I’m modelling.] [Johanna Drucker has given compelling warnings about the dangers of treating constructed information as empirically objective “data” which may then be passively “visualized”.][^cf5] [Willard McCarty’s discussion of models as both “pragmatic” and “fictive” is more accurate to the [scholarly] process of gathering, classifying, correlating, and [narrativizing/imagining] information.][^cf6] [Whether a model is a reading or a bar chart, the worth of that model must be judged by its “fruitfulness”][^cf7], a term for which Stephen Ramsay provides a useful definition:  “the robustness of the discussion that a particular procedure annunciates”[^cf8]. In other words, whether or not the model has revealed something we expected to see, it has revealed something with which we must now engage. Exact corerspondence is thus less of a “fundamental principle”[^cf9], and more of an imagined destination which spurs valuable journeys. [This allows us to cope with the fact that] as a model is constructed, it becomes sensitive to some areas of difference while eliding others. No model needs to be accurate in all points, so long as it is sensitive to the desired area of differences.
 
-# reasonable to think authoresses are different #
+# not all models are computational #
 
-[As the name implies, the social role of the “authoress” was distinct from that of the “author”.] [Radcliffe, and many of her female peers, published as “Mrs Radcliffe” rather than using a first name, highlighting her gender of the title page.] [And of course, everybody else thought the genre was by and for women as well.]
+[Not all models/experiments are computational]. Lisa Samuels and Jerome McGann’s work on “deformance” highlights [[the intervention of interpretation?] that underlies all critical analysis.] [From X to “elaborate scholarly editions” and translations of texts, which write their critical interpretations into the texts themselves, Samuels and McGann argue, criticism is always deformative.][^cf10] Here Samuels and McGann find perhaps unexpected support in the meticulous historical research of Leah Price, whose monograph The Anthology and the Rise of the Novel argues that any edited text — ‘elaborate’ or not — produces, not a flawed or distorted copy of the original, but a new text.[^cf11]
+
+# also need sensitive interpreters #
+
+[These non-computational models are important to remind us that it is not just the model which must be sensitive, but its interpreter.] Samuels and McGann ([[take this fact] as permission to]/[simply extend the accepted procedures of scholarly editions and translations, which write their critical interpretations into texts, when they]) radically rewrite the works they study — putting the lines of poems in reverse order, or deleting everything but the nouns — in quest of a fruitful defamiliarization of the object of study. Their procedure “reinstalls the text — any text, prose or verse — as a performative event, a made thing”[^cf12] by rendering the mechanics of its creation salient. This act of defamiliarization allows us to “imagine things about the text that we did not and perhaps could not otherwise know”[^cf13], because we have been re-sensitized to new details of the work.
 
 [^cf1]: CITE Juliann Fleenor, The Female Gothic, 7
 
@@ -37,4 +41,20 @@ My approach to literary experimentation is shaped by Willard McCarty’s framewo
 
 [^cf4]: CITE Frow p 2
 
-[^cf5]: cite McCarty
+[^cf5]: cite Drucker
+
+[^cf6]: cite McCarty
+
+[^cf7]: cite McCarty
+
+[^cf8]: cite Ramsay
+
+[^cf9]: cite McCarty
+
+[^cf10]: cite Samuels and McGann 33
+
+[^cf11]: cite Leah Price
+
+[^cf12]: cite samuels and mcgann 30
+
+[^cf13]: cite samuels mcgann 36
