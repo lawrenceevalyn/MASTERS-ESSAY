@@ -3,28 +3,10 @@
     <Documents>
         <Document ID="4">
             <Title>MA Essay</Title>
-            <Text> In contrast to the wild abundance of male tropes, in my model of the genre, the ‘Female Gothic’ is defined by only four things: libertines (fig. 1), forced weddings (fig. 2), sad or pious 
-# ￼
-Figure 33: gendered authorship of books containing literary flirtation with incest, which includes false alarms, foiled attempts, threats, and unconsummated incestuous passion. 
-￼ ￼
-Lawrence Evalyn 12 
-Figure 94: gendered authorship of books containing actual incest. 
-deaths (fig. 3), and miniature portraits (fig. 4).5 The libertines and miniature portraits in particular, as the most common female motifs, immediately suggest a new Female Gothic more like the novels of Jane Austen, whose ordered and rational novels are nonetheless replete with rakes and miniatures. 
-However, the paucity of female motifs also suggests that this immediate response may be too hasty: the Female Gothic is outnumbered not just by the Male Gothic but also by the Everybody Gothic. More than half of the 94 motifs are not strongly gendered. Four — elopement (all subcategories) (fig. 21); dueling and other single combat books containing male characters who 
-￼ ￼
-(fig. 22); fainting, female (fig. 23); and rediscovery of lost relatives (fig. 24) — are even perfect ties. Moreover, the more popular a motif is— i.e., the larger a role it plays in making up the genre— the more likely it is to be non-gendered. In terms of sheer prevalence, the defining features of the Gothic as a genre appear to be fainting (fig. 26), confinement (fig. 38), abduction (fig. 30), storms (fig. 43), and references to suicide (fig. 62). Only one of those five charts (suicide, which is 61% male-authored) shows a gendered divide. 
-These results serve as a useful reminder that not all contrasts are necessarily perfect binaries. Indeed, all of the strongly male-dominated motifs are much less common than the more neutral motifs. This model suggests that, rather than a balanced opposition of Radcliffe’s female terror Gothic vs Lewis’s male horror Gothic, the genre as a popular movement was defined by a 
-
-5 Even the Radcliffean plot elements of subterranean passages (fig. 61), caves (fig. 59), and secret doors (fig. 71) turn out to be firmly correlated with male authors, not female. Moreover, if Radcliffe herself is temporarily excluded, and the gendered usage of those three motifs is evaluated based on the 101 other women in my sample, all three become more than two-thirds male-authored (figs. 71, 76, and 87). 
-Figure 1: gendered authorship of habitually seduce women. 
-￼
-Lawrence Evalyn 13 
-less-sensationalist (possibly Radcliffean, possibly terror-mode) non-gendered Gothic mainstream, with a subset of male horror Gothic writers making up a minor tradition within it. The existence of a Male Gothic tradition does not require that everything outside that tradition be a perfectly-opposed Female Gothic. 
-Figure 90: gendered authorship of Figure 26: gendered authorship of books containing putrefaction. books containing fainting (female or 
-male). 
+            <Text>This model suggests that, rather than a balanced opposition of Radcliffe’s female terror Gothic vs Lewis’s male horror Gothic, the genre as a popular movement was defined by a less-sensationalist (possibly Radcliffean, possibly terror-mode) non-gendered Gothic mainstream, with a subset of male horror Gothic writers making up a minor tradition within it. The existence of a Male Gothic tradition does not require that everything outside that tradition be a perfectly-opposed Female Gothic. 
 Frederick Frank’s Gothic Types 
 In order to better define that Gothic mainstream, I turned to a second bibliography, which classified novels by their ‘Gothic type’; here, too, the unbalanced nature of our attempted binary becomes obvious. Frank’s “types” are, like Tracy’s “motifs,” clearly intended for a different sort of scholarly use than my own quantification: for the 178 texts indexed by both authors, Frank provides 131 unique classifications. Many of these are “unique” primarily from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, are distinguished only by a slight gradation of degree. Whereas Tracy treated her motifs as independent and stable, Frank is not interested in his Gothic types in and of themselves. Similarly, his “Critical Synopsis” of each text is not interested in recapitulating the details of the novels’ events. Instead, each synopsis describes the origins of 
-￼ ￼ ￼ ￼
+# ￼ ￼ ￼
 Lawrence Evalyn 14 
 any literary borrowings, briefly discusses the plot in terms of its structural tropes, and places the work’s attitude into a broader context. [Immediately we see that Frow is right, that it is impossible to simply classify each text into the genre to which it ‘belongs’; instead, Frank attempts to describe the many things which each book uses, and how.]
 The two bibliographies’ treatments of Grenville Fletcher’s Rosalviva, Or, The Demon Dwarf, for example, serves as a useful illustration of their differences. Tracy’s summary is a litany of events: it begins matter-of-factly with the sentence “Leontini loves Viola di Morini, but she marries someone else,” and is equally unfazed when the titular dwarf arrives in the third act and when the dwarven appearance turns out to be false (51). Frank, in contrast, spends more than half his words on context, as in his first sentence: 
@@ -381,6 +363,10 @@ Algorithmic criticism undoubtedly requires a revolution of sorts, but that revol
             <Comments>cite Samuels and McGann 33
 cite Leah Price</Comments>
         </Document>
+        <Document ID="56">
+            <Title>Female Gothic</Title>
+            <Text>In contrast to this abundance of male-dominated tropes, female-authored tropes are elusive. The Radcliffean plot elements of subterranean passages (61% male), caves (61% male), and secret doors (59% male) turn out to be firmly correlated with male authors, not female. [Radcliffe’s six novels account for X of the secret doors written by women, X of the caves, and X of the subterranean passages] [So these certainly are Radcliffean elements, just not Female Gothic in terms of the other authors who are using them.] Instead, in this model of the genre, the Female Gothic seems to be defined by only four things: libertines (64% female), forced weddings (62% female), sad or pious deaths (61% female), and miniature portraits (61% female). The libertines and miniature portraits in particular, as the most common female motifs, immediately suggest a new Female Gothic that is in striking conversation with novels like Jane Austen’s, [whose] ordered and rational novels are nonetheless repelete with rakes and miniatures. However, [four is a small number, and unlike the wide-ranging male motifs which were well over the 60% line, it would only take a very few writers — or one domestic Ann Radcliffe — to produce these results]. The paucity of female motifs suggests that [seeing/defining a genre here] may be too hasty: this Female Gothic is outnumbered not just by the Male Gothic but also by the [Shared??] Gothic.</Text>
+        </Document>
         <Document ID="39">
             <Title>mention German origin early</Title>
             <Text>[It’s commonplace to define the Gothic’s origin in German ghost stories — CITE SEVERAL EXAMPLES. Accordingly, it makes sense to begin an investigation of the Gothic by looking at its machinery: the skeletons and skulls, mysterious voices and prophetic dreams.]</Text>
@@ -391,10 +377,18 @@ cite Leah Price</Comments>
             <Comments>cite samuels and mcgann 30
 cite samuels mcgann 36</Comments>
         </Document>
+        <Document ID="57">
+            <Title>[Shared?] Gothic</Title>
+            <Text>More than half of the motifs under consideration are not strongly gendered in either direction. Four — elopement (all subcategories); dueling and other single combat; fainting, female; and rediscovery of lost relatives — are even perfect ties. Moreover, the more popular a motif is — that is, the larger a role it plays in constituting the default expectations of the genre — the more likely it is to be non-gendered. Indeed, all of the strongly male-dominated motifs are much less common than the more neutral motifs. [This is basically mathematically inevitable, and points to the impossibility of a genre being one genre with two non-overlapping schools.] In terms of sheer prevalence, the defining features of the Gothis appear to be fainting, confinement, abduction, storms, and references to suicide. [Include percentage of total novels per motif.] Only one of those five motifs, suicide (61% male), shows a gendered divide.</Text>
+        </Document>
         <Document ID="49">
             <Title>Frank and Tracy are models</Title>
             <Text>My two ‘texts’ — bibliographies by Ann Tracy and Frederick Frank — are thus themselves deformative models of “The Gothic Novel.” Because, as Price observes, the process of editing a text must always reveal the editor’s “unspoken assumptions about the most efficient way to convey information, and indeed what counts as information at all,” [the editorial processes behind each bibliography make] each model sensitive to very different concerns. Ann Tracy’s The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs emphazises dramatic events and singular images, with recurring details systematically tallied in the index. In contrast, Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel emphasizes each work’s overall tone and provides qualitative and subtle evaluations of its critical reception. [Although only X of Tracy’s Y novels also appear among Frank’s 500 entries, the two usefully complement [/shed light on] each other.] The procedure of graphing each bibliography amplifies each bibliographer’s choices, allowing me to see whether their distinctions are fruitful, and whether their models point toward distinct Male Gothic and Female Gothic modes.</Text>
             <Comments>cite Price 13</Comments>
+        </Document>
+        <Document ID="58">
+            <Title>no binaries</Title>
+            <Text>This motif-based model of the early Gothic suggests that, rather than a balanced oppositions of Radcliffe’s female terror Gothic versus Lewis’s male horror Gothic, the genre as a popular movement was defined by a less-sensationalist (possibly Radcliffean, possibly terror-mode) non-genered Gothic mainstread, with a subset of male horror Gothic writers making up a minor tradition within it, [and perhaps the slightests general tendency for women to write more domestic novel]. These results serve as a useful reminder that not all contrasts are perfect binaries; the existence of a Male Gothic tradition does not require that everything outside that tradition be a perfectly-opposed Female Gothic.</Text>
         </Document>
     </Documents>
 </SearchIndexes>
