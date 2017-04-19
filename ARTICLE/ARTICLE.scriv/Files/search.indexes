@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="39">
-            <Title>mention German origin early</Title>
-            <Text>[It’s commonplace to define the Gothic’s origin in German ghost stories — CITE SEVERAL EXAMPLES. Accordingly, it makes sense to begin an investigation of the Gothic by looking at its machinery: the skeletons and skulls, mysterious voices and prophetic dreams.]</Text>
+        <Document ID="53">
+            <Title>my model of Tracy</Title>
+            <Text>I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs indicate a Male Gothic defined by largely the things we would expect men to dominate.</Text>
+            <Comments>Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts. 
+I interpret a motif to be “distinctly male” if 60% or more of its authors are male.</Comments>
         </Document>
         <Document ID="61">
             <Title>Frank values context</Title>
@@ -60,12 +62,6 @@ cite McIntyre - what page? 94??</Comments>
             <Text>My two ‘texts’ — bibliographies by Ann Tracy and Frederick Frank — are thus themselves deformative models of “The Gothic Novel.” Because, as Price observes, the process of editing a text must always reveal the editor’s “unspoken assumptions about the most efficient way to convey information, and indeed what counts as information at all,” [the editorial processes behind each bibliography make] each model sensitive to very different concerns. Ann Tracy’s The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs emphazises dramatic events and singular images, with recurring details systematically tallied in the index. In contrast, Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel emphasizes each work’s overall tone and provides qualitative and subtle evaluations of its critical reception. [Although only 178 of Tracy’s 208 novels also appear among Frank’s 500 entries, the two usefully complement [/shed light on] each other.] The procedure of graphing each bibliography amplifies each bibliographer’s choices, allowing me to see whether their distinctions are fruitful, and whether their models point toward distinct Male Gothic and Female Gothic modes.</Text>
             <Comments>cite Price 13</Comments>
         </Document>
-        <Document ID="64">
-            <Title>Gothic heritage in sentimental fiction</Title>
-            <Text>Tristram Shandy - the ghost, Le Fevre
-Man of Feeling - fragmentary narrative, frame narratives
-Vicar of Wakefield - sudden plot twists, secret identity revealed</Text>
-        </Document>
         <Document ID="71">
             <Title>Baker: sentimental -&gt; Gothic</Title>
             <Text>I thus return to an older school of criticism, which saw French sentimental novels — rather than German horror stories — as the forbears of the Gothic. Ernest Baker, for example, [tells this kind of history in his YEAR work TITLE:
@@ -77,13 +73,15 @@ The Gothic is well-established before the first hints of “German folk-lore”,
 cite Baker 175
 cite Baket 176</Comments>
         </Document>
+        <Document ID="64">
+            <Title>Gothic heritage in sentimental fiction</Title>
+            <Text>Tristram Shandy - the ghost, Le Fevre
+Man of Feeling - fragmentary narrative, frame narratives
+Vicar of Wakefield - sudden plot twists, secret identity revealed</Text>
+        </Document>
         <Document ID="57">
             <Title>[Shared?] Gothic</Title>
             <Text>More than half of the motifs under consideration are not strongly gendered in either direction. Four — elopement (all subcategories); dueling and other single combat; fainting, female; and rediscovery of lost relatives — are even perfect ties. Moreover, the more popular a motif is — that is, the larger a role it plays in constituting the default expectations of the genre — the more likely it is to be non-gendered. Indeed, all of the strongly male-dominated motifs are much less common than the more neutral motifs. [This is basically mathematically inevitable, and points to the impossibility of a genre being one genre with two non-overlapping schools.] In terms of sheer prevalence, the defining features of the Gothic appear to be fainting, confinement, abduction, storms, and references to suicide. [Include percentage of total novels per motif.] Only one of those five motifs, suicide (61% male), shows a gendered divide.</Text>
-        </Document>
-        <Document ID="65">
-            <Title>footnote for Frank bar charts?</Title>
-            <Text>My graphic design choices, as I sought to render each chart legible in terms of this driving question, followed similar principles as my motif chart designs, particularly the use of colour contrast to indicate gendered difference. Because each chart was specialized to a particular sub-question, each chart has its own slightly different procedure, designed in accordance with the questions that the chart is meant to answer. Across all the charts based on Frank’s information, stacked bar graphs let me compare varying numbers of elements. Showing the raw counts, rather than scaled percentages, allows the size of each bar to convey the relative prevalence of each tag. Although the limitations of Microsoft Excel meant that I had to eyeball the sizes, the width of one book in a bar graph is consistent across all the graphs, allowing them to be accurately compared to each other. </Text>
         </Document>
         <Document ID="72">
             <Title>the teleological model</Title>
@@ -91,9 +89,16 @@ cite Baket 176</Comments>
             <Comments>cite Baker 95
 cite Tompkins</Comments>
         </Document>
+        <Document ID="65">
+            <Title>footnote for Frank bar charts?</Title>
+            <Text>My graphic design choices, as I sought to render each chart legible in terms of this driving question, followed similar principles as my motif chart designs, particularly the use of colour contrast to indicate gendered difference. Because each chart was specialized to a particular sub-question, each chart has its own slightly different procedure, designed in accordance with the questions that the chart is meant to answer. Across all the charts based on Frank’s information, stacked bar graphs let me compare varying numbers of elements. Showing the raw counts, rather than scaled percentages, allows the size of each bar to convey the relative prevalence of each tag. Although the limitations of Microsoft Excel meant that I had to eyeball the sizes, the width of one book in a bar graph is consistent across all the graphs, allowing them to be accurately compared to each other. </Text>
+        </Document>
         <Document ID="58">
             <Title>no binaries</Title>
             <Text>This motif-based model of the early Gothic suggests that, rather than a balanced oppositions of Radcliffe’s female terror Gothic versus Lewis’s male horror Gothic, the genre as a popular movement was defined by a less-sensationalist (possibly Radcliffean, possibly terror-mode) non-genered Gothic mainstread, with a subset of male horror Gothic writers making up a minor tradition within it, [and perhaps the slightests general tendency for women to write more domestic novel]. These results serve as a useful reminder that not all contrasts are perfect binaries; the existence of a Male Gothic tradition does not require that everything outside that tradition be a perfectly-opposed Female Gothic.</Text>
+        </Document>
+        <Document ID="80">
+            <Title>but this sentimental history is no longer Female</Title>
         </Document>
         <Document ID="73">
             <Title>Kiely and whoeever else is foundational Gothicist, re: sentiment?</Title>
@@ -105,8 +110,12 @@ cite Tompkins</Comments>
         <Document ID="59">
             <Title>Frederick Frank</Title>
         </Document>
-        <Document ID="80">
-            <Title>but this sentimental history is no longer Female</Title>
+        <Document ID="81">
+            <Title>key findings up front</Title>
+            <Text>My findings:
+- No male/female binary
+- No horror/terror binary
+- Sentimental geneaology, not German ghost stories</Text>
         </Document>
         <Document ID="74">
             <Title>reject teleology, keep emotion</Title>
@@ -118,13 +127,6 @@ cite Tompkins 57</Comments>
             <Title>Female Gothic</Title>
             <Text>However, Frank’s model does point toward a [female] gendered tradition in Radcliffean and sentimental novels. Frank identifies twelve novels as explicit imitations of Radcliffe; the “Radcliffe” tag includes those twelve, and Radcliffe’s own six novels — and all eighteen are by women. Nearly as strongly predictive of female authorship is the “sentimental” tag (92% female). [Tracy’s model was not sensitive to these features because they are not defined by individual plot devices.] [By looking at which Gothic types go together, a Female Gothic emerges.] Approaching from one direction, half of the Radcliffean novels are also high Gothic. If you know a book is Radcliffean, you know it is probably high Gothic, terror mode, and sentimental, in that order. Approaching from the other direction, a quarter of sentimental novels are also Radcliffean. If you know a book is sentimental, you know it is probably [????]. The Gothic types which are likely to include Radcliffean novels are sentimental, naturalized or explained, and high Gothic, in that order.</Text>
         </Document>
-        <Document ID="81">
-            <Title>key findings up front</Title>
-            <Text>My findings:
-- No male/female binary
-- No horror/terror binary
-- Sentimental geneaology, not German ghost stories</Text>
-        </Document>
         <Document ID="75">
             <Title>holistic model of the Gothic</Title>
             <Text>[[Put the Gothic in context with other 18thC works and their conversations about human nature and rationality!!]]</Text>
@@ -135,6 +137,31 @@ cite Tompkins 57</Comments>
         <Document ID="68">
             <Title>monastic shockers</Title>
             <Text> Radcliffe’s opposite in this binary is the “Monk / monastic” tag; no works were identified as imitations of Lewis himself, but nine (including The Monk itself) are identified as an imitation of The Monk, a “monastic shocker,” or both. Of these nine, seven are by men. The ‘school of Radcliffe’ does thus appear to be a female-dominated school which stands in contrast to a smaller, less-distinct but male-dominated ‘school of Lewis’ — which raises the question of why neither Tracy’s motifs nor Frank’s horror and terror Gothic types showed evidence of these schools. </Text>
+        </Document>
+        <Document ID="82">
+            <Title>Abstract feedback from Alyssa</Title>
+            <Text>Hello from Detroit!
+
+That's so exciting about the chapbook! It throws a wrench in the works, but having two plagiarized works to draw on could bring out some really interesting new conclusions (or significantly strengthen the existing ones).
+
+1. The most important idea was that men and women don't write substantially different gothic texts.
+
+2. Each individual sentence is very clear. They feel a little disjointed, but once I read through the abstract the whole picture fell into place. The only place where I could use a little more context is the last sentence. That's in part because I'm missing some of the vocabulary and background knowledge, and in part because I'm not sure how your analysis connects to that conclusion. It sounds like an idea with some sweeping implications, so it might deserve a little more context. 
+
+3. I think you could maybe trim down a little here: 
+
+"This paper turns to the popular Gothic, to ask whether the hundreds of female Gothic writers created categorically different works than their hundreds of male peers."
+
+To
+
+"This paper examines hundreds of popular Gothic works to ask whether female writers created categorically different works than their male peers."
+
+26 to 21 words--not a huge difference, but it might give you some room elsewhere. That change depends on whether the goal of "hundreds" in the original sentence was to indicate the overall size of your sample or the large number of female gothic writers in the eighteenth century... my version would cover the former, but is less effective at communicating the latter.
+
+Let me know how it goes! I love being a part of your process with these things.
+
+Love and luck, 
+</Text>
         </Document>
         <Document ID="69">
             <Title>[Shared?] Gothics</Title>
@@ -413,15 +440,6 @@ It is not that such matters as redemptive world views and Marxist readings of te
 Algorithmic criticism undoubtedly requires a revolution of sorts, but that revolution is not one of new procedures and methods in contradistinction to the old ones. Algorithmic criticism seeks a new kind of audience for text analysis — one that is less concerned with fitness of method and the determination of interpretive boundaries, and one more concerned with evaluating the robustness of the discussion that a particular procedure annunciates. Such an audience exists, of course, and has existed for the better part of a century in the general community of literary critics from which text analysis has often found itself exiled. For this reason, text analysis practitioners should view the possibility of such a revolution as both welcome and liberating —not a critique of their methods, but a bold vote of confidence in the possibilities they hold.
 </Text>
         </Document>
-        <Document ID="60">
-            <Title>Sentimental geneaology</Title>
-        </Document>
-        <Document ID="53">
-            <Title>my model of Tracy</Title>
-            <Text>I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs indicate a Male Gothic defined by largely the things we would expect men to dominate.</Text>
-            <Comments>Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts. 
-I interpret a motif to be “distinctly male” if 60% or more of its authors are male.</Comments>
-        </Document>
         <Document ID="46">
             <Title>good stuff on critical frameworks</Title>
             <Text>Critical Frameworks 
@@ -447,6 +465,13 @@ My own modeling framework is informed by all of these. My key ideas are sensitiv
 Lawrence Evalyn 7 
 bibliography amplifies Tracy’s and Frank’s choices, allowing me to see whether their distinctions are fruitful, and whether their results accord with our expectations. 
 </Text>
+        </Document>
+        <Document ID="39">
+            <Title>mention German origin early</Title>
+            <Text>[It’s commonplace to define the Gothic’s origin in German ghost stories — CITE SEVERAL EXAMPLES. Accordingly, it makes sense to begin an investigation of the Gothic by looking at its machinery: the skeletons and skulls, mysterious voices and prophetic dreams.]</Text>
+        </Document>
+        <Document ID="60">
+            <Title>Sentimental geneaology</Title>
         </Document>
     </Documents>
 </SearchIndexes>
