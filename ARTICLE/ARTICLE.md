@@ -31,23 +31,26 @@ My [work] to contextualize Radcliffe among hundreds of noncanonical novels is in
 
 [Not all models/experiments are computational]. Lisa Samuels and Jerome McGann’s work on “deformance” highlights [[the intervention of interpretation?] that underlies all critical analysis.] [From X to “elaborate scholarly editions” and translations of texts, which write their critical interpretations into the texts themselves, Samuels and McGann argue, criticism is always deformative.][^cf10] Here Samuels and McGann find perhaps unexpected support in the meticulous historical research of Leah Price, whose monograph The Anthology and the Rise of the Novel argues that any edited text — ‘elaborate’ or not — produces, not a flawed or distorted copy of the original, but a new text.[^cf11] As Price observes, when scholars examine texts — when we take notes on them, extract quotes for close reading, summarize of categorize scenes, chapters of books — our act of reading is also one of editing. McCarty allows us to recognize that this mental editing is not a sign of scholarly weakness, but a model, made necessary by the limits of human memory. Samuels and McGann, then, [embrace the reality of mental modeling]/[use these necessary models to their fullest extent] [by doing what McCarty calls “distortion”]
 
-## also need sensitive interpreters ##
-
-[These non-computational models are important to remind us that it is not just the model which must be sensitive, but its interpreter.] Samuels and McGann ([[take this fact] as permission to]/[simply extend the accepted procedures of scholarly editions and translations, which write their critical interpretations into texts, when they]) radically rewrite the works they study — putting the lines of poems in reverse order, or deleting everything but the nouns — in quest of a fruitful defamiliarization of the object of study. Their procedure “reinstalls the text — any text, prose or verse — as a performative event, a made thing”[^cf12] by rendering the mechanics of its creation salient. This act of defamiliarization allows us to “imagine things about the text that we did not and perhaps could not otherwise know”[^cf13], because we have been re-sensitized to new details of the work. [My computational models are partly anout the actual pieces of information I manipulate, but also partly about re-understanding the limits of our knowledge about the early Gothic.]
-
 ## Frank and Tracy are models ##
 
-My two ‘texts’ — bibliographies by Ann Tracy and Frederick Frank — are thus themselves deformative models of “The Gothic Novel.” Because, as Price observes, the process of editing a text must always reveal the editor’s “unspoken assumptions about the most efficient way to convey information, and indeed what counts as information at all,”[^cf14] [the editorial processes behind each bibliography make] each model sensitive to very different concerns. Ann Tracy’s The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs emphazises dramatic events and singular images, with recurring details systematically tallied in the index. In contrast, Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel emphasizes each work’s overall tone and provides qualitative and subtle evaluations of its critical reception. [Although only 178 of Tracy’s 208 novels also appear among Frank’s 500 entries, the two usefully complement [/shed light on] each other.] The procedure of graphing each bibliography amplifies each bibliographer’s choices, allowing me to see whether their distinctions are fruitful, and whether their models point toward distinct Male Gothic and Female Gothic modes.
+My two ‘texts’ — bibliographies by Ann Tracy and Frederick Frank — are thus themselves deformative models of “The Gothic Novel.” Because, as Price observes, the process of editing a text must always reveal the editor’s “unspoken assumptions about the most efficient way to convey information, and indeed what counts as information at all,”[^cf12] [the editorial processes behind each bibliography make] each model sensitive to very different concerns. Ann Tracy’s The Gothic Novel 1790-1830: Plot Summaries and Index to Motifs emphazises dramatic events and singular images, with recurring details systematically tallied in the index. In contrast, Frederick Frank’s The First Gothics: A Critical Guide to the English Gothic Novel emphasizes each work’s overall tone and provides qualitative and subtle evaluations of its critical reception. [Although only 178 of Tracy’s 208 novels also appear among Frank’s 500 entries, the two usefully complement [/shed light on] each other.] The procedure of graphing each bibliography amplifies each bibliographer’s choices, allowing me to see whether their distinctions are fruitful, and whether their models point toward distinct Male Gothic and Female Gothic modes.
+
+## key findings up front ##
+
+My findings:
+- No male/female binary
+- No horror/terror binary
+- Sentimental geneaology, not German ghost stories
 
 # Ann Tracy #
 
 ## Tracy values uniqueness ##
 
-[First, let us examine Tracy’s model, as implicit in her ten-page ‘Index to Motifs’.] Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. It is clearly built for a different kind of scholarly use than that which I have made of it; it is intended for “scholars with particular interests”[^cf15], who wish to locate and read books containing individual story elements, such as “doppelganger” or “garden as scene of temptation”. Accordingly, Tracy prioritizes presenting a wide range of distinctive individuals motifs rather than those that constitute the norm. Indeed, the most popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only,”[^cf16] and castles have similarly been ingored. In addition to the motifs, Tracy provides a plot summary of each novel. Her summaries, too, emphasize distinctive details, pointing out things like “a particularly interesting Satan, with molten insides”.[^cf17] Tracy’s model of the Gothic is sensitive to uniqueness. It treats each novel as a collection of discrete elements, only one of which is likely to be of interest to a given scholar. The motifs themselves — Satans, murders, doppelgangers, gardens — thus become the stable objects of study, which must be examined through the filter of individual novels.
+[First, let us examine Tracy’s model, as implicit in her ten-page ‘Index to Motifs’.] Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. It is clearly built for a different kind of scholarly use than that which I have made of it; it is intended for “scholars with particular interests”[^cf13], who wish to locate and read books containing individual story elements, such as “doppelganger” or “garden as scene of temptation”. Accordingly, Tracy prioritizes presenting a wide range of distinctive individuals motifs rather than those that constitute the norm. Indeed, the most popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only,”[^cf14] and castles have similarly been ingored. In addition to the motifs, Tracy provides a plot summary of each novel. Her summaries, too, emphasize distinctive details, pointing out things like “a particularly interesting Satan, with molten insides”.[^cf15] Tracy’s model of the Gothic is sensitive to uniqueness. It treats each novel as a collection of discrete elements, only one of which is likely to be of interest to a given scholar. The motifs themselves — Satans, murders, doppelgangers, gardens — thus become the stable objects of study, which must be examined through the filter of individual novels.
 
 ## my model of Tracy ##
 
-I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.][^cf18] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs[^cf19] indicate a Male Gothic defined by largely the things we would expect men to dominate.
+I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.][^cf16] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs[^cf17] indicate a Male Gothic defined by largely the things we would expect men to dominate.
 
 ## Male Gothic ##
 
@@ -69,7 +72,7 @@ This motif-based model of the early Gothic suggests that, rather than a balanced
 
 ## Frank values context ##
 
-[Now let’s turn to a bibliography which models the Gothic with completely different priorities, and see how this model overlaps with Tracy’s / whether it shows similar male, female, and neutral Gothic schools.] [Unlike Tracy, Frank is interested in not just what happens, but in how it happens.] His “Critical Synopsis” of each text functions entirely differently from Tracy’s “Plot Summary,” often providing very few plot details in favour of describing the work’s literary borrowings, narrative structure, and historical reception.[^cf20] Unlike Tracy, he includes an assessment of each work’s “Gothic type,” but these “types” are not stable overarching categories: for the 178 texts indexed by both authors, Frank provides 131 unique classifications.[^cf21] [His “types” accord with Frow’s understanding of genre; it is impossible to classify each text into the genre to which it “belongs”; instead, Frank describes the generic expectations which each text uses.] His Gothic type for Sophia Lee’s The Recess, for example, labels the novel as “Gothified history (terror and sentimental elements), correcting it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traces systematically — he provides no index or definition of the types themselves. Instead, his Gothic types model the Gothic as a shifting history, with each novel as the temporary centre of influences that stretch both forward and backward in time.
+[Now let’s turn to a bibliography which models the Gothic with completely different priorities, and see how this model overlaps with Tracy’s / whether it shows similar male, female, and neutral Gothic schools.] [Unlike Tracy, Frank is interested in not just what happens, but in how it happens.] His “Critical Synopsis” of each text functions entirely differently from Tracy’s “Plot Summary,” often providing very few plot details in favour of describing the work’s literary borrowings, narrative structure, and historical reception.[^cf18] Unlike Tracy, he includes an assessment of each work’s “Gothic type,” but these “types” are not stable overarching categories: for the 178 texts indexed by both authors, Frank provides 131 unique classifications.[^cf19] [His “types” accord with Frow’s understanding of genre; it is impossible to classify each text into the genre to which it “belongs”; instead, Frank describes the generic expectations which each text uses.] His Gothic type for Sophia Lee’s The Recess, for example, labels the novel as “Gothified history (terror and sentimental elements), correcting it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traces systematically — he provides no index or definition of the types themselves. Instead, his Gothic types model the Gothic as a shifting history, with each novel as the temporary centre of influences that stretch both forward and backward in time.
 
 
 ## my model of Frank ##
@@ -90,9 +93,37 @@ However, Frank’s model does point toward a [female] gendered tradition in Radc
 
 # Sentimental geneaology #
 
-## The picture which Frank’s model paints, of a ##
+## sentiment explains Simple Story ##
 
-The picture which Frank’s model paints, of a Female Gothic equally as tied to the sentimental novel as to the high Gothic, [points toward a new understanding of the Gothic’s geneaology generally.] [This new sentimental geneaology makes some things about the Gothic more clear.] [A full acknowledgement of the Gothic’s sentimental ties can explain, for example, the comparison of Udolpho to Elizabeth Inchbald’s A Simple Story which so puzzles Clara McIntyre in Ann Radcliffe in Relation To Her Time.] In response to a review which declared Udolpho to be “the best composition of this kind since Mrs. Inchbald’s Simple Story,” McIntyre is taken aback by the expression “of this kind”.[^cf22]
+The picture which Frank’s model paints, of a Female Gothic equally as tied to the sentimental novel as to the high Gothic, [points toward a new understanding of the Gothic’s geneaology generally.] [This new sentimental geneaology makes some things about the Gothic more clear.] [A full acknowledgement of the Gothic’s sentimental ties can explain, for example, the comparison of Udolpho to Elizabeth Inchbald’s A Simple Story which so puzzles Clara McIntyre in Ann Radcliffe in Relation To Her Time.] In response to a review which declared Udolpho to be “the best composition of this kind since Mrs. Inchbald’s Simple Story,” McIntyre is taken aback by the expression “of this kind”.[^cf20] She says, “The reviewer must surey be thinking of fiction in general, for, except that they are both fiction, two compositions could hardly be more unlike than The Mysteries of Udolpho and A Simple Story.”[^cf21] McIntyre draws a tentative connection based on “the ethical purpose of the book,” which in Inchbald is “rather too obvious for successful art,” but decides that although Radcliffe’s writing, “it is true, was strictly moral,” Radcliffe’s “main interest” does not lie in moralizing.[^cf22] McIntyre has thus identified what I argue is the key connection between the two works, but overlooks its significance: moral sentiment, and its connection to the emotional experience of the reader, is the throughline which connects the Gothic deeply to its non-Gothic literary context, and to the broader intellectual debates at the end of the Englightenment.
+
+## Baker: sentimental -> Gothic ##
+
+I thus return to an older school of criticism, which saw French sentimental novels — rather than German horror stories — as the forbears of the Gothic. Ernest Baker, for example, [tells this kind of history in his YEAR work TITLE:
+The sources of Gothic romance… are to be sought in the popular variant of the fiction of sensibility evolved by the Abbé Prévost and elaborated later on by Baculard d’Arnaud. The exciting adventures, the violent emotions, the gloomy scenes, forests, and antres[ Antres??? is this right?????? Lawrence Evalyn, 2017-04-18, 10:36 PM], castles, dungeons, and graveyards, in the abbés novels and the plays and stories of Baculard, were to be the distinctive features of Gothic romance through its course. It was all derivative of the cult of emotion…[^cf23]
+In this history of the Gothic, German influences are superficial set-dressing rather than inherent to the genre:
+Some novelists sought only to conjure up a witching atmosphere of awe and vague apprehension; others employed the most violent shocks of physical anguish and fear. They all dabbled in the supernatural, either playing upon or playing with feelings of superstition; and, later on, those who had become acquainted with German folk-lore and its ghosts and elves and goblins found their account in satiating the greediest appettites for crime, diabolism, and nameless horrors[.][^cf24]
+The Gothic is well-established before the first hints of “German folk-lore”, which only arrives “later on” and only in the works of “those who had become acquainted” with it. Even the supernatural is relevant primarily because it allows authors to manipulate readers’ “feelings of superstition” in service of the central emotional experience of fear. Baker’s historical model is not sensitive to the features of the Gothic which now draw attention — he does not make his distinctions based on politics or aesthetics or gender — instead, he defines the Gothic by its emotional manipulations.
+
+## the teleological model ##
+
+Emotional response is salient as a distinguishing factor for Baker because he, like many of his contemporaries, writes from the teleological assumption that the history of the novel must be the history of the realist novel. Baker’s approach to the Gothic is not as obviously mediated through editorial intervention as Tracy’s or Frank’s bibliographies; as we would expect, Baker makes no explicitly deformative moves, but proceeds by discussing his various selected texts in their entirety. [Nonetheless, he writes on the basis of a model of the genre’s history / what’s important about it] The assumptions of his model, however, remain implicit in the moralizing judgments throughout his work. Baker’s excoriation of “that amoral person [Laurence] Sterne” for being a “debauched sentimentalist” who “fondled his sensibility,” “aware of his vice, and voluptuously enjoying all its sweetness,”[^cf25] for example, evaluates Tristram Shandy along markedly different lines than would now be considered fruitful. J.M.S. Tompkins, too, dismisses the Gothic on the basis of these kinds of assumptions: with the rise of the Gothic, she says, “the average novelist paid, on the whole, very little attention to the probability, and the novel in consequence slipped farther away from reality, as though a window on to the other world had been changed to a magic lantern.”[^cf26] [We often talk about the “magic lantern” of the Gothic in positive terms, but Tompkins clearly sees this “slip[ping] farther away” as a problem.] Both Baker and Tompkins model the novel itsels as a training-ground for the mind, through which habits of thought are established, and which therefore ought to inculcate the “right” mode of thought. Accordingly, both model the Gothic as a dangerously emotional and disordered mode of thought, notable not for its plots or sets or even which emotions are induced, but defined entirely by the emotionally overpowering nature of the reading experience.
+
+## reject teleology, keep emotion ##
+
+I argue that there is, in fact, something in this model which remains fruitful: [its understanding of the Gothic as continuous, rather than a break]. [The teleologically realist model defines the Gothic as] as spectrum of sentiment, sensation, and sensibility, all of which, Baker argues, are distinguised from each other only by “intensification,” and not in terms of fundamental type.[^cf27] Tompkins, too, argues for a history of continuity, saying that in the Gothic, “the accepted themes were repeated in a shallower tone and overlaid with all the romantic incidents of disguise, abduction, lost heirs and mistaken identity, which had been for hundreds of years the story-tellers stock in trade.”[^cf28]  [The “fantastic” elements did not render the Gothic a fundamentally different sort of story than those which preceded it.] We can reject their realist teleology without rejecting their sensitivity to emotional response. Doing so allows us to better place the Gothic in context with other eighteenth century works, such that the Gothic participates directly in Englightenment conversations about human nature and rationality.
+
+## holistic model of the Gothic ##
+
+[[Put the Gothic in context with other 18thC works and their conversations about human nature and rationality!!]]
+
+## Gothic heritage in sentimental fiction ##
+
+Tristram Shandy - the ghost, Le Fevre
+Man of Feeling - fragmentary narrative, frame narratives
+Vicar of Wakefield - sudden plot twists, secret identity revealed
+
+## but this sentimental history is no longer Female ##
 
 [^cf1]: CITE Juliann Fleenor, The Female Gothic, 7
 
@@ -116,26 +147,38 @@ The picture which Frank’s model paints, of a Female Gothic equally as tied to 
 
 [^cf11]: cite Leah Price
 
-[^cf12]: cite samuels and mcgann 30
+[^cf12]: cite Price 13
 
-[^cf13]: cite samuels mcgann 36
+[^cf13]: cite Tracy 195
 
-[^cf14]: cite Price 13
+[^cf14]: cite tracy 195
 
-[^cf15]: cite Tracy 195
+[^cf15]: cite tracy 74
 
-[^cf16]: cite tracy 195
+[^cf16]: Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts.
 
-[^cf17]: cite tracy 74
+[^cf17]: I interpret a motif to be “distinctly male” if 60% or more of its authors are male.
 
-[^cf18]: Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts.
-
-[^cf19]: I interpret a motif to be “distinctly male” if 60% or more of its authors are male.
-
-[^cf20]: The two bibliographies’ treatments of Grenville Fletcher’s Rosalviva, Or, The Demon Dwarf, for example, serves as a useful illustration of their differences. Tracy’s summary is a litany of events: it begins matter-of-factly with the sentence “Leontini loves Viola di Morini, but she marries someone else,” and is equally unfazed when the titular dwarf arrives in the third act and when the dwarven appearance turns out to be false (51). Frank, in contrast, spends more than half his words on context, as in his first sentence: 
+[^cf18]: The two bibliographies’ treatments of Grenville Fletcher’s Rosalviva, Or, The Demon Dwarf, for example, serves as a useful illustration of their differences. Tracy’s summary is a litany of events: it begins matter-of-factly with the sentence “Leontini loves Viola di Morini, but she marries someone else,” and is equally unfazed when the titular dwarf arrives in the third act and when the dwarven appearance turns out to be false (51). Frank, in contrast, spends more than half his words on context, as in his first sentence: 
 	“From Rumplestilskin in the fairytale to the comic evil of Dickens’s Daniel Quilp in The Old Curiosity Shop (1841), the figure of the dwarf was often called upon to perform such demonic services as vengeance, prophecy, child possession, and transformation.” (107) 
 	To this broad literary history he adds Mary Shelley’s story “Transformation” as potential precursor for the disguise in Fletcher’s novel, and includes several assessments of the Gothic’s particular embellishments of “the dwarf as a resolver of dilemmas of identity” (107) and “dwarfs... spin[ning] webs of murderous intrigue for diabolic ladies” (108). All of these details stand in stark contrast to Tracy’s list of seven novels under the index entry “dwarf” (199), which treats the sinister disguise in Rosalviva as interchangeable with depictions of non-supernatural and even non-evil little people.
 
-[^cf21]: Many of these are “unique” primarily from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, are distinguished only by a slight gradation of degree. But this interest in slight qualitative gradations is what distinguishes Frank’s model from Tracy’s.
+[^cf19]: Many of these are “unique” primarily from the point of view of a spreadsheet: “Domestic fiction (various Gothic elements)” and “Domestic fiction (intermittent Gothic elements),” for example, are distinguished only by a slight gradation of degree. But this interest in slight qualitative gradations is what distinguishes Frank’s model from Tracy’s.
 
-[^cf22]: cite McIntyre 94
+[^cf20]: cite McIntyre 94
+
+[^cf21]: cite McIntyre 94
+
+[^cf22]: cite McIntyre - what page? 94??
+
+[^cf23]: cite Baker 175
+
+[^cf24]: cite Baket 176
+
+[^cf25]: cite Baker 95
+
+[^cf26]: cite Tompkins
+
+[^cf27]: cite Baker 120
+
+[^cf28]: cite Tompkins 57
