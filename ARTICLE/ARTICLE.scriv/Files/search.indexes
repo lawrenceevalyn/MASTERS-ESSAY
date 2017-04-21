@@ -7,7 +7,7 @@
         </Document>
         <Document ID="61">
             <Title>Frank values context</Title>
-            <Text>[Now let’s turn to a bibliography which models the Gothic with completely different priorities, and see how this model overlaps with Tracy’s / whether it shows similar male, female, and neutral Gothic schools.] [Unlike Tracy, Frank is interested in not just what happens, but in how it happens.] His “Critical Synopsis” of each text functions entirely differently from Tracy’s “Plot Summary,” often providing very few plot details in favour of describing the work’s literary borrowings, narrative structure, and historical reception. Unlike Tracy, he includes an assessment of each work’s “Gothic type,” but these “types” are not stable overarching categories: for his 500 texts, Frank provides 306 unique classifications. [His “types” accord with Frow’s understanding of genre; it is impossible to classify each text into the genre to which it “belongs”; instead, Frank describes the generic expectations which each text uses.] His Gothic type for Sophia Lee’s The Recess, for example, labels the novel as “Gothified history (terror and sentimental elements), correcting it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traces systematically — he provides no index or definition of the types themselves. [They are hardly even deterministic: Most strikingly, The Mysteries of Ferney Castle is listed twice, once under each of its disputed authors, and receives a different Gothic type in each entry: Pure or high Gothic (terror mode) at entry 188 by Robert Huish, and  Gothified history (Radcliffean imitation) at entry 222 by G. Lambe.] Instead, his Gothic types model the Gothic as a shifting history, with each novel as the temporary centre of influences that stretch both forward and backward in time.
+            <Text>[Now let’s turn to a bibliography which models the Gothic with completely different priorities, and see how this model overlaps with Tracy’s / whether it shows similar male, female, and neutral Gothic schools.] [Unlike Tracy, Frank is interested in not just what happens, but in how it happens.] His “Critical Synopsis” of each text functions entirely differently from Tracy’s “Plot Summary,” often providing very few plot details in favour of describing the work’s literary borrowings, narrative structure, and historical reception. Unlike Tracy, he includes an assessment of each work’s “Gothic type,” but these “types” are not stable overarching categories: for his 500 texts, Frank provides 309 unique classifications. [His “types” accord with Frow’s understanding of genre; it is impossible to classify each text into the genre to which it “belongs”; instead, Frank describes the generic expectations which each text uses.] His Gothic type for Sophia Lee’s The Recess, for example, labels the novel as “Gothified history (terror and sentimental elements), correcting it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traces systematically — he provides no index or definition of the types themselves. [They are hardly even deterministic: Most strikingly, The Mysteries of Ferney Castle is listed twice, once under each of its disputed authors, and receives a different Gothic type in each entry: Pure or high Gothic (terror mode) at entry 188 by Robert Huish, and  Gothified history (Radcliffean imitation) at entry 222 by G. Lambe.] Instead, his Gothic types model the Gothic as a shifting history, with each novel as the temporary centre of influences that stretch both forward and backward in time.
 </Text>
             <Comments>The two bibliographies’ treatments of Grenville Fletcher’s Rosalviva, Or, The Demon Dwarf, for example, serves as a useful illustration of their differences. Tracy’s summary is a litany of events: it begins matter-of-factly with the sentence “Leontini loves Viola di Morini, but she marries someone else,” and is equally unfazed when the titular dwarf arrives in the third act and when the dwarven appearance turns out to be false (51). Frank, in contrast, spends more than half his words on context, as in his first sentence: 
 “From Rumplestilskin in the fairytale to the comic evil of Dickens’s Daniel Quilp in The Old Curiosity Shop (1841), the figure of the dwarf was often called upon to perform such demonic services as vengeance, prophecy, child possession, and transformation.” (107) 
@@ -165,6 +165,11 @@ Love and luck, 
             <Title>[Shared?] Gothics</Title>
             <Text>[All kinds of schools not often accorded central importance to the Gothic, but none of them dominate.] [the most popular tags ARE:] [Frank doesn’t really show a unified Gothic at all.] [But it’s mainly non-gendered, and definitely doesn’t operate by binaries.]</Text>
         </Document>
+        <Document ID="90">
+            <Title>2014 Nick Groom</Title>
+            <Text>As nick Groom notes in his 2014 edition of Walpole’s The Castle of Otranto, “If the eighteenth century witnessed an increasingly wide application of the Gothic and its cognates in a bewildering array of different  elds, they remain rooted in historical and archaeological researches, in political and constitutional theory, in an escalating medievalism, and in an aesthetic that mixed the sublime with melancholy, nostalgia with the repression of history, and mortality with the revival of the past””(Groom, xxxvii). 
+</Text>
+        </Document>
         <Document ID="83">
             <Title>same novel different types!!!</Title>
         </Document>
@@ -172,12 +177,17 @@ Love and luck, 
             <Title>'Radcliffe' = suspense</Title>
             <Text>It also allows us to see the ‘school of Radcliffe’ in a new light, returning to Clara McIntyre’s assessment that “[Radcliffe’s] most important contribution is a matter not of theme, but of structure” (77), in her development of suspense. </Text>
         </Document>
-        <Document ID="77">
-            <Title>Conclusion</Title>
-        </Document>
         <Document ID="84">
             <Title>data on authors</Title>
             <Text>Tracy’s 208 texts show a nearly perfect 50/50 split between male and female authors, at [NUMBERS]. [Only X% unknown authors.] Frank shows 43% female, 31% male, 25% unknown. [Correlate unknown with Frank’s types]</Text>
+        </Document>
+        <Document ID="91">
+            <Title>2014 Angela Wright</Title>
+            <Text>“As Angela Wright has recently observed in her contribution to Terror and Wonder: The Gothic Imagination (ed. Dale townshend, 2015), “from its eighteenthcentury origins, and even, in some senses before that, we can view the Gothic as an ‘anthology’—a veritable Frankenstein’s laboratory—of the forces of terror and wonder”” (“Dream,” 89) 
+</Text>
+        </Document>
+        <Document ID="77">
+            <Title>Conclusion</Title>
         </Document>
         <Document ID="8">
             <Title>Stray Thoughts</Title>
@@ -195,13 +205,89 @@ Love and luck, 
 	•	Argument-what your analysis of the subject revealed about the subject, current approaches to the subject, or society
 	•	Proofs-your evidence for your argument about the subject, or the elements of the subject that you analyze (such as textual passages) </Text>
         </Document>
+        <Document ID="85">
+            <Title>do genre-types converge over time?</Title>
+        </Document>
+        <Document ID="92">
+            <Title>2013 Alex Wetmore, Men of Feeling in Eighteenth-Century</Title>
+            <Text>Alex Wetmore, Men of Feeling in Eighteenth-Century Literature: Touching Fic- 
+tion (Basingstoke, UK: Palgrave, 2013) 
+“Alex Wetmore argues for the congruity between the printed bodies of sentimental books and the mechanized men of feeling presented within their pages.”
+“Sentimental novels by Henry Brooke, laurence Sterne, tobias Smollett, and Henry Mackenzie are the focus of Men of Feeling”
+“Wetmore introduces a useful term, “corporeal defamiliarization,” to denote how sentimental novels denaturalize their status as touchable book-objects.”
+“Wetmore compellingly argues that sentimental self-consciousness can be understood to have the matter of the book and the body at its fraught center. Sentimental self-reflexivity, therefore, is not the metafictional, proto-postmodern irony that our moment in history might tempt us to identify it as being.”
+“sentimental  fiction’s corporeal defamiliarization works in tandem with the genre’s palliative goal of expanding and extending nervous sensibilities.”
+“Wetmore argues that toward the end of the century, the connective tissue binding sentimentality to self-referentiality was severed. newly suspicious approaches to sensibility are deployed in works across the political spectrum during this period: for example, Mary robinson’s The Natural Daughter (1799); Elizabeth Hamilton’s Memoirs of Modern Philosophers (1800); and robert Bage’s Hermsprong (1796). Each text reworks devices of corporeal defamiliarization deployed by Smollett, Mackenzie, and Sterne, respectively.”
+
+2009 Sympathy machineS: men of feeling and the automaton 
+
+
+“In contrast to post-Romantic modernity’s “axiomatic presupposition of a deep inner core of selfhood,” this ancien régime approached the borders of the self as “mutable, malleable, unreliable, divisible, replaceable, transferable, manipulable, escapable, or otherwise fuzzy around the edges.””
+p.40: By blurring the lines separating men of feeling from feeling machines, these canonical sentimental novels stand in contrast to writing from the earlier part of the century, in which the realms of sensibility and technology were typically represented as distinct -- Highlighted Apr 21, 2017
+p.40:  (1) the man of feeling’s hyper-reactive sensibilities raise questions not only about the stability of gender, as Wahrman argues, but also about the stability and certainty of eighteenth-century boundaries between humans and machines -- Highlighted Apr 21, 2017
+p.40: 2) perhaps more importantly, the porous borders between men of feeling and feeling machines point to important shifts in the relationship between the mechanical and the virtuous. This, in turn, provides a new understanding of how the culture of sensibility both engages with and resists the hegemonic discourse of civic humanism -- Highlighted Apr 21, 2017</Text>
+        </Document>
+        <Document ID="86">
+            <Title>Something about the maddening idiosyncrasies of qualitative</Title>
+            <Text>Something about the maddening idiosyncrasies of qualitative bibliographic research? — Frank’s bibliography only has 499 books because he lists one of them twice…
+I really value reading bibliographies cover to cover but cannot articulate what I have learned from them, except that nothing is ever one thing
+Something connecting to Surface Reading also??? ECS won’t care about the code, but they might care very much about surface reading
+</Text>
+        </Document>
+        <Document ID="93">
+            <Title>2014 Dale Townshend and Angela Wright, eds. Ann Radcliffe</Title>
+            <Text>Dale Townshend and Angela Wright, eds. Ann Radcliffe, Romanticism and the 
+Gothic (Cambridge: Cambridge University Press, 2014) 
+“Once-dominant psychoanalytic and feminist interpretations have given way to critical work drawing on political and religious history, print culture studies, theories of media and remediation, and new formalism.”
+“Edward Jacobs substantiates her role in establishing a new discursive mode: radcliffe’s “reproducible set of generic conventions” (52) cooperated with the cataloging practices of circulating libraries to form a readership inclined “to approach books less as unique texts than as members of genres””
+“acobs claims in his informative chapter that radcliffe’s inclusion of poetry in her novels staged an opposition between two modes of reading: the “‘deep’, contemplative, repetitive reading” of “high” literary texts, and the super cial consumption of plot-driven entertainments associated with a “popular” and feminized media market”
+ Dismissing the Gothic–romantic binary as a “hangover from the Victorians,” robert Miles develops the concept of a “popular romanticism” (117), in which radcliffe leaves unresolved the opposition between a disciplined, secular, and Enlightened modern subjectivity located in linear time and a porous premodern subjectivity “embedded in nature, which is animated, alive with spirits that effortlessly cross spatial and temporal boundaries”
+in her chapter on how the ruined abbey in The Romance of the Forest represents “the historical and religious past that a modern, secularising culture was trying to bury” (100), Diane long hoeveler demonstrates her impressively extensive reading by citing parallels from obscure Gothic novels for the discovered manuscript topos, the villain who dies by poisoning himself, and the Gothic abbey as setting.
+
+
+</Text>
+        </Document>
         <Document ID="79">
             <Title>conclusion: no binaries</Title>
             <Text>My method has been, in its assumptions, necessarily historicist — sensitive not to retroactive critical distinctions, but attempting to describe a body of works as it relates to itself. I have chosen not to ask what qualities will cause a novel to be categorized by my bibliographers as ‘Gothic,’ but rather what constitutes ‘normal’ within this pool. In doing so, I have found evidence at various points of both a Male Gothic and a Female Gothic that are in keeping with some critical conceptions. However, I remain persuaded that the most striking result is the large body of works that fall into neither category, and the unbalanced or awkwardly non-parallel nature of any binary distinctions one might wish to draw. McCarty argues that “a good model can be fruitful in two ways: either by fulfilling our expectations, and so strengthening its theoretical basis, or by violating them, and so bringing that basis into question” — of these, he says, “failure to give us what we expect is by far the more important result” (McCarty). Accordingly, my failure to find a an obvious or stable gender divide within the Gothic is valuable as evidence that in the broadest context of the Gothic, the conversation occurring between novels is not driven by authorial gender.</Text>
         </Document>
+        <Document ID="87">
+            <Title>reviving old work</Title>
+            <Text>My throughline is the selective re-use / continued use of older criticism, the groundwork for identifying what was done and why and how to carry it forward
+Applying surface reading to bibliographic texts
+First I recuperate these two qualitative bibliographies, then they lead me to recuperate even older works
+This is despite the fact that Tracy and Frank (especially Frank) see the Gothic in terms of binaries and gendered opposition — their own work reveals otherwise
+Rich rescription: nothing is richer than a bibliography, especially a qualitative one
+Final takeaway: how to make criticism into something that can….. interlock? Make individual pieces so they can build on top of each other? Frank &amp; Tracy made it simple by giving each work a number
+
+(What “lesson” would I tell Cannon based on all this?)</Text>
+        </Document>
+        <Document ID="94">
+            <Title>2007 Remapping the Rise of the European Novel</Title>
+            <Text>Jenny Mander, ed., Remapping the Rise of the European Novel SVEC 2007:10 (Oxford: Voltaire Foundation, 2007). Pp. x, 344. $140.00. 
+p.428:  Instead of locating the novel’s emergence, these essays argue that the novel underwent multiple rises over time and space and that the novel form is even more  exible and varied than former arguments about its heterogeneity have suggested. -- Highlighted Apr 21, 2017
+p.428:  Two studies by the eminent bibliographers Angus Martin and James Raven provide superb data for understanding, respectively, translation and the novel in France and the vagaries of the late eighteenth century’s full recognition of the novel as a literary category in Britain. -- Highlighted Apr 21, 2017
+p.428: the rubrics are a sign of the novel’s messiness that comes with broadening the landscape -- Highlighted Apr 21, 2017
+p.428: The essays could be taken as a case for replacing Watt’s formal realism with formal mobility -- Highlighted Apr 21, 2017
+p.429:  this referendum on the emergence of the novel makes a signi cant step toward heeding Franco Moretti’s call for a “longer, larger, and deeper” view of the novel  -- Highlighted Apr 21, 2017</Text>
+        </Document>
         <Document ID="13">
             <Title>Abstract</Title>
             <Text>Current study of gender and the early Gothic is sophisticated at the expense of examining few texts. This paper turns to the popular Gothic, to ask whether the hundreds of female Gothic writers created categorically different works than their hundreds of male peers. Two qualitative bibliographies of the Gothic provide “motifs” and “Gothic types” for computational modelling. The role of “authoress” may come with unique constraints, but the popular Gothic is not strongly divided by authorial gender. Continuities within the corpus suggest a revised geneaology of the Gothic, de-emphasizing German ghost stories in favour of the French sentimental novel.</Text>
+        </Document>
+        <Document ID="95">
+            <Title>2009 Brandy Lain Schillace</Title>
+            <Text>"Temporary Failure of Mind": Déjà vu and Epilepsy in Radcliffe's 
+The Mysteries of Udolpho 
+Brandy Lain Schillace 
+At the time The Mysteries of Udolpho was published, déjà vu had not been connected to epilepsy. Yet, as déjà vu routinely accompanies epileptic seizures, it is no surprise to find them linked in fiction, even if that link is not clinically explained; the disease and its symptoms pre-exist scientific authentication. Reading Udolpho with an understanding of the epileptic condition—its relationship to melancholy, its production of anxiety over self-boundaries and its mimicry of madness—opens new possibilities for gothic criticism. As a symptomatic text, The Mysteries of Udolpho connects manifestations of epilepsy to the Gothic's preoccupation with dreamy or altered states.
+p.275: In its representations of the dreamy, the disorienting, and the doubled, The Mysteries of Udolpho explores not the supernatural, but the psychological and the neurological. Reading Udolpho with an understanding of the epileptic condition—its relationship to melancholy, its production of anxiety over self-boundaries and its mimicry of madness—opens new possibilities for gothic criticism. By exploring current and eighteenth-century understandings of epilepsy and its auras, and by reading Emily as an epileptic subject designed to court the empathy and identi cation of her readers, we see how Radcliffe’s most terrifying horrors are those that threaten the mind and lead to the dissolution of the self. -- Highlighted Apr 21, 2017
+p.286:  the gothic tradition was in dialog with epilepsy discourse at a time when fractures of identity were recognizable and terrifying phenomena. -- Highlighted Apr 21, 2017
+p.286: Udolpho and the gothic tradition that followed in its footsteps combine memory, identity boundaries, madness, and the dreamy and altered states they so often illustrate to create a horror that was not tied to the supernatural—at least not directly -- Highlighted Apr 21, 2017
+p.287: Our own lingering interest in the Gothic suggests a way in which participation in literature, gothic or otherwise, forces us to confront the disorienting spectralization not of others but of ourselves—and it is we as readers who crave, even more than Emily herself, the “suspense that enthrall[s] the vulgar” -- Highlighted Apr 21, 2017</Text>
+        </Document>
+        <Document ID="88">
+            <Title>from ECS</Title>
         </Document>
         <Document ID="14">
             <Title>lit review: female gothic</Title>
@@ -209,6 +295,58 @@ Love and luck, 
             <Comments>CITE Juliann Fleenor, The Female Gothic, 7
 CITE Fleenor 28
 CITE Robert Miles</Comments>
+        </Document>
+        <Document ID="96">
+            <Title>2006 Jayne Elizabeth Lewis</Title>
+            <Text>Jayne Elizabeth Lewis 
+"No Colour of Language": Radcliffe's Aesthetic Unbound 
+This essay reads Ann Radcliffe's celebrated landscapes in light of their remarkable infusion with "every colour that paints the rainbow"—an infusion that links Radcliffe's gothic fictions with contemporary aesthetic theory. But that theory often doubled as a kind of early speech act theory, and against its background, I argue, Radcliffe's colors emerge as a mode and method of signaling the presence and politics of linguistic mediation. Radcliffe herself identifies "tint" and "hue" with the ever-inadequate "colours of language," allowing us to read Radcliffe's landscapes as subversive pictures of nothing but the (here feminine) perception that frames them.
+“It is a pity that Ann Radcliffe’s “language” should so often lament its own insufficiency of “colour,” when color is one of the qualities that most vividly distinguishes her prose fiction from that of virtually all of her predecessors and contemporaries.”
+“Here, I would like to approach these complementary effects of abstraction and coloration as fundamentally linguistic devices which in Radcliffe’s hands find themselves further filtered through the scrim of specifically feminine perception.”
+p.386: In all their “rich colouring” (SR 104), Radcliffe’s landscapes cannot in truth be said to consist in more than the “beauties and effects” of the English language; in an importantly literal sense, there is nothing more to them. -- Highlighted Apr 21, 2017
+p.387: Just so, when we turn to Radcliffe’s use of specific “hue[s]” to enhance her scenery, we often find color detaching itself from material bodies, not to abandon them but to span the chasm that apparently divides those bodies from ideal forms and values. -- Highlighted Apr 21, 2017
+p.389: Because the descriptions she derived from those authorities aim to make us see nothing through them, but everything in them, they sabotage their own pictorial pretensions. This amounts to true aesthetic critique, even as it challenges from within a culturally cherished superstition about written language -- Highlighted Apr 21, 2017
+p.389: Thus obsessively repeated textual “effects” like light’s dissolution into mist, or its refraction into color, are not in themselves merely slavish reflections of Burke’s sublime, Reynolds’s abstraction, or for that matter, the Newtonian optics from which both of these ideals were derived. Rather, such Radcliffean signatures trace—indeed literalize—the circumstances under which aesthetic figure and cultural ground become one. -- Highlighted Apr 21, 2017</Text>
+        </Document>
+        <Document ID="89">
+            <Title>2014 Corinna Wagner, ed., Gothic Evolutions: Poetry, Tales</Title>
+            <Text>Corinna Wagner, ed., Gothic Evolutions: Poetry, Tales, Context, Theory (Peter- 
+borough, ON: Broadview Press, 2014). Pp. 625. $44.95. 
+“As demonstrated in her essay “the Dream of a transparent Body: Identity, Science and the Gothic novel” (Gothic Studies 14.1 [2012]: 74–92), Wagner’s primary intellectual concern is to identify the “deeply embedded historical continuities running through” gothic  ction as well as medical science”
+
+“these thematic categories—“uses of the Past/Medievalism”; “Politics, Law, religion, Economics, and race”; “Medicine, Science, and the Body”; “Gender”; “Sexuality”; “Psychology and Emotion”—reflect contemporary scholarly interests in gothic studies”
+
+In her introductory essays, rather than advancing a singular thesis, she participates in the ongoing debates about the Gothic. Her representation of the Gothic thus mirrors her claims about the mode itself: as characterized by instability, by a subversive resistance to definition.”</Text>
+        </Document>
+        <Document ID="100">
+            <Title>I don’t think the question of defining the gothic is</Title>
+            <Text>I don’t think the question of defining the gothic is interesting… or do I?
+I definitely don’t want to undertake definition through individual monumental works. I think it’s partly historical happenstance that we have canonized the particular works that we have
+(I’m thinking here about The Making of a Marchioness, and the way that this third-tier Burnett has become so rich and important to me; there are surely reasons that it’s not as enormously popular as A Little Princess, and indeed that The Secret Garden beats out A Little Princess too, but — those reasons aren’t, I don’t think, due entirely to literary superiority. There are other things too.)
+Implicitly I see the Gothic defined as “stuff that other people looked at and thought was Gothic enough to jot down” — and I see the next step to be seeking continuities within the works and connections/“synergies” between the criticism. 
+(I DEFINITELY need to combine Frank &amp; Tracy to get at this point though — e.g., what motifs are most predictive of the sentimental? Of horror? What kinds of stories have subterannean passages?) — I can do that with pivot tables in Google Sheets</Text>
+        </Document>
+        <Document ID="97">
+            <Title>2002 Marshall Brown</Title>
+            <Text>Gothic Readers versus Gothic Writers 
+James Watt. Contesting the Gothic: Fiction, Genre and Cultural Conflict, 1764–1832 (Cambridge: Cambridge University Press, 1999). Pp. x + 205. $55.00 cloth. 
+Michael Gamer. Romanticism and the Gothic: Genre, Reception, and Canon Formation (Cambridge: Cambridge University Press, 2000). Pp. xiii + 255. $60.00 cloth. 
+E. J. Clery and Robert Miles, eds. Gothic Documents, A Sourcebook: 1700– 1820 (Manchester and New York: Manchester University Press, 2000). Pp. xii + 306. $24.95 paper. 
+p.616: The terrific flood of books about the gothic novel continues unabated. A vastly popular mode of undisputed resonance and influence offers great opportunity to scholars of enterprise and energy.  -- Highlighted Apr 21, 2017
+p.617:p.616: Watt, the more political of the two scholars, assesses the labels that might be applied to different writers; Gamer, the more formalist (as his subtitle reflects), focuses more on moral and psychological atti- --  tudes. Both studies regard authors as speaking within and to their immediately contemporary circles -- Highlighted Apr 21, 2017
+p.617: both books lack the political passion of David Punter or the psychological intensity motivating both New Critical readings (Robert Kiely’s Romantic Novel in England, still the best in this line, remains unmentioned) and the subsequent Freudian and post-Freudian work of Eve Sedgwick and Terry Castle. The literature of (German) terror is now a garden of (English) delight. -- Highlighted Apr 21, 2017
+p.617: The depth of Watt’s and Gamer’s research persuades me that on historical grounds they are basically right and will help set gothic studies in a calmer view. -- Highlighted Apr 21, 2017
+p.617: Whether the gothic is best seen with this kind of wide-eyed clarity is an open question. There is a New Positivism in these books that wants settled truths and definitions. -- Highlighted Apr 21, 2017
+p.617: Watt is a nominalist. His governing premise is that the gothic is manifold: “The Gothic romance is a hybrid genre, its diverse affiliations best understood by way of detailed case studies of authors, works, and publishing events, and via a focus on the kinds of classification made by contemporary critics and reviewers” -- Highlighted Apr 21, 2017
+p.617: Watt unearths a popular tradition of stories of recovered order and restored houses. Even though the narratives are only intermittently or glancingly gothic, they form an important context for the plot structures of better-known works. -- Highlighted Apr 21, 2017
+Still, it is easier to feel more respect than enthusiasm for so level-headed a book. In taking its evidence apart, nominalism loses its thrust. The book dis- solves into its object, becoming itself the recuperative loyalist romance that it finds in its materials. Diversity turns out to be the mark of drift; nothing has the power to upset the apple-cart, and the wagon rolls onward, albeit unevenly, to- ward its market reward. The four featured authors exhibit in different flavors a common tendency to retreat from commitment into irresponsibility or consola- tion. Nothing too frightening endures. 
+Consequently, the book is perhaps most useful in provoking a response. Its critique lays the groundwork for a defense of the gothic. 
+Gamer follows (and acknowledges) Watt in arguing for the diversity of the gothic. “I define the gothic neither as a mode nor as a kind of fiction (the ‘gothic novel’) but . . . as a ‘shifting’ aesthetic” (4). Objecting to Fredric Jame- son’s conception of genre as ideology, he stresses “gothic’s ideological flexibility” and “mutability” (45, 51). He gives shape to the flux by configuring it in terms of more settled oppositions such as masculine and feminine, elite and popular, ma- ture and adolescent, modern and antique, real and romantic. An insistence on contradiction gives positioning precedence over invention. 
+p.621: What is the gothic? That is the core question neither of these books really even poses. (Perhaps they are too impressed by Robert Miles’s Gothic Writing, 1750–1820: A Genealogy [London: Routledge, 1993], which says (p. 4) that gothic is an “ambiguous, shifting term, but then the textual phenomena to which it points are shifting and ambiguous.” -- Highlighted Apr 21, 2017
+p.622: Neither book here sufficiently distinguishes the popular German ghost stories from the better novels that departed from them. Mary Shelley and her companions read one of those books on a rainy afternoon, and she wrote Frankenstein in response. But though she calls it a “ghost story,” it transparently isn’t one. -- Highlighted Apr 21, 2017
+p.622: For surely, even as they sought the approbation of readers and reviewers to dignify their enterprise, writers also had to endow their works with a content and a purpose.  -- Highlighted Apr 21, 2017
+p.622: Gamer, like Watt, has written an account of prosaic gothic that will stand as a valuable prolegomenon to a study of the poetic richness of gothic meanings. -- Highlighted Apr 21, 2017
+</Text>
         </Document>
         <Document ID="30">
             <Title>Tompkins</Title>
@@ -220,6 +358,20 @@ Ch. 2: the four 'schools' of the novel building on early 18thC masters: the Rich
 - "Two points have some interest in connection with the sensationalism of the eighteenth century. In the first place there is, on the whole, little insistence upon physical pain... Secondly, one notes the extraordinary pervasiveness through all grades of the novel of the theme of incest." (62)
 Ch. 3: in 70s and 80s, 'enjoying' a novel a problematic way to evaluate it; novels meant to be didactic.
 p. 78 - duelling unpopular as novelistic topic b/c slightly disapproved; gaming &amp; intrigue safer. "Gaming is one of the women's subjects." (79) - actually just a 55/45 split in favour of women</Text>
+        </Document>
+        <Document ID="98">
+            <Title>2012 Ruth Perry</Title>
+            <Text>Revamping Literary History 
+Jennie Batchelor, Women’s Work: Labour, Gender, Authorship, 1750–1830 (Manchester and New York: Manchester University Press and Palgrave, 2010). Pp. x + 249. £60.00 
+Susan Carlile, ed., Masters of the Marketplace: British Women Novelists of the 1750s (Bethlehem, PA: Lehigh University Press, 2011). Pp. 277. $60.00 
+p.610: Carlile’s collection insists on how professionally successful these writers women were, and how in uential in determining the direction of the novel. Batchelor investigates how women thought about their literary labors and how these perceptions evolved over the course of the century. Both books seek to augment traditionally male-centered literary history and to provide new ways of understanding the contribution of gender to the construction of the novel. -- Highlighted Apr 21, 2017
+
+Page 3
+In the decades during which Smith was writing, Batchelor reminds us, literary careers were being professionalized (as can be seen in debates over copyright and the rise of literary reviews) as well as masculinized. Smith’s response to this cultural shift was to emphasize in her prefaces, footnotes, and semi-autobiographical plots the domestic labor that “both occasioned and impeded her literary career” (91), and to insist upon what hard work it all was.
+
+Page 4
+Batchelor’s careful tracking of the way in which the discourse of literary authorship came to reinforce the social constructions of gender will help us to historicize what we know about women writers, and to reinterpret what they said about their authorial labors. 
+</Text>
         </Document>
         <Document ID="31">
             <Title>Baker</Title>
@@ -255,6 +407,9 @@ Enormous interlude on Fanny Burney, who “provides an interlude of natural come
 
 “The sources of Gothic romance… are to be sought in the popular variant of the fiction of sensibility evolved by the Abbé Prévost and elaborated later on by Baculard d’Arnaud. The exciting adventures, the violent emotions, the gloomy scenes, forests, and antres, castles, dungeons, and graveyards, in the abbé’s novels and the plays and stories of Baculard, were to be the distinctive features of Gothic romance throughout its course. It was all a derivative of the cult of emotion” (Baker 175)
 “Some novelists sought only to conjure up a witching atmosphere of awe and vague apprehension; others employed the most violent shocks of physical anguish and fear. They all dabbled in the supernatural, either playing upon or playing with feelings of superstition; and, later on, those who had become acquainted with German folk-lore and its ghosts and elves and goblins found their account in satiating the greediest appetites for crime, diabolism, and nameless horrors.” (Baker 176)</Text>
+        </Document>
+        <Document ID="99">
+            <Title>what is my POINT, here?</Title>
         </Document>
         <Document ID="32">
             <Title>McIntyre</Title>
