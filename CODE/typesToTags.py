@@ -48,7 +48,7 @@ with open('gothicTypes.csv', 'rb') as f:
             words = row[6].split() # gives me a list of strings
             for word in words:
                 cellnumber = allwords.index(word)
-                outrow[cellnumber+1] = word
+                outrow[cellnumber+2] = word
             outcsv.writerow(outrow)
 
 
