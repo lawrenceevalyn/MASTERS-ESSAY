@@ -5,59 +5,50 @@
 
 # import libraries
 import csv
-from shutil import copyfile
+
+# stuff to hold things in
+allwordsdict = dict()
+
+# find all the unique tags and put them in the dict allwords
+with open('gothicTypes.csv', 'rb') as f:
+    reader = csv.reader(f)
+    for row in reader:
+        if row[5] == "Frank":
+            pass # ignore the first row
+        else:
+            words = row[6].split() # gives me a list of strings
+            for word in words:
+                if word not in allwordsdict:
+                    allwordsdict.update({word:1})
+                    # it will all appear as {'Parody':1, 'Gothic':1, etc}
 
 
-# things to store stuff in
+# convert allwords dict to list
+allwords = list(allwordsdict.keys())
+numwords = len(allwords)
+
+print allwords
+print numwords
+
+# make the output file with a column for Frank, then columns for each tag
+outfile = open('gothicTags.csv', 'wb')
+outcsv = csv.writer(outfile, quoting=csv.QUOTE_ALL)
+outcsv.writerow(["Frank"]+allwords)
+
+# populate the tag columns
+with open('gothicTypes.csv', 'rb') as f:
+    reader = csv.reader(f)
+    for row in reader:
+        if row[5] == "Frank":
+            pass # ignore the first row
+        else:
+            FrankNo = row[5] # find the book's Frank number
+            outrow = [FrankNo] + [None]*numwords
+            words = row[6].split() # gives me a list of strings
+            for word in words:
+                cellnumber = allwords.index(word)
+                outrow[cellnumber+1] = word
+            outcsv.writerow(outrow)
 
 
-# get all the columns of the csv as a list of lists
-f = csv.reader(open('testGothicTypes.csv'))
-column_tuples = zip(*f) # gets a list of tuples
-    # http://ask.metafilter.com/142871/Columnoriented-CSV-in-Python
-    # can determine number of columns with len(columns)
-    # can get a tuple of all gothic types with columns[6]
-
-columns = [list(elem) for elem in column_tuples] # converts to list of lists
-    # http://stackoverflow.com/questions/14831830/convert-a-list-of-tuples-to-a-list-of-lists
-
-
-# this function will make sure there is a column for each tag,
-# and tally the use of that tag in the rows
-def tagcounter(tag): # takes in a string
-#    if tag == "Type":
-#        print "skipping the tag 'Type'"
-#    else:
-        print "now running " + tag + " through the tagcounter:"
-        # if there is a column whose header matches the tag,
-        # add the tag to the end of the column
-        for column in columns:
-            if column[0] == tag: # is the problem here?????
-                print tag + " matches " + column[0]
-                column.append(tag)
-                print "now the column is:"
-                print column
-        # in all the other columns, add a blank space
-            else:
-                print tag + " doesn't match " + column[0]
-                column.append('')
-        # if the tag didn't find a column, make one
-        # create a column whose name is the word
-        # put a 1 in that column for the row
-
-
-# actually run the program to do the thing
-for type in columns[6]: # for each string in the "Types" list
-    print type
-    tags = type.split() # split the string at spaces to make the tags
-    print tags
-    for tag in tags:
-        print tag
-        tagcounter(tag)
-
-
-# output the new csv
-#    copyfile('testGothicTypes.csv', 'testGothicTags.csv')
-#    with open('testGothicTags.csv', 'rt') as f:
-#        writer = csv.writer(f)
-#        for row in writer:
+# scan again to populate all the columns
