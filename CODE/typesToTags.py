@@ -33,7 +33,7 @@ print numwords
 # make the output file with a column for Frank, then columns for each tag
 outfile = open('gothicTags.csv', 'wb')
 outcsv = csv.writer(outfile, quoting=csv.QUOTE_ALL)
-outcsv.writerow(["Frank"]+allwords)
+outcsv.writerow(["gender"] + ["Frank"] + allwords)
 
 # populate the tag columns
 with open('gothicTypes.csv', 'rb') as f:
@@ -43,7 +43,8 @@ with open('gothicTypes.csv', 'rb') as f:
             pass # ignore the first row
         else:
             FrankNo = row[5] # find the book's Frank number
-            outrow = [FrankNo] + [None]*numwords
+            gender = row[1]
+            outrow = [gender] + [FrankNo] + [None] + [None]*numwords
             words = row[6].split() # gives me a list of strings
             for word in words:
                 cellnumber = allwords.index(word)
