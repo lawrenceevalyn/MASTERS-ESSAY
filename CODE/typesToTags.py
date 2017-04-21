@@ -27,8 +27,10 @@ with open('gothicTypes.csv', 'rb') as f:
 allwords = list(allwordsdict.keys())
 numwords = len(allwords)
 
-print allwords
+print allwords # all the words ARE correct at this point
 print numwords
+
+#something after this point doesn't work
 
 # make the output file with a column for Frank, then columns for each tag
 outfile = open('gothicTags.csv', 'wb')
