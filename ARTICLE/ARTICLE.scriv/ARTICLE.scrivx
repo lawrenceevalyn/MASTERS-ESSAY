@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-21 14:22:27 -0400" ModID="61D96DB1-E410-4613-9D74-A3DAB55081CA">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-21 16:19:15 -0400" ModID="525ED6B7-A10C-458E-A413-2F80514B405F">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -18,7 +18,7 @@
                         <TextSelection>656,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="28" UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-17 20:26:46 -0400">
+                <BinderItem ID="28" UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-21 15:57:06 -0400">
                     <Title>title</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -40,6 +40,17 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="101" UUID="A134881E-F27B-4CE7-8B92-03B0A6BC871A" Type="Text" Created="2017-04-21 15:57:28 -0400" Modified="2017-04-21 15:57:38 -0400">
+                            <Title>introduction</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="14" UUID="107AFE45-20D7-4220-BAE2-1EF5363E4B54" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-17 20:24:39 -0400">
                             <Title>lit review: female gothic</Title>
                             <MetaData>
@@ -130,7 +141,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="52" UUID="D06A0286-0247-4C4C-BBE1-4C8C9A393908" Type="Text" Created="2017-04-17 22:05:28 -0400" Modified="2017-04-18 23:17:44 -0400">
+                        <BinderItem ID="52" UUID="D06A0286-0247-4C4C-BBE1-4C8C9A393908" Type="Text" Created="2017-04-17 22:05:28 -0400" Modified="2017-04-21 15:56:30 -0400">
                             <Title>Tracy values uniqueness</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -138,7 +149,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>85,0</TextSelection>
+                                <TextSelection>376,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="53" UUID="0DAD46A7-F1B7-4086-8D54-CB86602EDBCD" Type="Text" Created="2017-04-17 22:17:36 -0400" Modified="2017-04-18 23:17:44 -0400">
@@ -467,6 +478,17 @@
                 </BinderItem>
                 <BinderItem ID="85" UUID="233EAC41-4704-4C06-A0EA-4B772133B72A" Type="Text" Created="2017-04-21 04:21:20 -0400" Modified="2017-04-21 04:21:25 -0400">
                     <Title>do genre-types converge over time?</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="102" UUID="26F25B0D-9970-459B-8173-0E769AC0F443" Type="Text" Created="2017-04-21 16:16:03 -0400" Modified="2017-04-21 16:19:15 -0400">
+                    <Title>what about the Garside???</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -924,8 +946,8 @@
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-04-22 02:21:51 -0400" IgnoreDeadline="No">6650</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">2309</SessionTarget>
-        <PreviousSession Words="0" Characters="2" Date="2017-04-21 07:27:17 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">6650</SessionTarget>
+        <PreviousSession Words="42" Characters="289" Date="2017-04-21 15:43:30 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

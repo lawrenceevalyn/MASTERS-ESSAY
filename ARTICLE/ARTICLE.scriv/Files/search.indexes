@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="39">
-            <Title>mention German origin early</Title>
-            <Text>[It’s commonplace to define the Gothic’s origin in German ghost stories — CITE SEVERAL EXAMPLES. Accordingly, it makes sense to begin an investigation of the Gothic by looking at its machinery: the skeletons and skulls, mysterious voices and prophetic dreams.]</Text>
+        <Document ID="53">
+            <Title>my model of Tracy</Title>
+            <Text>I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs indicate a Male Gothic defined by largely the things we would expect men to dominate.</Text>
+            <Comments>Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts. 
+I interpret a motif to be “distinctly male” if 60% or more of its authors are male.</Comments>
         </Document>
         <Document ID="61">
             <Title>Frank values context</Title>
@@ -192,22 +194,6 @@ Love and luck, 
         <Document ID="8">
             <Title>Stray Thoughts</Title>
         </Document>
-        <Document ID="78">
-            <Title>???</Title>
-        </Document>
-        <Document ID="9">
-            <Title>Abstract outline</Title>
-            <Text>Humanities journals are less likely to publish abstracts, but they are still a useful tool in thinking through your article and getting it through the peer review process. In the humanities, published abstracts often tend to omit information on the methodology or findings. The order of information also tends to be looser than in social science abstracts. The basic ingredients of a solid abstract in the humanities can include the following. 
-	•	Context-that is, information on the historical period, the geographic region, the social conditions surrounding the human creations being investigated 
-	•	Subject-the literary or artistic works being discussed, their creators and dates 
-	•	Claim for significance-announcement about the uniqueness of the subject or your approach to it 
-	•	Theoretical framework-often more suggested than stated, the theory you are using to discuss the subject, such as feminist or psychoanalytic approaches
-	•	Argument-what your analysis of the subject revealed about the subject, current approaches to the subject, or society
-	•	Proofs-your evidence for your argument about the subject, or the elements of the subject that you analyze (such as textual passages) </Text>
-        </Document>
-        <Document ID="85">
-            <Title>do genre-types converge over time?</Title>
-        </Document>
         <Document ID="92">
             <Title>2013 Alex Wetmore, Men of Feeling in Eighteenth-Century</Title>
             <Text>Alex Wetmore, Men of Feeling in Eighteenth-Century Literature: Touching Fic- 
@@ -226,6 +212,22 @@ tion (Basingstoke, UK: Palgrave, 2013)
 p.40: By blurring the lines separating men of feeling from feeling machines, these canonical sentimental novels stand in contrast to writing from the earlier part of the century, in which the realms of sensibility and technology were typically represented as distinct -- Highlighted Apr 21, 2017
 p.40:  (1) the man of feeling’s hyper-reactive sensibilities raise questions not only about the stability of gender, as Wahrman argues, but also about the stability and certainty of eighteenth-century boundaries between humans and machines -- Highlighted Apr 21, 2017
 p.40: 2) perhaps more importantly, the porous borders between men of feeling and feeling machines point to important shifts in the relationship between the mechanical and the virtuous. This, in turn, provides a new understanding of how the culture of sensibility both engages with and resists the hegemonic discourse of civic humanism -- Highlighted Apr 21, 2017</Text>
+        </Document>
+        <Document ID="78">
+            <Title>???</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Abstract outline</Title>
+            <Text>Humanities journals are less likely to publish abstracts, but they are still a useful tool in thinking through your article and getting it through the peer review process. In the humanities, published abstracts often tend to omit information on the methodology or findings. The order of information also tends to be looser than in social science abstracts. The basic ingredients of a solid abstract in the humanities can include the following. 
+	•	Context-that is, information on the historical period, the geographic region, the social conditions surrounding the human creations being investigated 
+	•	Subject-the literary or artistic works being discussed, their creators and dates 
+	•	Claim for significance-announcement about the uniqueness of the subject or your approach to it 
+	•	Theoretical framework-often more suggested than stated, the theory you are using to discuss the subject, such as feminist or psychoanalytic approaches
+	•	Argument-what your analysis of the subject revealed about the subject, current approaches to the subject, or society
+	•	Proofs-your evidence for your argument about the subject, or the elements of the subject that you analyze (such as textual passages) </Text>
+        </Document>
+        <Document ID="85">
+            <Title>do genre-types converge over time?</Title>
         </Document>
         <Document ID="86">
             <Title>Something about the maddening idiosyncrasies of qualitative</Title>
@@ -408,6 +410,9 @@ Enormous interlude on Fanny Burney, who “provides an interlude of natural come
 “The sources of Gothic romance… are to be sought in the popular variant of the fiction of sensibility evolved by the Abbé Prévost and elaborated later on by Baculard d’Arnaud. The exciting adventures, the violent emotions, the gloomy scenes, forests, and antres, castles, dungeons, and graveyards, in the abbé’s novels and the plays and stories of Baculard, were to be the distinctive features of Gothic romance throughout its course. It was all a derivative of the cult of emotion” (Baker 175)
 “Some novelists sought only to conjure up a witching atmosphere of awe and vague apprehension; others employed the most violent shocks of physical anguish and fear. They all dabbled in the supernatural, either playing upon or playing with feelings of superstition; and, later on, those who had become acquainted with German folk-lore and its ghosts and elves and goblins found their account in satiating the greediest appetites for crime, diabolism, and nameless horrors.” (Baker 176)</Text>
         </Document>
+        <Document ID="101">
+            <Title>introduction</Title>
+        </Document>
         <Document ID="99">
             <Title>what is my POINT, here?</Title>
         </Document>
@@ -428,6 +433,12 @@ Manuscripts should not exceed 7,500 words, including notes. Style must conform t
             <Title>Frow</Title>
             <Text>Frow, John. Genre. London and New York: Routledge, 2006. Print.
 	This book’s central task is the reframing of the text-genre relationship, arguing that texts “do not ‘belong’ to genres but are, rather, uses of them” (2). Genres function by “mediat[ing] between a social situation” of a reader embedded in real and literary contexts, “and the text which realises certain features of this situation, or which responds strategically to its demands” (14). Rather than reading genre simply to categorize “where a text ‘belongs,’” Frow argues, “we read… for those layers of background knowledges that texts evoke” through their genre relationships, which allow an assessment of “which types of meaning are appropriate and relevant,” and therefore how the text can be made to make sense (101). Frow concludes that “what we learn, in ‘doing’ genre (in performing and transforming it) is the values we share or don’t share with others and the means with which to challenge or defend them” (144).</Text>
+        </Document>
+        <Document ID="102">
+            <Title>what about the Garside???</Title>
+            <Text>It’s an ASTONISHING bibliography but not at all qualitative
+Provides a foundation for future inquiry
+Though really I should use it as my backbone for all my othe databases / correlations…</Text>
         </Document>
         <Document ID="41">
             <Title>email reply</Title>
@@ -462,7 +473,7 @@ Just as her rational explanations allowed Radcliffe to incorporate empowering my
         </Document>
         <Document ID="28">
             <Title>title</Title>
-            <Text>Reading Gender and Genre from a Distance: Detangling Binaries in the Eighteenth-Century Gothic</Text>
+            <Text>[Surface-reading Gothic bibliographies]</Text>
         </Document>
         <Document ID="50">
             <Title>introduction</Title>
@@ -560,7 +571,7 @@ In della Volpe’s work, “to attempt a socio-historical paraphrase is to exper
         </Document>
         <Document ID="52">
             <Title>Tracy values uniqueness</Title>
-            <Text>[First, let us examine Tracy’s model, as implicit in her ten-page ‘Index to Motifs’.] Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. It is clearly built for a different kind of scholarly use than that which I have made of it; it is intended for “scholars with particular interests”, who wish to locate and read books containing individual story elements, such as “doppelganger” or “garden as scene of temptation”. Accordingly, Tracy prioritizes presenting a wide range of distinctive individuals motifs rather than those that constitute the norm. Indeed, the most popular motifs were intentionally excluded: “the abundance of murders,” she says, “argued for the retention… of specialized murders only,” and castles have similarly been ingored. In addition to the motifs, Tracy provides a plot summary of each novel. Her summaries, too, emphasize distinctive details, pointing out things like “a particularly interesting Satan, with molten insides”. Tracy’s model of the Gothic is sensitive to uniqueness. It treats each novel as a collection of discrete elements, only one of which is likely to be of interest to a given scholar. The motifs themselves — Satans, murders, doppelgangers, gardens — thus become the stable objects of study, which must be examined through the filter of individual novels.</Text>
+            <Text>[First, let us examine Tracy’s model] [Tracy’s bibliography, published in 1981, indexes 208 novels, X by women, X by men, and X unknown.] [Her selection methods are not systematic; rather, having travelled to a range of archives to examine works with promising titles which turned out not to contain any demons, .]  [Tracy’s most unusual qualitative bibliographical work is in her ten-page ‘Index to Motifs’.] Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. It is clearly built for a different kind of scholarly use than that which I have made of it; it is intended for “scholars with particular interests”, who wish to locate and read books containing individual story elements, such as “doppelganger” or “garden as scene of temptation”. Accordingly, Tracy prioritizes presenting a wide range of distinctive individuals motifs rather than those that constitute the norm. Indeed, she intentionally excluded the most popular motifs: “the abundance of murders,” she says, “argued for the retention… of specialized murders only,” and castles have similarly been ingored. In addition to the motifs, Tracy provides a plot summary of each novel. Her summaries, too, emphasize distinctive details, pointing out things like “a particularly interesting Satan, with molten insides”. Tracy’s model of the Gothic is sensitive to uniqueness. It treats each novel as a collection of discrete elements, only one of which is likely to be of interest to a given scholar. The motifs themselves — Satans, murders, doppelgangers, gardens — thus become the stable objects of study, which must be examined through the filter of individual novels.</Text>
             <Comments>cite Tracy 195
 cite tracy 195
 cite tracy 74</Comments>
@@ -600,15 +611,6 @@ It is not that such matters as redemptive world views and Marxist readings of te
 Algorithmic criticism undoubtedly requires a revolution of sorts, but that revolution is not one of new procedures and methods in contradistinction to the old ones. Algorithmic criticism seeks a new kind of audience for text analysis — one that is less concerned with fitness of method and the determination of interpretive boundaries, and one more concerned with evaluating the robustness of the discussion that a particular procedure annunciates. Such an audience exists, of course, and has existed for the better part of a century in the general community of literary critics from which text analysis has often found itself exiled. For this reason, text analysis practitioners should view the possibility of such a revolution as both welcome and liberating —not a critique of their methods, but a bold vote of confidence in the possibilities they hold.
 </Text>
         </Document>
-        <Document ID="60">
-            <Title>Sentimental geneaology</Title>
-        </Document>
-        <Document ID="53">
-            <Title>my model of Tracy</Title>
-            <Text>I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs indicate a Male Gothic defined by largely the things we would expect men to dominate.</Text>
-            <Comments>Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts. 
-I interpret a motif to be “distinctly male” if 60% or more of its authors are male.</Comments>
-        </Document>
         <Document ID="46">
             <Title>good stuff on critical frameworks</Title>
             <Text>Critical Frameworks 
@@ -634,6 +636,13 @@ My own modeling framework is informed by all of these. My key ideas are sensitiv
 Lawrence Evalyn 7 
 bibliography amplifies Tracy’s and Frank’s choices, allowing me to see whether their distinctions are fruitful, and whether their results accord with our expectations. 
 </Text>
+        </Document>
+        <Document ID="39">
+            <Title>mention German origin early</Title>
+            <Text>[It’s commonplace to define the Gothic’s origin in German ghost stories — CITE SEVERAL EXAMPLES. Accordingly, it makes sense to begin an investigation of the Gothic by looking at its machinery: the skeletons and skulls, mysterious voices and prophetic dreams.]</Text>
+        </Document>
+        <Document ID="60">
+            <Title>Sentimental geneaology</Title>
         </Document>
     </Documents>
 </SearchIndexes>
