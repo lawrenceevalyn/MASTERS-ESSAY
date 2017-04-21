@@ -7,8 +7,8 @@
 import csv
 
 # stuff to hold things in
-allwordsdict = dict() # using dicts first to collect unique types and words
-alltypesdict = dict() # then they get made into lists
+allwordsdict = dict()    # using dicts first to collect unique types and words
+alltypesdict = dict()    # then they get made into lists later
 infileName = "gothicTypes.csv"
 outfileName = "gothicTagsNew.csv"
 
@@ -16,7 +16,7 @@ outfileName = "gothicTagsNew.csv"
 with open(infileName, 'rb') as f:
     reader = csv.reader(f)
     for row in reader:
-        if row[5] == "Frank": # if it's the first row (can check any row[#])
+        if row[5] == "Frank": # if it's the first row,    (can check any row[#])
             pass # ignore the first row
         else:
             if row[6] not in alltypesdict: # row[6] is the full Type as a string
@@ -68,15 +68,14 @@ with open(infileName, 'rb') as f:
             gender = "" 
         else:
             rowWords = row[6].split() # gives me a list of strings
-            rowList = []
             for word in allwords:
                 if word in rowWords:
-                    rowList.append(word)
-                else:
-                    rowList.append("")
+                    rowList.append(word)   # I don't care if Brian doesn't want
+                else:                      # me to append this stuff to a list;
+                    rowList.append("")     # this makes sense to me!!
         
         # append that book's new row!
-        with open(outfileName, 'a') as f: # was the secret to open as 'a'???
+        with open(outfileName, 'a') as f: # the secret was to open as 'a'!!!
             writer = csv.writer(f)
             writer.writerow([gender] + [FrankNo] + rowList) # ADDS THEM ALL!!!
             # this will also write the first row, with "Frank", but that's fine
