@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-21 16:19:15 -0400" ModID="525ED6B7-A10C-458E-A413-2F80514B405F">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-22 02:41:16 -0400" ModID="D9E80BF6-9546-43CC-8A30-9D0EC0C76855">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -18,7 +18,7 @@
                         <TextSelection>656,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="28" UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-21 15:57:06 -0400">
+                <BinderItem ID="28" UUID="B7A345B7-DF64-4E0B-8047-68209EBFF871" Type="Text" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-21 16:38:47 -0400">
                     <Title>title</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -40,8 +40,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="101" UUID="A134881E-F27B-4CE7-8B92-03B0A6BC871A" Type="Text" Created="2017-04-21 15:57:28 -0400" Modified="2017-04-21 15:57:38 -0400">
-                            <Title>introduction</Title>
+                        <BinderItem ID="101" UUID="A134881E-F27B-4CE7-8B92-03B0A6BC871A" Type="Text" Created="2017-04-21 15:57:28 -0400" Modified="2017-04-21 16:33:35 -0400">
+                            <Title>I don't care about normal bib data</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -61,6 +61,19 @@
                             <TextSettings>
                                 <TextSelection>1240,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="104" UUID="EB104124-1DBF-485C-A22A-1A8994270AA4" Type="Text" Created="2017-04-22 00:22:43 -0400" Modified="2017-04-22 00:22:55 -0400">
+                                    <Title>cite Barbara Benedict</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="42" UUID="F934A752-166F-4268-953F-E8DCE5CEA48A" Type="Text" Created="2017-04-15 00:07:23 -0400" Modified="2017-04-17 19:57:36 -0400">
                             <Title>what I do</Title>
@@ -125,7 +138,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>113,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -465,6 +478,17 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="105" UUID="468898DE-69C2-4BDF-9D17-4ED369C8F076" Type="Text" Created="2017-04-22 00:55:33 -0400" Modified="2017-04-22 00:55:46 -0400">
+                    <Title>what if I tried to correct Trady &amp; Frank statistically, based on Garside?</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="84" UUID="C4D39FBB-CFC3-46E6-B06A-6D1249B9EE7D" Type="Text" Created="2017-04-21 03:54:20 -0400" Modified="2017-04-21 04:19:56 -0400">
                     <Title>data on authors</Title>
                     <MetaData>
@@ -495,7 +519,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>494,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="99" UUID="89982AC9-3EB0-484D-8113-1CEC7DD91026" Type="Text" Created="2017-04-21 07:16:36 -0400" Modified="2017-04-21 07:16:41 -0400">
@@ -540,6 +564,17 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>592,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="111" UUID="C2B1D797-F4EA-4005-B084-7E368304C0DA" Type="Text" Created="2017-04-22 01:37:43 -0400" Modified="2017-04-22 01:37:55 -0400">
+                            <Title>QUALITATIVE BIBLIOGRAPHY</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -860,6 +895,108 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem ID="107" UUID="51EAD3C4-4D30-4FBB-8C01-2854583AAB7C" Type="Text" Created="2017-04-22 01:10:29 -0400" Modified="2017-04-22 01:16:12 -0400">
+                            <Title>1987 James Raven, British Fiction 1750-1770 A Chronological Check-List of Prose Fiction Printed in Britain and IrelandJAMES RAVEN, British Fiction 1750-1770 A Chronological Check-List of Prose Fiction Printed in Britain and Ireland. University of Delaware Press, Newark, 1987. 349 pp. £27.50. ISBN 087413 3246.</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5980,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="8895EF1A-47E4-4AD4-AB87-327158874A88" Type="Text" Created="2017-04-22 00:10:26 -0400" Modified="2017-04-22 00:10:36 -0400">
+                            <Title>Garside</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="112" UUID="B0ECD8EB-CCD7-402B-AFE7-231B512BECEF" Type="Text" Created="2017-04-22 02:31:20 -0400" Modified="2017-04-22 02:36:46 -0400">
+                                    <Title>my assessment of Garside</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1274,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="113" UUID="E6D5075D-B9EA-4D93-ACD7-3586909097B6" Type="Text" Created="2017-04-22 02:32:49 -0400" Modified="2017-04-22 02:36:46 -0400">
+                                            <Title>the sentimental &amp; the Gothic</Title>
+                                            <MetaData>
+                                                <LabelID>2</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2416,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                        <BinderItem ID="114" UUID="7E4B0590-8D37-4356-8BF7-50E8E800F406" Type="Text" Created="2017-04-22 02:35:14 -0400" Modified="2017-04-22 02:40:44 -0400">
+                                            <Title>histories of the novel</Title>
+                                            <MetaData>
+                                                <LabelID>2</LabelID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>1586,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="110" UUID="79C30327-80D7-4E96-A04C-6AB3E8657A25" Type="Text" Created="2017-04-22 01:33:00 -0400" Modified="2017-04-22 02:32:48 -0400">
+                                    <Title>2016 Garside Ordering’ Novels: Describing Prose Fiction, 1770–1832</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>16344,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="108" UUID="573625D3-5390-4663-B7C8-016E88C689BF" Type="Text" Created="2017-04-22 01:17:55 -0400" Modified="2017-04-22 02:37:58 -0400">
+                                    <Title>2015 Garside English and British Fiction 1750–1820. Ed. by Peter Garside and Karen O’Brien. (The Oxford History of the Novel in English, 2.) Oxford: Oxford University Press. 2015. 668 p. £95. isbn 978 0 19 957480 3</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7299,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="109" UUID="60B9B665-98BE-4B7C-A800-9B1AED4DD757" Type="Text" Created="2017-04-22 01:28:55 -0400" Modified="2017-04-22 01:32:32 -0400">
+                                    <Title>2005 Garside J. F. Hughes and the Publication of Popular Fiction, 1803-1810</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3135,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="106" UUID="F83B34AC-7B02-4047-B2F2-981C1E9AABFC" Type="Text" Created="2017-04-22 01:04:07 -0400" Modified="2017-04-22 01:11:27 -0400">
+                                    <Title>2000 Garside The English Novel, 1770–1829: A Bibliographical Survey</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3901,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem ID="82" UUID="2BD6BC21-A7A9-4595-8E5E-DFF524A7EE48" Type="Text" Created="2017-04-19 03:07:57 -0400" Modified="2017-04-19 03:08:04 -0400">
@@ -947,7 +1084,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-04-22 02:21:51 -0400" IgnoreDeadline="No">6650</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">6650</SessionTarget>
-        <PreviousSession Words="42" Characters="289" Date="2017-04-21 15:43:30 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-22 01:03:58 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
