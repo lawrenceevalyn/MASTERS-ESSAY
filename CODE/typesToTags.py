@@ -10,7 +10,7 @@ import csv
 allwordsdict = dict()    # using dicts first to collect unique types and words
 alltypesdict = dict()    # then they get made into lists later
 infileName = "gothicTypes.csv"
-outfileName = "gothicTagsNew.csv"
+outfileName = "gothicTags.csv"
 
 # find all the unique types and tags and put them in dicts
 with open(infileName, 'rb') as f:
@@ -36,7 +36,9 @@ allwords = list(allwordsdict.keys())
 numwords = len(allwords)
 
 # allwords.append("LASTWORD")    # these can be useful for checking things
-# alltypes.append("LASTTYPE")    # if everything is broken
+alltypes.append("LASTTYPE")    # if everything is broken
+numtypes = len(alltypes)
+
 
 # give some feedback so we know the program is running
 print "words found:"
