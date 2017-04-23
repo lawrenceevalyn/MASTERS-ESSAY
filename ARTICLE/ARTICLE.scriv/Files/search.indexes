@@ -301,7 +301,7 @@ When Godwin read Emma Courtney in draft and urged Hays to beef up its love story
 </Text>
         </Document>
         <Document ID="128">
-            <Title>lit review: I'm not reading Garside's bib</Title>
+            <Title>lit review: bibliographies</Title>
             <Text>[Garside’s bib would be the obvious choice here. It’s aptly called “AMAZING” (CITE) for how amazing it is.] [But Garside isn’t so interested in the qualitative.] [He emphasizes “the full title given to the work, the imprint of the original publisher(s), and unmediated information as to how authorship was first signified”] [He’s interested in “the ways in which novels were first projected at their readers” (CITE)] [The key editorial intervention is the inclusion of contemporary reviews (also The notes include information about dedicatees, issue variations, subscription lists, included advertisements, subsequent editions, translations, and attributions?)] [Instead of Garside, I am using Ann Tracy and Frederick Frank.] [Both of these bibliographies are old and their basic title, publisher, etc, info is surely duplicated in Gardside] [But both also offer substantial qualitative descriptions of the works they list, including summaries of their contents.] [Ann Tracy indexes 208 works from the years 1753-1857, of which 103 are by female authors, 95 by male, and only 10 unknown.] [Frederick Frank indexes 499 works published in the years 1753 to 1835 (with one outlier by Beckford not published until 1912)]. [215 of Frank’s authors are female, 156 male, and 128 unknown.] [Because Frank does not include all of the works included by Tracy, only 178 works are indexed in both texts.] [Both show substantially higher counts of female authorship, and lower counts of anonymous authorship, than were typical of novels as a whole] [This might be selection bias or it might reflect more underlying reality than expected to the period’s assumption that women wrote Gothics; this paper won’t answer that question, but will statistically normalize raw book counts] [Transition sentence; reiterate the question I am trying to answer - did men and women write differently?]</Text>
         </Document>
         <Document ID="89">
@@ -670,6 +670,10 @@ Enormous interlude on Fanny Burney, who “provides an interlude of natural come
 “The sources of Gothic romance… are to be sought in the popular variant of the fiction of sensibility evolved by the Abbé Prévost and elaborated later on by Baculard d’Arnaud. The exciting adventures, the violent emotions, the gloomy scenes, forests, and antres, castles, dungeons, and graveyards, in the abbé’s novels and the plays and stories of Baculard, were to be the distinctive features of Gothic romance throughout its course. It was all a derivative of the cult of emotion” (Baker 175)
 “Some novelists sought only to conjure up a witching atmosphere of awe and vague apprehension; others employed the most violent shocks of physical anguish and fear. They all dabbled in the supernatural, either playing upon or playing with feelings of superstition; and, later on, those who had become acquainted with German folk-lore and its ghosts and elves and goblins found their account in satiating the greediest appetites for crime, diabolism, and nameless horrors.” (Baker 176)</Text>
         </Document>
+        <Document ID="143">
+            <Title>outdated Frank info</Title>
+            <Text>The more-popular terror mode is non-gendered (X% female, X% male), while the horror mode tends toward male authorship (X% male). However, of those X novels tagged as horror, X were also tagged as terror, leaving a mere X books are pure “horror mode.” If we attempt to treat the two modes as mutually-exclusive, seaparating out the “horror-terror” mixed-mode books as a third mode, our gendered expectations fall apart: the X pure-horror books are precisely split between male and female authors. Instead, it is the horror-terror mode which is most predictive of male authorship (X% male). [It seems, then, that although the relative prominence of the two modes accords with our expectations based on Tracy’s, the critical identification of terror and horror does not have a basis in gendered patterns of use. ???]</Text>
+        </Document>
         <Document ID="32">
             <Title>McIntyre</Title>
             <Text>“Most critics who have given any attention to Mrs. Radcliffe as a novelist have decided that she is important chiefly for her use of the supernatural, and for her emphasis upon landscape. Although she is, indeed, a pioneer in both these fields, it has seemed to me that, after all, her most important contribution is a matter not of theme, but of structure.” (McIntyre 77)
@@ -689,6 +693,18 @@ I definitely don’t want to undertake definition through individual monumental 
 Implicitly I see the Gothic defined as “stuff that other people looked at and thought was Gothic enough to jot down” — and I see the next step to be seeking continuities within the works and connections/“synergies” between the criticism. 
 (I DEFINITELY need to combine Frank &amp; Tracy to get at this point though — e.g., what motifs are most predictive of the sentimental? Of horror? What kinds of stories have subterannean passages?) — I can do that with pivot tables in Google Sheets</Text>
         </Document>
+        <Document ID="144">
+            <Title>unsigned authors</Title>
+            <Text>We also have to pay attention, now, to the many “unsigned” authors.
+
+chap/bluebook (78): 13f 12m 53u, 		28 more u  68%u
+plagiarism / abridgement (9) 1f 0m 8u,	 7 more u  88%u
+shilling (5) 0f 0m 5u, 				 5 more u 100%u
+novella/ette (3) 0f 0m 3u,			 3 more u 100%u
+Reeve (6) 1f 1m 4u				 2 more u  66%u
+serialized (9) 2f 1m 6u			 3 more u  66%u
+thriller (2) 0f 0m 2u				 2 more u 100%u</Text>
+        </Document>
         <Document ID="33">
             <Title>Frow</Title>
             <Text>Frow, John. Genre. London and New York: Routledge, 2006. Print.
@@ -706,6 +722,10 @@ Implicitly I see the Gothic defined as “stuff that other people looked at and 
         <Document ID="101">
             <Title>thesis: my bibs have thin description</Title>
             <Text>[This paper emphasizes the continuities between newfangled computational approaches to literature and the most traditional/old-fashioned literary research, archival bibliographical research] [Heather Love turns to sociological microanalysis as a model for 'thin description' close-but-not-deep reading methods … I propose (qualitative computational modelling?) as another method which seeks the same goals] [[Love emphasizes thin description as not just “fine-grained” but “exhaustive” (and possibly exhausting) (CITE Love Thin 404)] but with the reward that “one could—at least ideally—pay equal attention to every aspect of a scene that is available to the senses and record it faithfully” (Love Thin 407)]  [I add to this that good descriptions offer themselves up for reuse and recombination, by rendering somehow graspable that which they describe] [Love says that “Good descriptions are in a sense rich, but not because they truck with imponderables … They are close, but they are not deep; rather than adding anything “extra” to the description, they account for the real variety that is already there.  (Love 377)”] [It is the work of accounting for real variety that both bibliography and computation demand: the systems/models must have a way to cope with odd cases] [I use computational interventions to interrogate the literary models represented in two older bibliographies] [In so doing, I argue, I demonstrate the utility of qualitative description for the field, a promising avenue toward revisiting older scholarships / maintaining / re-forging connections with the work that has come before] [I also seek to bridge the gap between historical and aethetic attempts to study the Gothic in the late 18thC]</Text>
+        </Document>
+        <Document ID="145">
+            <Title>men's Gothic</Title>
+            <Text>Frank’s model shows a similar men’s Gothic to Tracy’s: Germanic, horror, The Monk. Interestingly, the very minor thread of polemical fiction is also fairly male - much more so than the assessment “didactic”</Text>
         </Document>
         <Document ID="35">
             <Title>Price</Title>
@@ -771,6 +791,11 @@ The conception of modeling I have developed here on the basis of practice in the
 
  We must beware that we do not pervert our wheels of logic into "symbols of objective mastery" over ourselves but use them to identify what they cannot compute. Their failures and every other well-crafted error we make are exactly the point, so that (now to quote the Bard precisely) we indeed are "Minding true things by what their mock'ries be" (Henry V iv.53).
 </Text>
+        </Document>
+        <Document ID="146">
+            <Title>Frank hates defining</Title>
+            <Text>A lot of the tags have to do with Frank offering qualifications of some kind (mode, effects, Gothified, imitation).
+Things mostly come from other places</Text>
         </Document>
         <Document ID="41">
             <Title>email reply</Title>
@@ -853,6 +878,15 @@ It is not that such matters as redemptive world views and Marxist readings of te
 Algorithmic criticism undoubtedly requires a revolution of sorts, but that revolution is not one of new procedures and methods in contradistinction to the old ones. Algorithmic criticism seeks a new kind of audience for text analysis — one that is less concerned with fitness of method and the determination of interpretive boundaries, and one more concerned with evaluating the robustness of the discussion that a particular procedure annunciates. Such an audience exists, of course, and has existed for the better part of a century in the general community of literary critics from which text analysis has often found itself exiled. For this reason, text analysis practitioners should view the possibility of such a revolution as both welcome and liberating —not a critique of their methods, but a bold vote of confidence in the possibilities they hold.
 </Text>
         </Document>
+        <Document ID="147">
+            <Title>women's Gothic</Title>
+            <Text>Frank also, at last, points us toward a women’s Gothic.
+terror (171) 85f 52m 34u			50%f
+Radcliffean (54) 35f 7m 12u		65%f
+sentimental (66) 51f 5m 10u		77%f
+Interestingly suggests that 18thC critics weren’t entirely wrong when they panicked about women writing sentimental novels
+This didn’t show up in Tracy because it doesn’t operate by identifiable motif (though it also doesn’t contradict Tracy)</Text>
+        </Document>
         <Document ID="43">
             <Title>reasonable to think authoresses are different</Title>
             <Text>[As the name implies, the social role of the “authoress” was distinct from that of the “author”.] [Radcliffe, and many of her female peers, published as “Mrs Radcliffe” rather than using a first name, highlighting her gender of the title page.] [And of course, everybody else thought the genre was by and for women as well.]</Text>
@@ -863,6 +897,9 @@ Algorithmic criticism undoubtedly requires a revolution of sorts, but that revol
         </Document>
         <Document ID="104">
             <Title>Oxford History takes female gothic for granted</Title>
+        </Document>
+        <Document ID="148">
+            <Title>so why do we care that the women's Gothic is sentimental??</Title>
         </Document>
         <Document ID="44">
             <Title>can't ID a genre in isolation</Title>
@@ -1157,7 +1194,7 @@ p.19: In Hughes's output it is possible to trace an accelerating movement, somet
         </Document>
         <Document ID="61">
             <Title>Frank values context</Title>
-            <Text>[Now let’s turn to a bibliography which models the Gothic with completely different priorities, and see how this model overlaps with Tracy’s / whether it shows similar male, female, and neutral Gothic schools.] [Unlike Tracy, Frank is interested in not just what happens, but in how it happens.] His “Critical Synopsis” of each text functions entirely differently from Tracy’s “Plot Summary,” often providing very few plot details in favour of describing the work’s literary borrowings, narrative structure, and historical reception. Unlike Tracy, he includes an assessment of each work’s “Gothic type,” but these “types” are not stable overarching categories: for his 500 texts, Frank provides 309 unique classifications. [His “types” accord with Frow’s understanding of genre; it is impossible to classify each text into the genre to which it “belongs”; instead, Frank describes the generic expectations which each text uses.] His Gothic type for Sophia Lee’s The Recess, for example, labels the novel as “Gothified history (terror and sentimental elements), correcting it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traced systematically — he provides no index or definition of the types themselves. [They are hardly even deterministic: The Mysteries of Ferney Castle is listed twice, once under each of its disputed authors, and receives a different Gothic type in each entry: Pure or high Gothic (terror mode) at entry 188 by Robert Huish, and Gothified history (Radcliffean imitation) at entry 222 by G. Lambe.] Instead, his Gothic types model the Gothic as a shifting history, with each novel as the temporary centre of influences that stretch both forward and backward in time.</Text>
+            <Text>[Now let’s turn to a bibliography which models the Gothic with completely different priorities, and see how this model overlaps with Tracy’s / whether it shows similar male, female, and neutral Gothic schools.] Unlike Tracy, Frank is interested in not just what happens, but in how it happens. His “Critical Synopsis” of each text functions entirely differently from Tracy’s “Plot Summary,” often providing very few plot details in favour of describing the work’s literary borrowings, narrative structure, and historical reception. Unlike Tracy, he includes an assessment of each work’s “Gothic type,” but these “types” are not stable overarching categories: for his 500 texts, Frank provides 309 unique classifications. [His “types” accord with Frow’s understanding of genre; it is impossible to classify each text into the genre to which it “belongs”; instead, Frank describes the generic expectations which each text uses.] His Gothic type for Sophia Lee’s The Recess, for example, labels the novel as “Gothified history (terror and sentimental elements), connecting it simultaneously to the “Gothified history” of William Godwin’s St. Leon, the “terror mode” of Radcliffe’s novels, and the “sentimental Gothic” of Charlotte Dacre’s The Libertine and The Passions. These threads cannot be traced systematically — he provides no index or definition of the types themselves. They are hardly even deterministic: The Mysteries of Ferney Castle is listed twice, once under each of its disputed authors, and receives a different Gothic type in each entry (“Pure or high Gothic (terror mode)” at entry 188 by Robert Huish, and “Gothified history (Radcliffean imitation)” at entry 222 by G. Lambe). Instead, his Gothic types model the Gothic as a shifting history, with each novel as the temporary centre of influences that stretch both forward and backward in time.</Text>
             <Comments>The two bibliographies’ treatments of Grenville Fletcher’s Rosalviva, Or, The Demon Dwarf, for example, serves as a useful illustration of their differences. Tracy’s summary is a litany of events: it begins matter-of-factly with the sentence “Leontini loves Viola di Morini, but she marries someone else,” and is equally unfazed when the titular dwarf arrives in the third act and when the dwarven appearance turns out to be false (51). Frank, in contrast, spends more than half his words on context, as in his first sentence: 
 “From Rumplestilskin in the fairytale to the comic evil of Dickens’s Daniel Quilp in The Old Curiosity Shop (1841), the figure of the dwarf was often called upon to perform such demonic services as vengeance, prophecy, child possession, and transformation.” (107) 
 To this broad literary history he adds Mary Shelley’s story “Transformation” as potential precursor for the disguise in Fletcher’s novel, and includes several assessments of the Gothic’s particular embellishments of “the dwarf as a resolver of dilemmas of identity” (107) and “dwarfs... spin[ning] webs of murderous intrigue for diabolic ladies” (108). All of these details stand in stark contrast to Tracy’s list of seven novels under the index entry “dwarf” (199), which treats the sinister disguise in Rosalviva as interchangeable with depictions of non-supernatural and even non-evil little people.
@@ -1203,7 +1240,8 @@ In Hughes's output it is possible to trace an accelerating movement, sometimes i
         </Document>
         <Document ID="63">
             <Title>my model of Frank</Title>
-            <Text>Adapting Frank’s model for my own, then, required working somewhat against the grain of his assumptions. However, I have avoided simply assigning each text one simple genre. Instead, I have sought to separate out each strand of influence within his complex “Gothic types”  by dividing each “type” into a set of tags, and tallied the uses of each tag. [Each word of Frank’s Gothic types becomes its own tag.] Radcliffe’s The Italian, listed as “Pure or high Gothic (terror and horror modes)” becomes “high”, “Gothic”, “terror”, “horror”, and “mode.” This process generated 216 unique tags, most of which only applied to one or two novels. [My model of the Gothic types, then, has X assumptions and priorities.] From there, my search for gendered types followed the same principles as my analysis of Tracy’s motif, asking, does the association of this tag with a work constitute meaningful information regarding the probable gender of that work’s author? [Because Frank’s classifications are subjective assessments, an answer of “yes” to this question does not necessarily indicate that [women really did write in different modes], but instead means that the critical identification of this generic element is responding to authorial gender.] [Perhaps for that reason, Frank’s Gothic types do not point toward a clear men’s Gothic tradition, but do show a women’s Gothic.]</Text>
+            <Text>Adapting Frank’s model for my own, then, required working somewhat against the grain of his assumptions. However, I have avoided simply assigning each text one simple genre. Instead, I have sought to separate out each strand of influence within his complex “Gothic types”  by dividing each “type” into a set of tags, and tallied the uses of each tag. This process generated 216 unique tags, most of which only applied to one or two works. [My model [imposes a slightly more systematic ontology, treating each “tag” as informative on its own [regarding the horizon of critical expectations]] [but still preserves the possibility for things to overlap].] [I ask whether the association of this tag with a work constitutes meaningful information regarding the probable gender of that work’s author] [Because Frank’s classifications are subjective assessments, an answer of “yes” to this question does not necessarily indicate that [women really did write in different modes], but instead means that the critical identification of this generic element is responding to authorial gender.] [Perhaps for that reason, Frank’s Gothic types do not point toward a clear men’s Gothic tradition, but do show a women’s Gothic.]</Text>
+            <Comments>First, Frank’s phrases were split so that each word became one tag. Radcliffe’s The Italian, listed as “Pure or high Gothic (terror and horror modes)” becomes “Pure”, “or”, “high”, “Gothic”, “terror”, “horror”, and “modes.” Then, irrelevant words were deleted, and synonymous ones combined. Frank always uses the phrase “Pure or high”, for example, so those were merged into “Pure;high”. </Comments>
         </Document>
         <Document ID="64">
             <Title>Gothic heritage in sentimental fiction</Title>
@@ -1254,7 +1292,7 @@ cite McIntyre - what page? 94??</Comments>
         </Document>
         <Document ID="66">
             <Title>Male Gothic</Title>
-            <Text>[In Tracy, the Male Gothic was a distinct [grouping] of what seem to be horror-Gothics, outnumbered by [the Shared Gothic].] [Frank does confirm the unbalanced nature of the terror/horror binary.] The terror mode enormously outnumbers the horror mode, with X novels (X% of the sample) tagged “terror” and only X (X%) tagged “horror.” The more-popular terror mode is non-gendered (X% female, X% male), while the horror mode tends toward male authorship (X% male). However, of those X novels tagged as horror, X were also tagged as terror, leaving a mere X books are pure “horror mode.” If we attempt to treat the two modes as mutually-exclusive, seaparating out the “horror-terror” mixed-mode books as a third mode, our gendered expectations fall apart: the X pure-horror books are precisely split between male and female authors. Instead, it is the horror-terror mode which is most predictive of male authorship (X% male). [It seems, then, that although the relative prominence of the two modes accords with our expectations based on Tracy’s, the critical identification of terror and horror does not have a basis in gendered patterns of use. ???]</Text>
+            <Text>[In Tracy, the men’s Gothic was a distinct [grouping] of what seem to be horror-Gothics, outnumbered by Gothic mainstream.] [Frank does confirm the unbalanced nature of the terror/horror binary.] The terror mode enormously outnumbers the horror mode, with 171 works (34% of the bibliography) tagged “terror” and only 53 (11%) tagged “horror.” </Text>
         </Document>
         <Document ID="71">
             <Title>Baker: sentimental -&gt; Gothic</Title>
