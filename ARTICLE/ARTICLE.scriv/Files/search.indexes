@@ -34,13 +34,13 @@ cite Tompkins</Comments>
         </Document>
         <Document ID="74">
             <Title>reject teleology, keep emotion</Title>
-            <Text>I argue that there is, in fact, something in this model which remains fruitful: [its understanding of the Gothic as continuous, rather than a break]. [The teleologically realist model defines the Gothic as] as spectrum of sentiment, sensation, and sensibility, all of which, Baker argues, are distinguised from each other only by “intensification,” and not in terms of fundamental type. Tompkins, too, argues for a history of continuity, saying that in the Gothic, “the accepted themes were repeated in a shallower tone and overlaid with all the romantic incidents of disguise, abduction, lost heirs and mistaken identity, which had been for hundreds of years the story-tellers stock in trade.”  [The “fantastic” elements did not render the Gothic a fundamentally different sort of story than those which preceded it.] We can reject their realist teleology without rejecting their sensitivity to emotional response. Doing so allows us to better place the Gothic in context with other eighteenth century works, such that the Gothic participates directly in Englightenment conversations about human nature and rationality.</Text>
+            <Text>I argue that there is, in fact, something in this model which remains fruitful: [its understanding of the Gothic as continuous, rather than a break]. [The teleologically realist model defines the Gothic as] as spectrum of sentiment, sensation, and sensibility, all of which, Baker argues, are distinguised from each other only by “intensification,” and not in terms of fundamental type. Tompkins, too, argues for a history of continuity, saying that in the Gothic, “the accepted themes were repeated in a shallower tone and overlaid with all the romantic incidents of disguise, abduction, lost heirs and mistaken identity, which had been for hundreds of years the story-tellers stock in trade.”  [The “fantastic” elements did not render the Gothic a fundamentally different sort of story than those which preceded it.] We can reject their realist teleology without rejecting their sensitivity to emotional response. [We have learned a valuable lesson about models today].</Text>
             <Comments>cite Baker 120
 cite Tompkins 57</Comments>
         </Document>
         <Document ID="75">
-            <Title>holistic model of the Gothic</Title>
-            <Text>[[Put the Gothic in context with other 18thC works and their conversations about human nature and rationality!!]]</Text>
+            <Title>learned a valuable lesson about models</Title>
+            <Text>[The framework of modelling makes it possible to go ever farther back in our research past] [Surface reading and computational analysis can look like a break with the past] [But they don’t have to be!] [Continuities in the history of the Gothic; changes of quantity, not fundamental kind] [Continuities in the pattern of our research; changes of tools, not fundamental kind]</Text>
         </Document>
         <Document ID="123">
             <Title>Drucker</Title>
@@ -121,7 +121,7 @@ a difference between asking “What is it that's going on here?" (421) and “Wh
 </Text>
         </Document>
         <Document ID="77">
-            <Title>Conclusion</Title>
+            <Title>Frank + Tracy</Title>
         </Document>
         <Document ID="82">
             <Title>Abstract feedback from Alyssa</Title>
@@ -149,7 +149,8 @@ Love and luck, 
 </Text>
         </Document>
         <Document ID="78">
-            <Title>???</Title>
+            <Title>some horror motifs</Title>
+            <Text>[There are some horror motifs, and they seem reasonable] [Top of the list is “Inquisition” — 63% of “horror” Gothics include the Inquisition, an enormous increase over the baseline 15% presence of that motif] [Next, less expectedly, are secret doors, at the exact same level of increase — 48% more secret doors in “horror” novels than in the corpus as a whole.] [“Horror” Gothics also have 47% more prophetic dreams, 46% more corpses, 40% more drugging, and 39% more banishment.] [In all of these, “horror” is distinguished from the mainstream and also distinguished from “terror” — they occur two to three times more often with the “horror” tag than with “terror”.] [Horror and terror are most sharply distinguished, though, by “actual incest”, which occurs five times more often with “horror” than with “terror”. Interestingly, however, this represents 3 “horror” tagged works and 2 “terror” tagged works — possibly the “terror” ones are “horror-terror”? We know from Tracy that they are certainly all by male authors.] [The next strongest distinguishing motifs are “Satan and lesser demons” and “loose woman”, both of which appear four times more frequently in “horror” than in “terror”. Three times more frequent in “horror” works are “rape”, “pre-nuptual death”, and “banishment.”] [All of these motifs paint a distinct horror tradition, which our earlier models also allow us to see as male.]  [But it complicates our understanding of “horror” by introducing motifs which previously were not male-dominated enough to get mentally put in that bucket.]</Text>
         </Document>
         <Document ID="83">
             <Title>same novel different types!!!</Title>
@@ -941,7 +942,7 @@ Algorithmic criticism undoubtedly requires a revolution of sorts, but that revol
         </Document>
         <Document ID="151">
             <Title>this CRIES OUT for correlation</Title>
-            <Text>[Obviously we need to correlate now] [It’s been a persistent problem/question whether Frank’s Gothic types were responding to actually gendered usage or imposing gendered interpretations] [With polemical vs didactic, for example, the tone difference is a subjective interpretation which could easily be influenced by his knowledge of the author’s gender] [But Tracy’s boolean motifs — although they may be prone to false negatives, and are certainly lacking/vague in interpretive detail — are at least safe from false positives] [We can evaluate the potentailly-gendered basis of Frank’s type assessments by considering the motifs associated with each tag] [Because, as we saw earlier, Tracy’s motifs only render certain kinds of literary features visible, we are now doubly prone to false negatives] [But we can still hope for some true positives]</Text>
+            <Text>[Obviously we need to correlate now] [It’s been a persistent problem/question whether Frank’s Gothic types were responding to actually gendered usage or imposing gendered interpretations] [With polemical vs didactic, for example, the tone difference is a subjective interpretation which could easily be influenced by his knowledge of the author’s gender] [But Tracy’s boolean motifs — although they may be prone to false negatives, and are certainly lacking/vague in interpretive detail — are at least safe from false positives] [We can evaluate the potentailly-gendered basis of Frank’s type assessments by considering the motifs associated with each tag] [Because, as we saw earlier, Tracy’s motifs only render certain kinds of literary features visible, we are now doubly prone to false negatives] [But we can still hope for some true positives] SO: Does knowing Frank gave a work a certain tag tell me anything about what motifs it probably has?</Text>
         </Document>
         <Document ID="43">
             <Title>reasonable to think authoresses are different</Title>
@@ -962,6 +963,9 @@ Algorithmic criticism undoubtedly requires a revolution of sorts, but that revol
             <Text>My [work] to contextualize Radcliffe among hundreds of noncanonical novels is in keeping with the voracious habits of her readers. Although Radcliffe was, by the time she published The Mysteries of Udolpho, widely recognized as a master of her craft, she was not canonized separately from other Gothic writers either on the shelves of he circulating libraries or in the minds of book reviewers. [She was producing better Gothics, not a different kind of book entirely — quote someone; maybe Gamer? (Romantics later declare themselves a different kind of thing)] Her readers’ voraciousness is particularly important to our understanding of her works in light of Frow’s articulation of genre as, not a stable set of categories, but an ongoing conversation. Individual texts, Frow argues, “do not ‘belong’ to genres, but are, rather, uses of them”. [Genre is not a stable identifier but a set of expectations which an author may strategically fulfill or foil.] [Accordingly, Radcliffe’s works cannot be identified as Gothic — or as Female Gothic — in isolation.] </Text>
             <Comments>CITE Frow p 2</Comments>
         </Document>
+        <Document ID="152">
+            <Title>sentimental geneaology</Title>
+        </Document>
         <Document ID="4">
             <Title>MA Essay</Title>
         </Document>
@@ -981,6 +985,10 @@ cite Leah Price</Comments>
         <Document ID="149">
             <Title>mainstream Gothic</Title>
             <Text>[Frank’s mainstream is a little more female than Tracy’s.] [The two most prevalent tags are “Gothic” (83% of all works) and “pure/high” (39%), both of which have men women and unknown at almost perfectly their baselines] [But the third most prevalent tag is “terror” (34% of works), which is 50% female, a bit above the female baseline.] [The next two tags in prominence highlight Frank’s [embrace of multiplicity?]: “mode” (27%) and “elements” (27%), which generally appear as qualifiers for his other assessments, as in “terror mode” or “sentimental elements”.] [A lot of the tags have to do with Frank offering qualifications of some kind (mode, effects, Gothified, imitation).] [The Gothic is not monolithic; things mostly come from other places/ are interconnected] [Nothing for Frank is just one genre.] [Horror and terror, for example, are far from mutually exclusive] [Of the 56 “horror” works, 26 are also tagged “terror” (41%). [These 26 are 50% by men, making the horror-terror mode more predictive of male authorship than horror alone]] [Of the remaining 27 works which are purely horror, no terror, there are by by women, 9 by men, and 9 unknown — not a men’s horror Gothic at all.] [This is the reverse of Tracy — Tracy showed a male horror and equal-opportunity terror mainstream; Frank shows equal-opportunity horror, and female terror] [Between the two, the only part that’s consistent is that terror vastly outnumbers horror.] [There are gendered currents, but none of them are striking enough to start making predictions about the many unsigned works.]</Text>
+        </Document>
+        <Document ID="153">
+            <Title>motifs: seduced by scenery</Title>
+            <Text>[This correlation, essentially, confirms that our rough guess was right re: Tracy’s motifs, that the men’s Gothic might operate via striking images but the women’s Gothic less so.] [It also suggests that, when we are seduced by the scenery of the Gothic, we end up paying attention to only a minor thread within it (men’s horror) at the expense of non-motif-ifiable features which better define the mainstream.] [Frank’s more subjective model [takes more work to render graspable / provides fewer things to count that feel obviously countable] but it ultimately reveals the women’s Gothic in the sentimental.]</Text>
         </Document>
         <Document ID="46">
             <Title>good stuff on critical frameworks</Title>
@@ -1131,6 +1139,9 @@ cite samuels mcgann 36</Comments>
 cite tracy 195
 cite tracy 74</Comments>
         </Document>
+        <Document ID="154">
+            <Title>conclusion</Title>
+        </Document>
         <Document ID="111">
             <Title>QUALITATIVE BIBLIOGRAPHY</Title>
             <Text>And QUALITATIVE CHARTS!</Text>
@@ -1161,6 +1172,10 @@ p.5: One solution to the problems posed might be to return to McBurney's origina
             <Comments>Due to Tracy’s interest in uniqueness, 138 of the 208 motifs she indexes appear in fewer than 20 novels, and have thus been excluded from this study. Most motifs contain a number of sub-categories. In most cases, I further distilled each motif to its simplest form by ignoring these sub-categories. “Poison,” for example, is indexed with categories for “blade,” “chaplet,” “kiss,” “letter,” “orange,” “plant on grave,” and “sacrificial wine”, but I have elided these nuances in favor of a broader motif of “poison (all subcategories),” which applies to 30 novels. In cases where a sub-category contains more than 20 novels in and of itself, I have graphed that sub-category as if it were its own motif. “Death,” for example, is divided into the sub-categories “emotionally induced,” “pre-nuptial,” and “sad and/or pious,” of which both “emotionally induced” and “sad/pious” include more than 20 novels. Ultimately, the 70 key motifs generated 92 charts. 
 I chose pie charts, one per motif, to visually represent Tracy’s treatment of each motif as a self-contained field which may or may not have distinct divisions within it. The size of each circle reflects the prevalence of the motif within the body of indexed novels as whole. More subtly, the difference between the two shades of gray in each chart reflects the difference between the two percentages. I wished to avoid graphs whose labels said that a motif featured a 50/50 split, but whose stark contrast nonetheless implied that books by male versus female authors could be easily distinguished from each other. Instead, I wanted my reader's ease in distinguishing between male and female authors to be directly connected to the ease with which a reader in the 1790s might have been able to accomplish the same task if given only the information that a certain motif was present. Accordingly, if the motif itself is not useful as a tool to distinguish between two gendered camps, its chart doesn’t show two camps.
 I interpret a motif to be “distinctly male” if 60% or more of its authors are male.</Comments>
+        </Document>
+        <Document ID="155">
+            <Title>weaker terror motifs</Title>
+            <Text>[The “terror” tag is less strongly defined by its motifs.] [It has no motifs which appear with 20% greater frequency in “terror” works than in the baseline.] [This is in sharp contrast to the “horror” tag, which had 43 motifs occurring in horror works with 20% greater frequency or higher.] [“Terror” shows an anemic increase in fainting (19% more than baseline), suicide mentions (18%), female fainting (18%), and secret doors (18%), but all of these appear more in “horror” works than they do in “terror.”] [Although terror is very similar to the baseline, it can still be distinguished from horror.] [One motif appear with triple frequency in terror works compared to horror: “speech, unfinished, on deathbed”] [Appearing a little more than twice as often are “good abbess”, and “good clergyman,” and a little less than twice are “attempted or contemplated suicide” and “lunacy”] [None of these motifs drew our attention the first time, so it is interesting to see them distinguished now] [But they simply reaffirm that terror is mainstream / isn’t gendered]</Text>
         </Document>
         <Document ID="54">
             <Title>men's Gothic</Title>
