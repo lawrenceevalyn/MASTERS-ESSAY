@@ -47,19 +47,69 @@ Over the course of two literary experiments, in which I model the early Gothic n
 
 ## Tracy values uniqueness ##
 
-[First, let us examine Tracy’s model] [Tracy’s bibliography, published in 1981, indexes 208 novels, X by women, X by men, and X unknown.] [Her selection methods are not systematic; rather, having travelled to a range of archives to examine works with promising titles which turned out not to contain any demons, .]  [Tracy’s most unusual qualitative bibliographical work is in her ten-page ‘Index to Motifs’.] Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. It is clearly built for a different kind of scholarly use than that which I have made of it; it is intended for “scholars with particular interests”[^cf12], who wish to locate and read books containing individual story elements, such as “doppelganger” or “garden as scene of temptation”. Accordingly, Tracy prioritizes presenting a wide range of distinctive individuals motifs rather than those that constitute the norm. Indeed, she intentionally excluded the most popular motifs: “the abundance of murders,” she says, “argued for the retention… of specialized murders only,”[^cf13] and castles have similarly been ingored. In addition to the motifs, Tracy provides a plot summary of each novel. Her summaries, too, emphasize distinctive details, pointing out things like “a particularly interesting Satan, with molten insides”.[^cf14] Tracy’s model of the Gothic is sensitive to uniqueness. It treats each novel as a collection of discrete elements, only one of which is likely to be of interest to a given scholar. The motifs themselves — Satans, murders, doppelgangers, gardens — thus become the stable objects of study, which must be examined through the filter of individual novels.
+Tracy’s bibliography is built to be more like a particularly helpful finding aid than a comprehensive check-list.  Her most unusual qualitative bibliographical work is her ten-page “Index to Motifs” identifying the books in which 208 different “motifs” appear. Tracy uses the term “motif” broadly to encompass a wide range of plot elements, images, and character types. The index is intended for “scholars with particular interests”[^cf12], who wish to locate and read books containing individual story elements, such as “doppelganger” or “garden as scene of temptation”. Accordingly, Tracy prioritizes presenting a wide range of highly distinctive motifs rather than those that constitute the norm. Indeed, she intentionally excluded the most popular motifs: “the abundance of murders,” she says, “argued for the retention… of specialized murders only,”[^cf13] and castles have similarly been ingored. In addition to the motifs, Tracy provides a plot summary of each novel. Her summaries, too, emphasize distinctive details, pointing out things like “a particularly interesting Satan, with molten insides”.[^cf14] As a model of the Gothic, Tracy’s bibliography elides continuities to increase its sensitivity to points of difference. It treats each novel as a collection of discrete elements, only one of which is likely to be of interest to a given scholar. The motifs themselves — Satans, murders, doppelgangers, gardens — are thus constructed as the stable objects of study, which must be examined through the filter of individual novels.
 
 ## my model of Tracy ##
 
-I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a Female Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.][^cf15] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs[^cf16] indicate a Male Gothic defined by largely the things we would expect men to dominate.
+I take Tracy’s model to its logical extension by foregrounding her motifs. [I ask, does this model allow us to see a women’s Gothic?] [More specifically, does the presence of any given motif in a work constitute meaningful information regarding the probable gender of its author?] [I distilled her index of 208 motifs into 92 charts of motifs which appeared in at least 20 of her 208 works.][^cf15] [My model is now far less useful for locating outlier texts for closer reading, but I have traded sensitivitity to [???] for sensitivity to [?????]] [A series of procedural design choices allows each chart [to present its information qualitatively]] An identifiable gendered school immediately emerges: 38 distinctly male-authored motifs[^cf16] indicate a Male Gothic defined by largely the things we would expect men to dominate.
 
 ## Male Gothic ##
 
-Reading the motifs in order from most female-dominated to most male-fominated involves a constant escalation. Women may write about libertines (64% female), whose seductions may be coercive and almost always end poorly for their victims, but men write about the act of rape itself (75% male). Tracy’s motifs suggest that the darkest side of the Gothic was primarily the province of men: death is female-dominated when it is sad or pious (61% female), but murder is male-dominated (64% male), as are blood (68% male), corpses (70% male), and skeletons and skulls (73% male). When male authors write about death, then, it seems that they dwell not on its emotional impact, but on its more vivid physical results. Similarly, human sacrifice (64% male), starvation (67% male), torture (67% male), and putrefaction (74% male), all involve directly depicting that which other novels might merely imply. The masculine impulse to “go farther,” to replace coy allusions with unflinching enactments, is most evident in these novels’ treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration — nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms “actual” incest, only “incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion).” The narrative discretion behind a literary fliration with incest is employed roughly equally by both male and female authors (54% male / 46% female), and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented— and all six are by men. To force one’s readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror-Gothic, as contrasted with the terror-Gothic. Identifying the horror-Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Matthew Lewis as the quintessential horror-Gothic writer.
+Reading the motifs in order from most female-dominated to most male-fominated involves a constant escalation. Women may write about libertines (64% female), whose seductions may be coercive and almost always end poorly for their victims, but men write about the act of rape itself (75% male). Tracy’s motifs suggest that the darkest side of the Gothic was primarily the province of men: death is female-dominated when it is sad or pious (61% female), but murder is male-dominated (64% male), as are blood (68% male), corpses (70% male), and skeletons and skulls (73% male). When male authors write about death, then, it seems that they dwell not on its emotional impact, but on its more vivid physical results. Similarly, human sacrifice (64% male), starvation (67% male), torture (67% male), and putrefaction (74% male), all involve directly depicting that which other novels might merely imply. The masculine impulse to “go farther,” to replace coy allusions with unflinching enactments, is most evident in these novels’ treatment of incest. General themes of incest are widespread, appearing in 51 of the 208 novels under consideration — nearly a quarter of the works. However, in 45 of those novels, there are no cases of what Tracy terms “actual” incest, only “incest, literary flirtation with (including false alarms, foiled attempts, threats, and unconsummated incestuous passion).” The narrative discretion behind a literary fliration with incest is employed roughly equally by both male and female authors (54% male / 46% female), and makes up the vast majority of all depictions of incest. However, six cases of actual, no-narrative-flinching incest are documented— and all six are by men. To force one’s readers to look directly at the horrors depicted, rather than allowing them to become terrified by their own imaginations, is, of course, the technique of the horror Gothic, as contrasted with the terror Gothic. Identifying the horror Gothic as a predominantly male affair comes as no surprise, and accords nicely with the critical tradition of identifying Matthew Lewis as the quintessential horror Gothic writer. Together, these motifs point to a distinct men’s Gothic in the Lewisian horror tradition.
+
+## subterranean passages ##
+
+In contrast to this abundance of male-dominated tropes, female-authored tropes are elusive. The Radcliffean plot elements of subterranean passages (61% male), caves (61% male), and secret doors (59% male) turn out to be firmly correlated with male authors, not female. This is not to say that these motifs are not Radcliffean: Radcliffe alone accounts for 7% of all caves, 11% of all secret doors, and an astonishing 15% of all subterannean passages. Indeed, she is the top author for both subterranean passages and secret doors. But beyond Radcliffe, these tropes have been disproportionately adopted by men, not women. [They are also pretty minor.] [The critical over-emphasis on subterranean passages and caves, in particular, can likely be explained by who makes the ‘top 10’ lists of their use:]
+Subterranenan Passages
+Radcliffe, Ann
+6
+Ireland, William Henry
+3
+Curties, T. J. Horsley
+3
+unsigned
+2
+Sleath, Eleanor
+2
+Maturin, Charles Robert
+2
+Lewis, Matthew
+2
+Yorke, Mrs. R. M. P.
+1
+Wilkinson, Sarah
+1
+Walpole, Horace
+1
+
+
+Caves
+Lewis, Matthew
+4
+Roche, Regina Maria
+3
+Radcliffe, Ann
+3
+unsigned
+2
+Maturin, Charles Robert
+2
+Ireland, William Henry
+2
+Green, William Child
+2
+Curties, T. J. Horsley
+2
+Wilkinson, Sarah
+1
+Walpole, Horace
+1
+
+[The “big names” dominate these lists.] [Anything prominently used by Walpole, Radcliffe, and Lewis is going to be ripe for close-read comparison.] [But those comparisons illuminate more about the individual authors than widespread usage; more about Radcliffe than a women’s Gothic]
 
 ## Female Gothic ##
 
-In contrast to this abundance of male-dominated tropes, female-authored tropes are elusive. The Radcliffean plot elements of subterranean passages (61% male), caves (61% male), and secret doors (59% male) turn out to be firmly correlated with male authors, not female. [Radcliffe’s six novels account for X of the secret doors written by women, X of the caves, and X of the subterranean passages] [So these certainly are Radcliffean elements, just not Female Gothic in terms of the other authors who are using them.] Instead, in this model of the genre, the Female Gothic seems to be defined by only four things: libertines (64% female), forced weddings (62% female), sad or pious deaths (61% female), and miniature portraits (61% female). The libertines and miniature portraits in particular, as the most common female motifs, immediately suggest a new Female Gothic that is in striking conversation with novels like Jane Austen’s, [whose] ordered and rational novels are nonetheless repelete with rakes and miniatures. However, [four is a small number, and unlike the wide-ranging male motifs which were well over the 60% line, it would only take a very few writers — or one domestic Ann Radcliffe — to produce these results]. The paucity of female motifs suggests that [seeing/defining a genre here] may be too hasty: this Female Gothic is outnumbered not just by the Male Gothic but also by the [Shared??] Gothic.
+Instead, in this model of the genre, the Female Gothic seems to be defined by only four things: libertines (64% female), forced weddings (62% female), sad or pious deaths (61% female), and miniature portraits (61% female). The libertines and miniature portraits in particular, as the most common female motifs, immediately suggest a women’s Gothic that is in striking conversation with novels like Jane Austen’s, whose ordered and rational novels are nonetheless repelete with rakes and miniatures. Or, looking at their prominence in the top ten for each of these tropes, one might be tempted to investigate Regina Maria Roche and Louisa Sidney Stanhope as the unexpected representatives of the women’s Gothic. However, the paucity of female motifs suggests that defining a genre here may be too hasty. The male motifs represented a variety of elements used by many different men, such that no one author could be responsible for the patten being identified with his author. These female motifs are far less robust: if we ignore either Roche or Stanhope, we are down to just two female-dominated motifs, and if we ignore both, we are left with zero. When it comes to the inclusion of particular story elements, then, this women’s Gothic is outnumbered not just by the men’s Gothic but also by the mainstream Gothic.
 
 ## [Shared?] Gothic ##
 
