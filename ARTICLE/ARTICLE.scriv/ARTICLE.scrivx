@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-23 01:55:03 -0400" ModID="953C281E-B5D4-4C8F-A2AE-A125E4B9A3BF">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-23 04:01:11 -0400" ModID="BDA8D477-7D20-41F9-9D9D-809784010405">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -84,15 +84,15 @@
                                 <TextSelection>678,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="128" UUID="E427E4F6-0268-41BB-9AFA-5E9748F074F7" Type="Text" Created="2017-04-22 03:31:53 -0400" Modified="2017-04-22 20:36:07 -0400">
-                            <Title>lit review: I'm not reading Garside's bib</Title>
+                        <BinderItem ID="128" UUID="E427E4F6-0268-41BB-9AFA-5E9748F074F7" Type="Text" Created="2017-04-22 03:31:53 -0400" Modified="2017-04-23 02:30:49 -0400">
+                            <Title>lit review: bibliographies</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1871,0</TextSelection>
+                                <TextSelection>1482,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="45" UUID="6E7D677E-626B-4EB1-8B74-6B7A68CD485E" Type="Text" Created="2017-04-17 20:09:41 -0400" Modified="2017-04-22 20:40:13 -0400">
@@ -231,7 +231,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="61" UUID="8D882CE6-7C29-4FFC-BC65-AFA92D1EEB8A" Type="Text" Created="2017-04-18 20:28:01 -0400" Modified="2017-04-22 23:14:55 -0400">
+                        <BinderItem ID="61" UUID="8D882CE6-7C29-4FFC-BC65-AFA92D1EEB8A" Type="Text" Created="2017-04-18 20:28:01 -0400" Modified="2017-04-23 02:50:29 -0400">
                             <Title>Frank values context</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -242,30 +242,30 @@
                                 <TextSelection>1569,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="63" UUID="48081C84-3DF6-4E16-AF38-D5C451883144" Type="Text" Created="2017-04-18 21:10:11 -0400" Modified="2017-04-23 01:55:03 -0400">
+                        <BinderItem ID="63" UUID="48081C84-3DF6-4E16-AF38-D5C451883144" Type="Text" Created="2017-04-18 21:10:11 -0400" Modified="2017-04-23 02:54:39 -0400">
                             <Title>my model of Frank</Title>
                             <MetaData>
-                                <LabelID>1</LabelID>
+                                <LabelID>2</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>587,0</TextSelection>
+                                <TextSelection>795,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="66" UUID="9ABA86BF-AAE6-4089-9D06-52A47477AF35" Type="Text" Created="2017-04-18 21:44:01 -0400" Modified="2017-04-21 03:35:11 -0400">
-                            <Title>Male Gothic</Title>
+                        <BinderItem ID="146" UUID="B4F5D278-1F35-4B0C-837E-A7670BCFAF88" Type="Text" Created="2017-04-23 04:00:01 -0400" Modified="2017-04-23 04:00:11 -0400">
+                            <Title>Frank hates defining</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>934,0</TextSelection>
+                                <TextSelection>103,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="69" UUID="5E0752A0-88DB-4386-A7A8-73E15EB678DA" Type="Text" Created="2017-04-18 22:06:29 -0400" Modified="2017-04-21 03:35:13 -0400">
-                            <Title>[Shared?] Gothics</Title>
+                        <BinderItem ID="144" UUID="3A59C261-6BBA-4C64-8D5E-C61766D9C733" Type="Text" Created="2017-04-23 03:12:39 -0400" Modified="2017-04-23 04:00:11 -0400">
+                            <Title>unsigned authors</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -275,15 +275,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="67" UUID="D84C77AB-2210-42CF-A113-109B04A06084" Type="Text" Created="2017-04-18 21:54:53 -0400" Modified="2017-04-18 22:19:48 -0400">
-                            <Title>Female Gothic</Title>
+                        <BinderItem ID="145" UUID="06E283A7-AFB0-4D78-A9DE-B880F9130A70" Type="Text" Created="2017-04-23 03:25:34 -0400" Modified="2017-04-23 03:58:45 -0400">
+                            <Title>men's Gothic</Title>
                             <MetaData>
-                                <LabelID>2</LabelID>
+                                <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1056,0</TextSelection>
+                                <TextSelection>206,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="147" UUID="2D555000-FFF3-43D6-9B2B-4D4AA8074E07" Type="Text" Created="2017-04-23 04:00:15 -0400" Modified="2017-04-23 04:00:30 -0400">
+                            <Title>women's Gothic</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>55,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -494,6 +505,52 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="143" UUID="E915CDB9-4A93-40A4-9E7C-555F2F8E7394" Type="Text" Created="2017-04-23 03:07:26 -0400" Modified="2017-04-23 03:07:36 -0400">
+                    <Title>outdated Frank info</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>813,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="66" UUID="9ABA86BF-AAE6-4089-9D06-52A47477AF35" Type="Text" Created="2017-04-18 21:44:01 -0400" Modified="2017-04-23 03:08:36 -0400">
+                            <Title>Male Gothic</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>343,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="69" UUID="5E0752A0-88DB-4386-A7A8-73E15EB678DA" Type="Text" Created="2017-04-18 22:06:29 -0400" Modified="2017-04-21 03:35:13 -0400">
+                            <Title>[Shared?] Gothics</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>260,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="67" UUID="D84C77AB-2210-42CF-A113-109B04A06084" Type="Text" Created="2017-04-18 21:54:53 -0400" Modified="2017-04-18 22:19:48 -0400">
+                            <Title>Female Gothic</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1056,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
                 <BinderItem ID="127" UUID="C142B977-B0D8-4FBC-AF56-37C86D0E4475" Type="Text" Created="2017-04-22 03:29:59 -0400" Modified="2017-04-22 03:30:30 -0400">
                     <Title>scholarship at second hand</Title>
                     <MetaData>
@@ -618,7 +675,7 @@
                                 <TextSelection>116,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="55" UUID="8D784A22-B8B0-41DB-AB7D-77BA2378CE22" Type="Text" Created="2017-04-17 22:51:37 -0400" Modified="2017-04-22 21:09:45 -0400">
+                        <BinderItem ID="55" UUID="8D784A22-B8B0-41DB-AB7D-77BA2378CE22" Type="Text" Created="2017-04-17 22:51:37 -0400" Modified="2017-04-23 02:55:58 -0400">
                             <Title>footnote for pie charts</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -626,7 +683,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1530,0</TextSelection>
+                                <TextSelection>235,1016</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="65" UUID="9BA0AB36-84A0-43A4-A3CB-377EC9F4557D" Type="Text" Created="2017-04-18 21:22:58 -0400" Modified="2017-04-18 22:01:28 -0400">
@@ -1364,7 +1421,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-04-22 02:21:51 -0400" IgnoreDeadline="No">6475</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">2156</SessionTarget>
-        <PreviousSession Words="1047" Characters="6640" Date="2017-04-22 01:03:58 -0400"></PreviousSession>
+        <PreviousSession Words="1054" Characters="6625" Date="2017-04-22 01:03:58 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
