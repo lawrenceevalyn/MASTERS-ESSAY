@@ -9,8 +9,8 @@ import csv
 # stuff to hold things in
 allwordsdict = dict()    # using dicts first to collect unique types and words
 alltypesdict = dict()    # then they get made into lists later
-infileName = "gothicTypes.csv"
-outfileName = "gothicTags.csv"
+infileName = "testGothicTypes.csv"
+outfileName = "testGothicTags.csv"
 
 # find all the unique types and tags and put them in dicts
 with open(infileName, 'rb') as f:
@@ -35,18 +35,21 @@ numtypes = len(alltypes)
 allwords = list(allwordsdict.keys())
 numwords = len(allwords)
 
-# allwords.append("LASTWORD")    # these can be useful for checking things
+allwords.append("LASTWORD")    # these can be useful for checking things
 alltypes.append("LASTTYPE")    # if everything is broken
 numtypes = len(alltypes)
-
+numwords = len(allwords)
 
 # give some feedback so we know the program is running
-print "words found:"
-print  numwords
-
+print alltypes
 print "types found:"
 print numtypes
 
+print allwords
+print "words found:"
+print  numwords 
+
+# everything is fine up to this point
 
 # make the output file with columns for gender, Frank, and each tag
 with open(outfileName, 'wb') as f:
