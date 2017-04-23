@@ -13,6 +13,7 @@ historical (78) 35f 31m 12u			45%f
 chap/bluebook (78) 13f 12m 53u		17%f	15%m	66%u
 Gothified (71) 33f 26m 12u			46%f
 sentimental (66) 51f 5m 10u			77%f
+	13% of sample is sentimental
 imitation (64)
 ***Radcliffean (54) 35f 7m 12u			65%f
 horror (53) 17f 22m 14u				32%f	42%m
@@ -28,13 +29,16 @@ a lot have to do with Frank offering qualifications of some kind (mode, effects,
 
 ###the few tags where men outnumber women are:
 
-German/Sch/Raub (29) : 			14 more m than f
-horror (53) : 					 5 more m than f
-polemical (6) : 1f 5m 0u,		 4 more m than f
-	"thinky 5" (22) 9f 12m 1u    3 more m than f
-	"thinky 4" (rm. did.): 4f 9m 1u 5 more m than 5
-THEMONK (13) : 3f 6m 4u, only	 4 more m than f
-source (17): 3f 6m 8y, 			 3 more m than f
+German/Sch/Raub (29) : 			14 more m than f 62%m
+horror (53) : 					 5 more m than f 42%m
+polemical (6) : 1f 5m 0u,		 4 more m than f 83%m
+	"thinky 5" (22) 9f 12m 1u    3 more m than f 54%m
+	"thinky 4" (rm. did.): 4f 9m 1u 5 more m than f 64%
+THEMONK (13) : 3f 6m 4u, only	 4 more m than f 46%m
+source (17): 3f 6m 8u, 			 3 more m than f
+
+prototypical
+history
 
 
 ####"thinky 5"
@@ -48,6 +52,17 @@ radical/revolutionary (3) 1f 2m 0u
 all 5 combined: (22) 9f 12m 1u 3 more m than f
 
 moralized (1) 1f
+
+---
+
+###women's tropes (above 50%)
+sentimental
+Radcliffe
+domestic
+marginal
+fiction
+terror
+
 
 ---
 

@@ -695,15 +695,8 @@ Implicitly I see the Gothic defined as “stuff that other people looked at and 
         </Document>
         <Document ID="144">
             <Title>unsigned authors</Title>
-            <Text>We also have to pay attention, now, to the many “unsigned” authors.
-
-chap/bluebook (78): 13f 12m 53u, 		28 more u  68%u
-plagiarism / abridgement (9) 1f 0m 8u,	 7 more u  88%u
-shilling (5) 0f 0m 5u, 				 5 more u 100%u
-novella/ette (3) 0f 0m 3u,			 3 more u 100%u
-Reeve (6) 1f 1m 4u				 2 more u  66%u
-serialized (9) 2f 1m 6u			 3 more u  66%u
-thriller (2) 0f 0m 2u				 2 more u 100%u</Text>
+            <Text>We also have to pay attention[?], in Frank, to the many “unsigned” authors. The tags in which unsigned authors outnumber male and female authors combined mostly point to the conditions of those works’ publication: 28 of the 78 “chapbook/bluebook” works (68%) are written by authors of unknown gender;  8 of 9 “plagiarism/abridgement” (88%), all five “shilling”, all five “novella”, and 6 of 9 “serialized” (66%).  [This suggests that unsigned/unknown authors are basically doing the same thing as what everyone else is doing — the only way we can tell them apart is by seeing that they’ve published in a mode in which authorship attribution is scarce.] The only exception is “Clara Reeve”: 4 of 6 works inspired by Reeve have authors of unknown gender. [Walpole also inspires unsigned authors, 5 of 12 (42%, less than half but well above the 26% baseline] [But I don’t know why any of this is interesting.]
+</Text>
         </Document>
         <Document ID="33">
             <Title>Frow</Title>
@@ -725,7 +718,7 @@ thriller (2) 0f 0m 2u				 2 more u 100%u</Text>
         </Document>
         <Document ID="145">
             <Title>men's Gothic</Title>
-            <Text>Frank’s model shows a similar men’s Gothic to Tracy’s: Germanic, horror, The Monk. Interestingly, the very minor thread of polemical fiction is also fairly male - much more so than the assessment “didactic”</Text>
+            <Text>[A men’s Gothic is more elusive in Frank’s model] [Like in Tracy’s the men’s tags are mostly visible among the tags which apply only to very few novels / make up a minor tradition.] [Unlike in Tracy, there are very few of these] [But men actually outnumber women in the “Germanic” tag (which encompasses “German”, “Germanic”, “Schauerroman”, “Rauberroman”, and “Ritterroman”) — of these 29 Germanic Gothics, 18 are by men (62%).] [“Horror”, too, is disproportionately male — 42%, fairly above their baseline 31%, though not astonishing.] [As mentioned above, “Lewisite” is about the same.] [More strikingly male-dominated are two Gothic threads which would be completely invisible in Tracy’s motif-focused view: “polemical” and “prototypical” works.] [12 works are identified as “proto” or “early” forms of something else; of those 12, 7 are by men (58%)] [Suggests a genre that has more masculine roots than it does a destination.] [A slightly larger group of works, 19 total, exists between the tags “polemical,” “philosophical,” “political,” and “radical/revolutionary” — of these 19, 13 are by men (68%)][The highest male percentage that applies to more than one work is for “polemical” Gothics, which fiercely flog some viewpoint or another: 83% of these six works are by men.] [This stands in contrast to “didactic”, also related, but 50% male and 50% female (12 didactic texts, 6 each)] [is this critical evaluation or a real difference????] [come to some kind of conclusion re: men’s Gothic]</Text>
         </Document>
         <Document ID="35">
             <Title>Price</Title>
@@ -794,8 +787,72 @@ The conception of modeling I have developed here on the basis of practice in the
         </Document>
         <Document ID="146">
             <Title>Frank hates defining</Title>
-            <Text>A lot of the tags have to do with Frank offering qualifications of some kind (mode, effects, Gothified, imitation).
-Things mostly come from other places</Text>
+        </Document>
+        <Document ID="150">
+            <Title>who gets copied</Title>
+            <Text>
+
+f
+m
+u
+total
+f-m
+u-f-m
+%f
+%m
+%u
+Radcliffe
+38
+7
+13
+58
+31
+-32
+66%
+12%
+22%
+Lewis
+3
+6
+4
+13
+-3
+-5
+23%
+46%
+31%
+Walpole
+3
+4
+5
+12
+-1
+-2
+25%
+33%
+42%
+Reeve
+1
+1
+4
+6
+0
+2
+17%
+17%
+67%
+Charlotte Smith
+4
+0
+1
+5
+4
+-3
+80%
+0%
+20%
+
+</Text>
         </Document>
         <Document ID="41">
             <Title>email reply</Title>
@@ -880,12 +937,11 @@ Algorithmic criticism undoubtedly requires a revolution of sorts, but that revol
         </Document>
         <Document ID="147">
             <Title>women's Gothic</Title>
-            <Text>Frank also, at last, points us toward a women’s Gothic.
-terror (171) 85f 52m 34u			50%f
-Radcliffean (54) 35f 7m 12u		65%f
-sentimental (66) 51f 5m 10u		77%f
-Interestingly suggests that 18thC critics weren’t entirely wrong when they panicked about women writing sentimental novels
-This didn’t show up in Tracy because it doesn’t operate by identifiable motif (though it also doesn’t contradict Tracy)</Text>
+            <Text>[In Frank’s model of the Gothic, it is the women’s Gothic which is most immediately visible.] [Three of the most popular tags are even more female-dominated than his woman-heavy sample would lead us to expect.] [43% of Frank’s corpus is written by women, but those 43% are responsible for 50% of the “terror” works, 65% of the “Radcliffean” works, and a striking 77% of the “sentimental.”] [Interestingly suggests that 18thC critics weren’t entirely wrong when they panicked about women writing sentimental novels] [Something about trusting Frank’s assessments??? Like maybe he thinks they’re sentimental bc he knows they’re by women???] [This women’s Gothic also does appear to be a “school of Radcliffe”.] [Frank is very interested in tracing the sources of various works, and identifies by name another author as a model or influence for 114 works (23%)]. [Of those 114 works, 58 have Radcliffe as their precedent (51% of works with a named source)] [After Radcliffe comes Lewis, with 13 imitators, then Walpole (12), Clara Reeve (6), and Charlotte Smith (5). [Radcliffe’s followers are disproportionately women (38 of the 58, 66%), and Lewis’s are disproportionately men (6 of the 13, 46% — well above the 31% male baseline in the corpus)] [This didn’t show up in Tracy because it doesn’t operate by identifiable motif (though it also doesn’t contradict Tracy)]</Text>
+        </Document>
+        <Document ID="151">
+            <Title>this CRIES OUT for correlation</Title>
+            <Text>[Obviously we need to correlate now] [It’s been a persistent problem/question whether Frank’s Gothic types were responding to actually gendered usage or imposing gendered interpretations] [With polemical vs didactic, for example, the tone difference is a subjective interpretation which could easily be influenced by his knowledge of the author’s gender] [But Tracy’s boolean motifs — although they may be prone to false negatives, and are certainly lacking/vague in interpretive detail — are at least safe from false positives] [We can evaluate the potentailly-gendered basis of Frank’s type assessments by considering the motifs associated with each tag] [Because, as we saw earlier, Tracy’s motifs only render certain kinds of literary features visible, we are now doubly prone to false negatives] [But we can still hope for some true positives]</Text>
         </Document>
         <Document ID="43">
             <Title>reasonable to think authoresses are different</Title>
@@ -921,6 +977,10 @@ cite Leah Price</Comments>
         </Document>
         <Document ID="105">
             <Title>what if I tried to correct Trady &amp; Frank statistically, based on Garside?</Title>
+        </Document>
+        <Document ID="149">
+            <Title>mainstream Gothic</Title>
+            <Text>[Frank’s mainstream is a little more female than Tracy’s.] [The two most prevalent tags are “Gothic” (83% of all works) and “pure/high” (39%), both of which have men women and unknown at almost perfectly their baselines] [But the third most prevalent tag is “terror” (34% of works), which is 50% female, a bit above the female baseline.] [The next two tags in prominence highlight Frank’s [embrace of multiplicity?]: “mode” (27%) and “elements” (27%), which generally appear as qualifiers for his other assessments, as in “terror mode” or “sentimental elements”.] [A lot of the tags have to do with Frank offering qualifications of some kind (mode, effects, Gothified, imitation).] [The Gothic is not monolithic; things mostly come from other places/ are interconnected] [Nothing for Frank is just one genre.] [Horror and terror, for example, are far from mutually exclusive] [Of the 56 “horror” works, 26 are also tagged “terror” (41%). [These 26 are 50% by men, making the horror-terror mode more predictive of male authorship than horror alone]] [Of the remaining 27 works which are purely horror, no terror, there are by by women, 9 by men, and 9 unknown — not a men’s horror Gothic at all.] [This is the reverse of Tracy — Tracy showed a male horror and equal-opportunity terror mainstream; Frank shows equal-opportunity horror, and female terror] [Between the two, the only part that’s consistent is that terror vastly outnumbers horror.] [There are gendered currents, but none of them are striking enough to start making predictions about the many unsigned works.]</Text>
         </Document>
         <Document ID="46">
             <Title>good stuff on critical frameworks</Title>
@@ -1240,7 +1300,7 @@ In Hughes's output it is possible to trace an accelerating movement, sometimes i
         </Document>
         <Document ID="63">
             <Title>my model of Frank</Title>
-            <Text>Adapting Frank’s model for my own, then, required working somewhat against the grain of his assumptions. However, I have avoided simply assigning each text one simple genre. Instead, I have sought to separate out each strand of influence within his complex “Gothic types”  by dividing each “type” into a set of tags, and tallied the uses of each tag. This process generated 216 unique tags, most of which only applied to one or two works. [My model [imposes a slightly more systematic ontology, treating each “tag” as informative on its own [regarding the horizon of critical expectations]] [but still preserves the possibility for things to overlap].] [I ask whether the association of this tag with a work constitutes meaningful information regarding the probable gender of that work’s author] [Because Frank’s classifications are subjective assessments, an answer of “yes” to this question does not necessarily indicate that [women really did write in different modes], but instead means that the critical identification of this generic element is responding to authorial gender.] [Perhaps for that reason, Frank’s Gothic types do not point toward a clear men’s Gothic tradition, but do show a women’s Gothic.]</Text>
+            <Text>Adapting Frank’s model for my own, then, required working somewhat against the grain of his assumptions. However, I have avoided simply assigning each text one simple genre. Instead, I have sought to separate out each strand of influence within his complex “Gothic types”  by dividing each “type” into a set of tags, and tallied the uses of each tag. This process generated 216 unique tags, most of which only applied to one or two works. [My model [imposes a slightly more systematic ontology, treating each “tag” as informative on its own [regarding the horizon of critical expectations]] [but still preserves the possibility for things to overlap].] [I ask whether the association of this tag with a work constitutes meaningful information regarding the probable gender of that work’s author] [Because Frank’s classifications are subjective assessments, an answer of “yes” to this question does not necessarily indicate that [women really did write in different modes], but instead means that the critical identification of this generic element is responding to authorial gender.] [Transition sentence: maybe that he shows a strong female gothic  but a more elusive male one?]</Text>
             <Comments>First, Frank’s phrases were split so that each word became one tag. Radcliffe’s The Italian, listed as “Pure or high Gothic (terror and horror modes)” becomes “Pure”, “or”, “high”, “Gothic”, “terror”, “horror”, and “modes.” Then, irrelevant words were deleted, and synonymous ones combined. Frank always uses the phrase “Pure or high”, for example, so those were merged into “Pure;high”. </Comments>
         </Document>
         <Document ID="64">
