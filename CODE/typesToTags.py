@@ -2,6 +2,9 @@
 # it creates a column for each word that appears in the Gothic Type column
 # and for each row tallies the words that appear in that row's Gothic Type
 
+# also if it seems like this program isn't working, make sure you're opening the
+# csv in a program that allows more than 255 columns. Numbers, for example,
+# is not one of those programs.
 
 # import libraries
 import csv
@@ -9,8 +12,8 @@ import csv
 # stuff to hold things in
 allwordsdict = dict()    # using dicts first to collect unique types and words
 alltypesdict = dict()    # then they get made into lists later
-infileName = "testGothicTypes.csv"
-outfileName = "testGothicTags.csv"
+infileName = "gothicTypes.csv"
+outfileName = "gothicTags.csv"
 
 # find all the unique types and tags and put them in dicts
 with open(infileName, 'rb') as f:
@@ -35,21 +38,19 @@ numtypes = len(alltypes)
 allwords = list(allwordsdict.keys())
 numwords = len(allwords)
 
-allwords.append("LASTWORD")    # these can be useful for checking things
-alltypes.append("LASTTYPE")    # if everything is broken
-numtypes = len(alltypes)
-numwords = len(allwords)
+#allwords.append("LASTWORD")    # these can be useful for checking things
+#alltypes.append("LASTTYPE")    # if everything is broken
+#numtypes = len(alltypes)
+#numwords = len(allwords)
 
 # give some feedback so we know the program is running
-print alltypes
+#print alltypes
 print "types found:"
 print numtypes
 
-print allwords
+#print allwords
 print "words found:"
 print  numwords 
-
-# everything is fine up to this point
 
 # make the output file with columns for gender, Frank, and each tag
 with open(outfileName, 'wb') as f:
