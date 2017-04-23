@@ -37,13 +37,13 @@ polemical (6) : 1f 5m 0u,		 4 more m than f 83%m
 THEMONK (13) : 3f 6m 4u, only	 4 more m than f 46%m
 source (17): 3f 6m 8u, 			 3 more m than f
 
-prototypical
-history
+prototypical (12) 4f 7m 1u 58%m
 
+history (78) 35f 31m 12u 40%m
 
 ####"thinky 5"
 
-polemical:
+polemical
 philosophical (6) 2f 4m 0u
 political (4) 1f 2m 1u
 didactic/moralized (12) 6f 6m 0u
@@ -52,6 +52,13 @@ radical/revolutionary (3) 1f 2m 0u
 all 5 combined: (22) 9f 12m 1u 3 more m than f
 
 moralized (1) 1f
+
+####"thinky 4"
+polemical     (6) 1f 5m 0u
+philosophical (6) 2f 4m 0u
+political     (4) 1f 2m 1u
+radical/rev   (3) 1f 2m 0u
+all 4 total: (19) 5f 13m 1u  68%m
 
 ---
 
