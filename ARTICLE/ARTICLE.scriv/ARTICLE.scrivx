@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-23 13:32:06 -0400" ModID="26F74B2F-F8E1-43A0-9FD2-B88ED2F5F5D9">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-04-26 21:32:06 -0400" ModID="973962A0-431F-42F6-BA58-0EF14140BECA">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -366,6 +366,19 @@
                             <TextSettings>
                                 <TextSelection>179,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="162" UUID="F2B0B977-7A8D-4E7C-B9F9-E0E256BFA74E" Type="Text" Created="2017-04-26 21:30:55 -0400" Modified="2017-04-26 21:31:07 -0400">
+                                    <Title>Rousseau calls Heloise Gothic!!!!!!</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem ID="72" UUID="A4B7FBEA-6A8A-4FF2-BD61-D5C93312E7F8" Type="Text" Created="2017-04-18 22:42:40 -0400" Modified="2017-04-23 13:32:06 -0400">
                             <Title>the teleological model</Title>
@@ -1047,7 +1060,8 @@
                             </Children>
                         </BinderItem>
                         <BinderItem ID="107" UUID="51EAD3C4-4D30-4FBB-8C01-2854583AAB7C" Type="Text" Created="2017-04-22 01:10:29 -0400" Modified="2017-04-22 03:30:40 -0400">
-                            <Title>1987 James Raven, British Fiction 1750-1770 A Chronological Check-List of Prose Fiction Printed in Britain and IrelandJAMES RAVEN, British Fiction 1750-1770 A Chronological Check-List of Prose Fiction Printed in Britain and Ireland. University of Delaware Press, Newark, 1987. 349 pp. £27.50. ISBN 087413 3246.</Title>
+                            <Title>1987 James Raven, British Fiction 1750-1770 A Chronological Check-List of Prose Fiction Printed in Britain and Ireland
+JAMES RAVEN, British Fiction 1750-1770 A Chronological Check-List of Prose Fiction Printed in Britain and Ireland. University of Delaware Press, Newark, 1987. 349 pp. £27.50. ISBN 087413 3246.</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -1544,7 +1558,7 @@
     </Collections>
     <LabelSettings>
         <Title>Label</Title>
-        <DefaultLabelID>2</DefaultLabelID>
+        <DefaultLabelID>1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
             <Label ID="1" Color="1.0 0.348023 0.657259">to do</Label>
@@ -1574,8 +1588,8 @@
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-04-22 02:21:51 -0400" IgnoreDeadline="No">6475</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">2156</SessionTarget>
-        <PreviousSession Words="2395" Characters="14846" Date="2017-04-22 01:03:58 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">6475</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2017-04-26 21:30:43 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
