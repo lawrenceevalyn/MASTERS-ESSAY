@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-05-02 17:45:11 -0400" ModID="6BD7C1E5-F9E2-48EE-BA31-785B4190B94C">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-05-03 16:13:08 -0400" ModID="21518F04-678C-42A3-A6C7-05FFFE6CEE96">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -231,7 +231,7 @@
                                 <TextSelection>274,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="63" UUID="48081C84-3DF6-4E16-AF38-D5C451883144" Type="Text" Created="2017-04-18 21:10:11 -0400" Modified="2017-05-02 16:59:23 -0400">
+                        <BinderItem ID="63" UUID="48081C84-3DF6-4E16-AF38-D5C451883144" Type="Text" Created="2017-04-18 21:10:11 -0400" Modified="2017-05-03 16:10:19 -0400">
                             <Title>my model of Frank</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -239,10 +239,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>454,0</TextSelection>
+                                <TextSelection>558,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="147" UUID="2D555000-FFF3-43D6-9B2B-4D4AA8074E07" Type="Text" Created="2017-04-23 04:00:15 -0400" Modified="2017-05-02 17:38:13 -0400">
+                        <BinderItem ID="147" UUID="2D555000-FFF3-43D6-9B2B-4D4AA8074E07" Type="Text" Created="2017-04-23 04:00:15 -0400" Modified="2017-05-03 16:13:07 -0400">
                             <Title>women's Gothic</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -250,23 +250,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>839,0</TextSelection>
+                                <TextSelection>1802,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem ID="164" UUID="F3153697-29D8-46C1-803D-A042A87EEF1D" Type="Text" Created="2017-05-02 17:38:06 -0400" Modified="2017-05-02 17:38:24 -0400">
-                                    <Title>refs</Title>
-                                    <MetaData>
-                                        <LabelID>1</LabelID>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1100,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
-                        <BinderItem ID="145" UUID="06E283A7-AFB0-4D78-A9DE-B880F9130A70" Type="Text" Created="2017-04-23 03:25:34 -0400" Modified="2017-05-02 17:18:02 -0400">
+                        <BinderItem ID="145" UUID="06E283A7-AFB0-4D78-A9DE-B880F9130A70" Type="Text" Created="2017-04-23 03:25:34 -0400" Modified="2017-05-03 16:13:07 -0400">
                             <Title>men's Gothic</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -277,7 +264,7 @@
                                 <TextSelection>1612,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="149" UUID="9C454DD4-DAA0-4516-A367-4CD8B226CC1F" Type="Text" Created="2017-04-23 04:14:13 -0400" Modified="2017-04-23 07:59:09 -0400">
+                        <BinderItem ID="149" UUID="9C454DD4-DAA0-4516-A367-4CD8B226CC1F" Type="Text" Created="2017-04-23 04:14:13 -0400" Modified="2017-05-03 16:12:02 -0400">
                             <Title>mainstream Gothic</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -285,7 +272,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>771,0</TextSelection>
+                                <TextSelection>939,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -358,7 +345,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="70" UUID="564A135F-BABA-447F-B24C-27D43D334ADE" Type="Text" Created="2017-04-18 22:20:19 -0400" Modified="2017-05-02 17:18:02 -0400">
+                        <BinderItem ID="70" UUID="564A135F-BABA-447F-B24C-27D43D334ADE" Type="Text" Created="2017-04-18 22:20:19 -0400" Modified="2017-05-03 16:13:07 -0400">
                             <Title>sentiment explains Simple Story</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -369,7 +356,7 @@
                                 <TextSelection>52,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="71" UUID="1D8368DE-A84C-4A00-AD4E-B56FA8FE3C82" Type="Text" Created="2017-04-18 22:33:18 -0400" Modified="2017-05-02 17:18:02 -0400">
+                        <BinderItem ID="71" UUID="1D8368DE-A84C-4A00-AD4E-B56FA8FE3C82" Type="Text" Created="2017-04-18 22:33:18 -0400" Modified="2017-05-03 16:13:07 -0400">
                             <Title>Baker: sentimental -&gt; Gothic</Title>
                             <MetaData>
                                 <LabelID>3</LabelID>
@@ -393,7 +380,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="72" UUID="A4B7FBEA-6A8A-4FF2-BD61-D5C93312E7F8" Type="Text" Created="2017-04-18 22:42:40 -0400" Modified="2017-05-02 17:18:02 -0400">
+                        <BinderItem ID="72" UUID="A4B7FBEA-6A8A-4FF2-BD61-D5C93312E7F8" Type="Text" Created="2017-04-18 22:42:40 -0400" Modified="2017-05-03 16:13:07 -0400">
                             <Title>the teleological model</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -404,7 +391,7 @@
                                 <TextSelection>695,306</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="74" UUID="6861B6FB-37E0-407B-9BFE-B0843595F72F" Type="Text" Created="2017-04-18 22:54:07 -0400" Modified="2017-05-02 17:18:02 -0400">
+                        <BinderItem ID="74" UUID="6861B6FB-37E0-407B-9BFE-B0843595F72F" Type="Text" Created="2017-04-18 22:54:07 -0400" Modified="2017-05-03 16:13:07 -0400">
                             <Title>reject teleology, keep emotion</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -447,6 +434,28 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem ID="165" UUID="0B197FFE-72D6-43C9-BD51-828AAA9A0BE5" Type="Text" Created="2017-05-03 16:00:30 -0400" Modified="2017-05-03 16:02:50 -0400">
+                    <Title>Radcliffe's Gothic</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>872,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="164" UUID="F3153697-29D8-46C1-803D-A042A87EEF1D" Type="Text" Created="2017-05-02 17:38:06 -0400" Modified="2017-05-03 16:00:55 -0400">
+                    <Title>refs for men and women sameness</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>627,219</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="160" UUID="12881006-B8B1-4ACF-BAA3-6D54BBB1159D" Type="Text" Created="2017-04-23 12:57:00 -0400" Modified="2017-04-23 13:03:45 -0400">
                     <Title>Figures Needed</Title>
                     <MetaData>
@@ -1181,7 +1190,7 @@ JAMES RAVEN, British Fiction 1750-1770 A Chronological Check-List of Prose Ficti
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>10520,0</TextSelection>
+                                        <TextSelection>10443,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="138" UUID="C0FB3FC5-C2BC-4A72-A04C-5793AF0E29FA" Type="Text" Created="2017-04-22 06:21:13 -0400" Modified="2017-04-22 06:38:42 -0400">
@@ -1612,8 +1621,8 @@ JAMES RAVEN, British Fiction 1750-1770 A Chronological Check-List of Prose Ficti
     </ProjectProperties>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-04-22 02:21:51 -0400" IgnoreDeadline="No">6475</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">6475</SessionTarget>
-        <PreviousSession Words="397" Characters="2483" Date="2017-05-02 17:44:48 -0400"></PreviousSession>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="185" Characters="1143" Date="2017-05-03 15:49:28 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
