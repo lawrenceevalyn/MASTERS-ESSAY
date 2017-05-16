@@ -1,6 +1,6 @@
 # this is a function that takes in gothicTypes.csv and outputs gothicTags.csv
 # it creates a column for each word that appears in the Gothic Type column
-# and for each row tallies the words that appear in that row's Gothic Type
+# and for each book/row tallies the words that appear in that book's Gothic Type
 
 # also if it seems like this program isn't working, make sure you're opening the
 # csv in a program that allows more than 255 columns. Numbers, for example,
@@ -40,8 +40,7 @@ numwords = len(allwords)
 
 #allwords.append("LASTWORD")    # these can be useful for checking things
 #alltypes.append("LASTTYPE")    # if everything is broken
-#numtypes = len(alltypes)
-#numwords = len(allwords)
+
 
 # give some feedback so we know the program is running
 #print alltypes
