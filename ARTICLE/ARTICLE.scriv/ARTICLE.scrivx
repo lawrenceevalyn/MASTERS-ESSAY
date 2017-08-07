@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="Lawrences-MacBook-Pro" Modified="2017-08-02 18:35:50 -0400" ModID="47863697-05CC-4972-AEF6-9871351580C3">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8.1.2-26324" Device="The-Enterprise" Modified="2017-08-07 03:09:04 -0400" ModID="D968E946-E5D0-44E6-B967-1A938FB31322">
     <Binder>
         <BinderItem ID="0" UUID="DDF8AC31-4A85-4C8C-AE97-38C38E121C00" Type="DraftFolder" Created="2017-04-11 19:14:02 -0400" Modified="2017-04-11 19:14:02 -0400">
             <Title>Draft</Title>
@@ -356,7 +356,7 @@
                                 <TextSelection>52,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="71" UUID="1D8368DE-A84C-4A00-AD4E-B56FA8FE3C82" Type="Text" Created="2017-04-18 22:33:18 -0400" Modified="2017-05-10 00:39:59 -0400">
+                        <BinderItem ID="71" UUID="1D8368DE-A84C-4A00-AD4E-B56FA8FE3C82" Type="Text" Created="2017-04-18 22:33:18 -0400" Modified="2017-08-05 02:53:36 -0400">
                             <Title>Baker: sentimental -&gt; Gothic</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -364,10 +364,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2050,0</TextSelection>
+                                <TextSelection>44,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="72" UUID="A4B7FBEA-6A8A-4FF2-BD61-D5C93312E7F8" Type="Text" Created="2017-04-18 22:42:40 -0400" Modified="2017-05-10 00:39:59 -0400">
+                        <BinderItem ID="72" UUID="A4B7FBEA-6A8A-4FF2-BD61-D5C93312E7F8" Type="Text" Created="2017-04-18 22:42:40 -0400" Modified="2017-08-05 03:00:20 -0400">
                             <Title>the teleological model</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -375,7 +375,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>906,0</TextSelection>
+                                <TextSelection>1609,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="74" UUID="6861B6FB-37E0-407B-9BFE-B0843595F72F" Type="Text" Created="2017-04-18 22:54:07 -0400" Modified="2017-05-10 00:39:59 -0400">
@@ -389,37 +389,15 @@
                                 <TextSelection>920,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="169" UUID="9C00513D-B296-43F8-AD1C-29ED4DE0F7DA" Type="Text" Created="2017-05-10 00:19:10 -0400" Modified="2017-05-10 00:39:59 -0400">
-                            <Title>gothic &amp; sentimental judged similarly</Title>
+                        <BinderItem ID="169" UUID="9C00513D-B296-43F8-AD1C-29ED4DE0F7DA" Type="Text" Created="2017-05-10 00:19:10 -0400" Modified="2017-08-07 03:00:33 -0400">
+                            <Title>use sentimental scholarship on gothic</Title>
                             <MetaData>
                                 <LabelID>1</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>28,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="163" UUID="910B1526-58A1-4481-862B-4FB2C3D871D7" Type="Text" Created="2017-04-26 21:33:22 -0400" Modified="2017-05-10 00:38:44 -0400">
-                            <Title>why gothic = sentimental matters</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>500,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="170" UUID="3ED5414D-0182-40C7-987A-266421D157CE" Type="Text" Created="2017-08-02 18:33:14 -0400" Modified="2017-08-02 18:35:07 -0400">
-                            <Title>gothic = radicalized sentimentality??</Title>
-                            <MetaData>
-                                <LabelID>1</LabelID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>574,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="75" UUID="D9315F3F-A8D0-4539-AD95-4ABB421E16D2" Type="Text" Created="2017-04-18 23:02:34 -0400" Modified="2017-08-02 18:33:06 -0400">
@@ -432,6 +410,19 @@
                             <TextSettings>
                                 <TextSelection>56,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem ID="163" UUID="910B1526-58A1-4481-862B-4FB2C3D871D7" Type="Text" Created="2017-04-26 21:33:22 -0400" Modified="2017-05-10 00:38:44 -0400">
+                                    <Title>why gothic = sentimental matters</Title>
+                                    <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>500,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -454,6 +445,39 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem ID="172" UUID="BD2376BB-720B-480B-818E-3F3BE3195BF2" Type="Text" Created="2017-08-06 01:39:35 -0400" Modified="2017-08-06 01:39:47 -0400">
+                            <Title>Wetmore sentimental -&gt; Gothics</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>770,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="171" UUID="D7058498-C86A-4354-AA0A-C917EDAD814B" Type="Text" Created="2017-08-05 02:56:11 -0400" Modified="2017-08-05 02:56:22 -0400">
+                            <Title>kidnap a second article on sentimental lit</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="170" UUID="3ED5414D-0182-40C7-987A-266421D157CE" Type="Text" Created="2017-08-02 18:33:14 -0400" Modified="2017-08-05 02:46:18 -0400">
+                            <Title>gothic = radicalized sentimentality??</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>388,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem ID="166" UUID="86984873-C772-4041-BDD0-8DD0E52A698C" Type="Text" Created="2017-05-08 16:24:29 -0400" Modified="2017-05-08 17:00:50 -0400">
                             <Title>men's sentimental novels</Title>
                             <MetaData>
@@ -1678,7 +1702,7 @@ JAMES RAVEN, British Fiction 1750-1770 A Chronological Check-List of Prose Ficti
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2017-04-22 02:21:51 -0400" IgnoreDeadline="No">6475</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="NextDay" DeterminedFromDeadline="Yes" WritingDays="1-3, 5-7" CanWriteOnDeadlineDate="No">6475</SessionTarget>
-        <PreviousSession Words="60" Characters="375" Date="2017-08-02 18:22:03 -0400"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2017-08-07 02:45:16 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
