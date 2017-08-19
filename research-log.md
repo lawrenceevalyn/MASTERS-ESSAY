@@ -1,4 +1,8 @@
-﻿## 14 April 2017
+﻿## 7 August 2017
+
+Fairly frustrated/disappointed to still be noodling away at this, but now that it's all purple except for the conclusion, I have enough groundwork to get this out the door to someone else for feedback soon.
+
+## 14 April 2017
 
 Definitely determined that Tableau is NOT going to be he fastest way to remake my charts in grayscale for publication, or indeed the best way to make and compare 96 charts of any kind. It REALLY feels like Tableau ought to be able to make a whole bunch of little pie charts all next to each other in one chart, or at least a whole bunch of little bar graphs, but it wants to correlate everything on one sheet with everything else on that sheet, and it doesn't have a good way to implement a consistent scale reference for everything on one dashboard. So, I'll use Excel or Numbers to remake just the charts I want to use in my article, and turn to Tableau another time to try to make large-scale very dense charts (which seem to be its best use).
 
