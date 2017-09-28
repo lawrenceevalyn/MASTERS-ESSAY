@@ -125,7 +125,7 @@ Having explored one bibliographic model in depth, we now have a point of compari
 
 ## my model of Frank ##
 
-Adapting Frank’s model for my own, then, required working somewhat against the grain of his assumptions. However, I have avoided simply assigning each text one simple genre. Instead, I have separated out each strand of influence within his complex “Gothic types”  by dividing each “type” into a set of tags, and tallied the uses of each tag.[^cf25] This process generated 190 unique tags, most of which only applied to one or two works. By rendering the tags individually listable, my model imposes a more systematic ontology than Frank’s. However, because each work is “tagged” numerous times, my model retains the details of each work’s often-idiosyncratic combinations of influences. My approach treats each “tag” as an independent object of inquiry, informative on its own regarding one small facet of a work’s participation in its generic context. I ask whether the association of a given tag with a work constitutes meaningful information regarding the probable gender of that work’s author. Because Frank’s classifications are subjective assessments, an answer of “yes” to this question could have two meanings. When we find, for example, that the “sentimental” tag predicts female authorship, this could indicate either that women really did write more sentimental novels, or that certain common features of the Gothic are more likely to be called sentimental when women write them. Correlating genre tags with less ambiguous features of the work — such as the inclusion of particular motifs — will, later, allow us to examine to what extent Frank is responding to differences in authorial usage. But regardless of their basis, Frank’s assessments are informative about the horizon of critical expectations. Frank’s model of the multiplicity of Gothic subgenres, in the reverse of Tracy, shows an identifiable women’s Gothic, whereas the men’s Gothic is elusive.
+Adapting Frank’s model for my own, then, required working somewhat against the grain of his assumptions. However, I have avoided simply assigning each text one simple genre. Instead, I have separated out each strand of influence within his complex “Gothic types”  by dividing each “type” into a set of tags, and tallied the uses of each tag.[^cf25] This process generated 190 unique tags, most of which only applied to one or two works. By rendering the tags individually listable, my model imposes a more systematic ontology than Frank’s. However, because each work is “tagged” numerous times, my model retains the details of each work’s often-idiosyncratic combinations of influences. My approach treats each “tag” as an independent object of inquiry, informative on its own regarding one small facet of a work’s participation in its generic context. I ask whether the association of a given tag with a work constitutes meaningful information regarding the probable gender of that work’s author. Because Frank’s classifications are subjective assessments, an answer of “yes” to this question could have two meanings. When we find, for example, that the “sentimental” tag predicts female authorship, this could indicate either that women really did write more sentimental novels, or that certain common features of the Gothic are more likely to be called sentimental when women write them. Correlating genre tags with less ambiguous features of the work — such as the inclusion of particular motifs — will, later, allow us to examine to what extent Frank is responding to differences in authorial usage. But regardless of their basis, Frank’s assessments are informative about the horizon of critical expectations.[ from HBBO: "More detail coming in my email, but: I think you need to sell this harder, since you later hang so much on the women's-Gothic and mainstream-Gothic connection to sentimental novels. The Cranky Reader inquires, querulously, removing their pince-nez: why is it reasonable to draw conclusions from a data set drawn from Frank's descriptions, even if Frank's descriptions are subjective and idiosyncratic? Again: I think the bones of this are here, but could stand to be strengthened/clarified.”] Frank’s model of the multiplicity of Gothic subgenres, in the reverse of Tracy, shows an identifiable women’s Gothic, whereas the men’s Gothic is elusive.
 
 ## women's Gothic ##
 
@@ -155,45 +155,9 @@ The “terror” tag, as expected, is less strongly defined by its motifs. Sever
 
 ## motifs: seduced by scenery ##
 
-[This correlation, essentially, confirms that our rough guess was right re: Tracy’s motifs, that the men’s Gothic might operate via striking images but the women’s Gothic less so.] [It also suggests that, when we are seduced by the scenery of the Gothic, we end up paying attention to only a minor thread within it (men’s horror) at the expense of non-motif-ifiable features which better define the mainstream.] [Frank’s more subjective model [takes more work to render graspable / provides fewer things to count that feel obviously countable] but it ultimately reveals the women’s Gothic in the sentimental.]
+[This correlation, essentially, confirms that our rough guess was right re: Tracy’s motifs, that the men’s Gothic might operate via striking images but the women’s Gothic less so.] [It also suggests that, when we are seduced by the scenery of the Gothic, we end up paying attention to only a minor thread within it (men’s horror) at the expense of non-motif-ifiable features which better define the mainstream.[ this is an actually good point (HBBO singled it out), and one what I think is my main argument? — structurally emphasize this more?]] [Frank’s more subjective model [takes more work to render graspable / provides fewer things to count that feel obviously countable] but it ultimately reveals the women’s Gothic in the sentimental.[ HBBO: “Once you beef up this women's gothic/sentimental connection above, I would also strengthen the sell here—loop back to specific hooks in that argument, so that the Cranky Reader remembers how thoroughly they were convinced at the time.”]]
 
-# Sentimental geneaology #
-
-## sentiment explains Simple Story ##
-
-[Many scholars have been directing new attention toward the sentimental, none of which I knew anything about at the time of these experiments; I was surprised and confused by my findings, and thus offer them, paltry as they are, as an invigorating independent confirmation of e.g. Alex Wetmore]
-
-The picture which Frank’s model paints, of a women’s Gothic equally as tied to the sentimental novel as to the high Gothic, [points toward a new understanding of the Gothic’s geneaology generally.] [This new sentimental geneaology makes some things about the Gothic more clear.] [A full acknowledgement of the Gothic’s sentimental ties can explain, for example, the comparison of Udolpho to Elizabeth Inchbald’s A Simple Story which so puzzles Clara McIntyre in Ann Radcliffe in Relation To Her Time.] In response to a review which declared Udolpho to be “the best composition of this kind since Mrs. Inchbald’s Simple Story,” McIntyre is taken aback by the expression “of this kind”.[^cf28] She says, “The reviewer must surey be thinking of fiction in general, for, except that they are both fiction, two compositions could hardly be more unlike than The Mysteries of Udolpho and A Simple Story.”[^cf29] McIntyre draws a tentative connection based on “the ethical purpose of the book,” which in Inchbald is “rather too obvious for successful art,” but decides that although Radcliffe’s writing, “it is true, was strictly moral,” Radcliffe’s “main interest” does not lie in moralizing.[^cf30] McIntyre has thus identified what I argue is the key connection between the two works, but overlooks its significance: moral sentiment, and its connection to the emotional experience of the reader, is the throughline which connects the Gothic deeply to its non-Gothic literary context, and to the broader intellectual debates at the end of the Englightenment.
-
-## Baker: sentimental -> Gothic ##
-
-I thus [return to / find evidence supporting] an older school of criticism, which saw French sentimental novels — rather than German horror stories — as the forbears of the Gothic. [Rousseau actually calls Héloïse “Gothic”!] Ernest Baker, for example, tells this kind of history in his 1929 work The History of the English Novel: Volume V, The Novel of Sentiment and the Gothic Romance:
-The sources of Gothic romance… are to be sought in the popular variant of the fiction of sensibility evolved by the Abbé Prévost and elaborated later on by Baculard d’Arnaud. The exciting adventures, the violent emotions, the gloomy scenes, forests, and antres[ Antres??? is this right?????? Lawrence Evalyn, 2017-04-18, 10:36 PM], castles, dungeons, and graveyards, in the abbés novels and the plays and stories of Baculard, were to be the distinctive features of Gothic romance through its course. It was all derivative of the cult of emotion…[^cf31]
-In this history of the Gothic, German influences are superficial set-dressing rather than inherent to the genre:
-Some novelists sought only to conjure up a witching atmosphere of awe and vague apprehension; others employed the most violent shocks of physical anguish and fear. They all dabbled in the supernatural, either playing upon or playing with feelings of superstition; and, later on, those who had become acquainted with German folk-lore and its ghosts and elves and goblins found their account in satiating the greediest appettites for crime, diabolism, and nameless horrors[.][^cf32]
-The Gothic is well-established before the first hints of “German folk-lore”, which only arrives “later on” and only in the works of “those who had become acquainted” with it. Even the supernatural is relevant primarily because it allows authors to manipulate readers’ “feelings of superstition” in service of the central emotional experience of fear. Baker’s historical model is not sensitive to the features of the Gothic which now draw attention — he does not make his distinctions based on politics or aesthetics or gender — instead, he defines the Gothic by its emotional manipulations.
-
-## the teleological model ##
-
-Emotional response is salient as a distinguishing factor for Baker because he, like many of his contemporaries, writes from the teleological assumption that the history of the novel must be the history of the realist novel. Baker’s approach to the Gothic is not as obviously mediated through editorial intervention as Tracy’s or Frank’s bibliographies; as we would expect, Baker makes no explicitly deformative moves, but proceeds by discussing his various selected texts in their entirety. Nonetheless, he writes on the basis of a model of the genre’s history and its salient features. The assumptions of his model, however, remain implicit in the moralizing judgments throughout his work. Baker’s excoriation of “that amoral person [Laurence] Sterne” for being a “debauched sentimentalist” who “fondled his sensibility,” “aware of his vice, and voluptuously enjoying all its sweetness,”[^cf33] for example, evaluates Tristram Shandy along markedly different lines than would now be considered fruitful. J.M.S. Tompkins, too, dismisses the Gothic on the basis of [teleologically realist] assumptions: with the rise of the Gothic, she says, “the average novelist paid, on the whole, very little attention to the probability, and the novel in consequence slipped farther away from reality, as though a window on to the other world had been changed to a magic lantern.”[^cf34] The “magic lantern” of the Gothic is often discussed in positive terms, but [when Tompkins places “reality” as the central point from which one moves “away,” to “slip” is to make negative progress, and the enchanting lantern is rendered dangerous.] Both Baker and Tompkins model the novel itsels as a training-ground for the mind, through which habits of thought are established, and which therefore ought to inculcate the “right” mode of thought. Accordingly, both model the Gothic as a dangerously emotional and disordered mode of thought, notable not for its plots or sets or even which emotions are induced, but defined entirely by the emotionally overpowering nature of the reading experience.
-
-## reject teleology, keep emotion ##
-
-I argue that there is, in fact, something in this model which remains fruitful: its understanding of the Gothic[’s history as continuous, rather than a break]. The teleologically realist model defines the Gothic as [a far point on the] spectrum of sentiment, sensation, and sensibility, all of which, Baker argues, are distinguised from each other only by “intensification,” and not in terms of fundamental type.[^cf35] Tompkins, too, argues for a history of continuity, saying that in the Gothic, “the accepted themes were repeated in a shallower tone and overlaid with all the romantic incidents of disguise, abduction, lost heirs and mistaken identity, which had been for hundreds of years the story-tellers stock in trade.”[^cf36]  [The “fantastic” elements[, like the motifs, are very exciting, but don’t actually define the genre]] We can reject their realist teleology without rejecting their sensitivity to emotional response.
-
-## use sentimental scholarship on gothic ##
-
-Doing so allows us to borrow scholarly writing on the sentimental for application to the Gothic. Alex Wetmore, for example, cogently theorizes the highly-fragmented texts which are equally represented in the Gothic as in the sentimental. His discussion of ‘corporeal defamiliarization’ argues that this literary fragmentation is part of a strategy to “foreground books as intimate things to be felt, whose literary value should be approached along physiological lines,”[^cf37] [which is totally what the Gothic does]. [Example of something cool this tells us about a Gothic novel.]
-
-## learned a valuable lesson about models ##
-
-[We have learned a valuable lesson about models today]. [The framework of modelling makes it possible to go ever farther back in our research past] [Surface reading and computational analysis can look like a break with the past] [But they don’t have to be!] [Continuities in the history of the Gothic; changes of quantity / use, not fundamental kind] [Continuities in the pattern of our research; changes of tools, not fundamental kind]
-
-### why gothic = sentimental matters ###
-
-The focus on the settings, theatrical machinery, etc of the Gothic tries to make the story distant from readers— but it was manifestly NOT distant; it was emotionally immediate, just like sentimental novels and novels of sensibility etc
-The emotional wildness doesn’t happen in a safely contained and remote fictive realm of irrationality: it’s not a removed place in which to ‘work out’ rebellion against repression — it is a space in which the reader exists as an embodied and connected participant.
-[The threat of sensibility remains active. [Other literature gets safer but Gothic gets extra-dangerous?]]
+# Frank-and-Tracy-based conclusion #
 
 [^cf1]: CITE Heather Love, Thin Description, p. 404
 
@@ -250,23 +214,3 @@ The emotional wildness doesn’t happen in a safely contained and remote fictive
 [^cf26]: cite ‘Male’ and ‘Female’ novels, p. 361
 
 [^cf27]: This evocative detail could either suggest that the Gothic’s roots are more masculine than its popular flourishing, or that critical attention is more likely to credit male authors with originating important literary forms. Twelve is a sufficiently tiny sample, however, that the tools at hand are too crude for further exploration regarding which explanation is more likely, or whether there is, in fact, a phenomenon requiring explanation here.
-
-[^cf28]: cite McIntyre 94
-
-[^cf29]: cite McIntyre 94
-
-[^cf30]: cite McIntyre - what page? 94??
-
-[^cf31]: cite Baker 175
-
-[^cf32]: cite Baket 176
-
-[^cf33]: cite Baker 95
-
-[^cf34]: cite Tompkins
-
-[^cf35]: cite Baker 120
-
-[^cf36]: cite Tompkins 57
-
-[^cf37]: cite Alex Wetmore ??
