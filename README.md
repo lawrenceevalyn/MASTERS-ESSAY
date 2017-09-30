@@ -2,8 +2,9 @@
 
 ## WRITE
 
-* polish "in progress" paragraphs
-* write missing bits on sentimental geneaology
+* slightly beef up conclusion now that the sentimental bits are gone
+* thoroughly polish marginal notes to send to Alex
+* send to Alex!!
 * make final form of all figures
     * make sparklines-style graphics of pie charts??
 
