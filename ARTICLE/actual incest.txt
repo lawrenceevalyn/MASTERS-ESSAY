@@ -1,0 +1,27 @@
+ incest novels
+
+F81  FATAL SECRETS, OR, ETHERLINDA DE SALMONI. A SICILIAN STORY   
+Gothic chapbook
+m	81	chapbook	Gothic		
+F89  ANCIENT RECORDS, OR, THE ABBEY OF SAINT OSWYTHE. A ROMANCE   
+Pure or high Gothic terror mode
+m	89	Gothic	Pure;high	mode	terror	
+
+
+F132 SANTA-MARIA, OR, THE MYSTERIOUS PREGNANCY. A ROMANCE   
+Pure or high Gothic horror mode
+m	132	Gothic	Pure;high	horror	mode	
+
+F244 THE MONK. A ROMANCE
+Pure or high Gothic horror terror and Schauerromantik modes monastic shocker
+m	244	Schauerromantik	Gothic	Pure;high	terror 	horror	modes	monastic	shocker		
+
+
+F329 THE THREE BROTHERS. A ROMANCE
+Pure or high Gothic elements of THEMONK monster story transformation motif
+m	329	elements Gothic	Pure;high	THEMONK	monster	motif	story	transformation	
+
+
+F334 ERNESTUS BERCHTOLD, OR, THE MODERN OEDIPUS. A TALE
+Natural Gothic horror uses incest motif
+m	334	Natural	Gothic	incest	horror	motif
